@@ -1,0 +1,332 @@
+[
+  {
+    "question": "Question 1 regarding Domain setup in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 2 regarding Range calculation in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Question 3 regarding Function type in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 4 regarding Matrix operation in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Question 5 regarding Determinant property in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 6 regarding Derivative rule in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Question 7 regarding Integral formula in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 8 regarding Limits and Continuity in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Question 9 regarding Differential order in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 10 regarding Vector dot product in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Question 11 regarding Vector cross product in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 12 regarding Equation roots in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Question 13 regarding Maxima/Minima condition in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 14 regarding Area bounded in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Question 15 regarding Integration by parts in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 16 regarding Trigonometric identity in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Question 17 regarding Inverse property in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 18 regarding Differential linearity in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Question 19 regarding Homogeneous check in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 20 regarding Particular solution boundary in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Question 21 regarding Chain rule in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 22 regarding Product rule in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Question 23 regarding Quotient rule in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 24 regarding L'Hopital's applicability in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Question 25 regarding Matrix inverse property in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 26 regarding Symmetric/Skew check in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Question 27 regarding Definite integral bounds in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 28 regarding Odd/Even function integral in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Question 29 regarding Graph intersection in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 30 regarding Parametric derivative in Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Easy"
+  }
+]

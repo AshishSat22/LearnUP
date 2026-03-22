@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="page-header">
+    <h1>📚 {{ subject|title }}</h1>
+    <a href="{{ url_for('index') }}" class="btn secondary">Back to Home</a>
+</div>
+
+<div class="layout-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 2rem;">
+
+    <!-- Video Chapters -->
+    <div class="blur-card p-4">
+        <h2 style="padding: 1rem; border-bottom: 1px solid var(--border-color)">🎬 Video Lectures</h2>
+        <div class="chapter-list p-2">
+            {% for chap in video_chapters %}
+            <a href="{{ url_for('videos_view', subject=subject, chapter=chap) }}" class="chapter-item blur-card animate-slide-up" style="animation-delay: {{ loop.index0 * 0.1 }}s">
+                <span class="chapter-title">{{ chap|replace('_', ' ')|title }}</span>
+                <span class="card-arrow">→</span>
+            </a>
+            {% else %}
+            <p style="padding: 1rem; color: var(--text-secondary)">No video chapters found.</p>
+            {% endfor %}
+        </div>
+    </div>
+
+
+
+    <!-- Quiz Chapters -->
+    <div class="blur-card p-4">
+        <h2 style="padding: 1rem; border-bottom: 1px solid var(--border-color)">🧠 MCQs / Quizzes</h2>
+        <div class="chapter-list p-2">
+            {% for chap in quiz_chapters %}
+            <a href="{{ url_for('quiz_view', subject=subject, chapter=chap) }}" class="chapter-item blur-card animate-slide-up" style="animation-delay: {{ loop.index0 * 0.1 }}s">
+                <span class="chapter-title">{{ chap|replace('_', ' ')|title }}</span>
+                <span class="card-arrow">→</span>
+            </a>
+            {% else %}
+            <p style="padding: 1rem; color: var(--text-secondary)">No quizzes found.</p>
+            {% endfor %}
+        </div>
+    </div>
+
+</div>
+{% endblock %}

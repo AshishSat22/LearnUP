@@ -1,0 +1,160 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="page-header">
+    <div>
+        <p class="subtitle"><a href="{{ url_for('subject_view', subject=subject) }}">{{ subject|title }}</a> / Questions</p>
+        <h1>{{ chapter|replace('_', ' ')|title }}</h1>
+    </div>
+    <div>
+        <button class="btn secondary bookmark-btn {% if bookmarked %}active{% endif %}" 
+                data-type="question" 
+                data-subject="{{ subject }}" 
+                data-chapter="{{ chapter }}" 
+                data-title="{{ chapter }}"
+                style="color: {% if bookmarked %}var(--accent){% else %}inherit{% endif %}">
+            {% if bookmarked %}🔖 Saved{% else %}🔖 Bookmark{% endif %}
+        </button>
+        <a href="{{ url_for('subject_view', subject=subject) }}" class="btn primary">Done</a>
+    </div>
+</div>
+
+<div class="blur-card content-block animate-slide-up" style="max-width: 800px; margin: 0 auto; padding: 2.5rem;">
+    {% if content is string %}
+        <!-- Fallback to old text format -->
+        {{ content }}
+    {% else %}
+        <!-- New Interactive JSON UI with Filters -->
+        
+        <div class="filters" style="display: flex; gap: 0.5rem; justify-content: center; margin-bottom: 2rem; flex-wrap: wrap;">
+            <button class="btn secondary filter-btn active" data-marks="all" style="padding: 0.5rem 1rem;">All</button>
+            <button class="btn secondary filter-btn" data-marks="1" style="padding: 0.5rem 1rem;">1 Mark</button>
+            <button class="btn secondary filter-btn" data-marks="2" style="padding: 0.5rem 1rem;">2 Marks</button>
+            <button class="btn secondary filter-btn" data-marks="3" style="padding: 0.5rem 1rem;">3 Marks</button>
+            <button class="btn secondary filter-btn" data-marks="5" style="padding: 0.5rem 1rem;">5 Marks</button>
+        </div>
+
+        <div id="pyq-container">
+            <div class="quiz-header">
+                <h3 id="pyq-counter">Loading...</h3>
+            </div>
+            <div id="pyq-question" style="font-size: 1.3rem; margin-bottom: 2rem; font-weight: 500;">
+                <!-- Question injected via JS -->
+            </div>
+            
+            <button id="btn-reveal" class="btn secondary" style="width: 100%; margin-bottom: 1.5rem; text-align: center;">
+                👁️ Reveal Answer
+            </button>
+            
+            <div id="pyq-answer" class="blur-card" style="display: none; padding: 1.5rem; background: rgba(76, 201, 240, 0.1); border-left: 4px solid var(--accent); margin-bottom: 2rem;">
+                <!-- Answer injected via JS -->
+            </div>
+            
+            <div class="quiz-nav">
+                <button id="btn-prev-pyq" class="btn secondary" style="visibility: hidden;">Previous</button>
+                <div style="flex: 1;"></div>
+                <button id="btn-next-pyq" class="btn primary">Next</button>
+            </div>
+        </div>
+    {% endif %}
+</div>
+{% endblock %}
+
+{% block scripts %}
+{% if not content is string %}
+<script>
+    const allPyqs = {{ content|tojson }};
+    let filteredPyqs = [...allPyqs];
+    let currentIdx = 0;
+
+    const counterSpan = document.getElementById('pyq-counter');
+    const qDiv = document.getElementById('pyq-question');
+    const aDiv = document.getElementById('pyq-answer');
+    const btnReveal = document.getElementById('btn-reveal');
+    const btnPrev = document.getElementById('btn-prev-pyq');
+    const btnNext = document.getElementById('btn-next-pyq');
+    const filterBtns = document.querySelectorAll('.filter-btn');
+
+    function renderPyq() {
+        if(filteredPyqs.length === 0) {
+            qDiv.innerHTML = "No questions found for this weight.";
+            counterSpan.textContent = "0 of 0";
+            btnReveal.style.display = 'none';
+            btnNext.style.display = 'none';
+            btnPrev.style.visibility = 'hidden';
+            aDiv.style.display = 'none';
+            return;
+        }
+
+        const item = filteredPyqs[currentIdx];
+        counterSpan.textContent = `Question ${currentIdx + 1} of ${filteredPyqs.length} (Weight: ${item.marks || '?'} Marks)`;
+        qDiv.innerHTML = item.question;
+        aDiv.innerHTML = item.answer;
+
+        // Reset visibility
+        aDiv.style.display = 'none';
+        btnReveal.style.display = 'block';
+        btnReveal.textContent = '👁️ Reveal Answer';
+
+        // Nav buttons
+        btnPrev.style.visibility = currentIdx > 0 ? 'visible' : 'hidden';
+        btnNext.style.display = 'inline-block';
+        
+        if (currentIdx === filteredPyqs.length - 1) {
+            btnNext.textContent = 'Finish';
+        } else {
+            btnNext.textContent = 'Next';
+        }
+    }
+
+    btnReveal.addEventListener('click', () => {
+        const isHidden = aDiv.style.display === 'none';
+        aDiv.style.display = isHidden ? 'block' : 'none';
+        btnReveal.textContent = isHidden ? '🙈 Hide Answer' : '👁️ Reveal Answer';
+        
+        if(isHidden) {
+            aDiv.style.animation = 'fadeIn 0.3s forwards';
+        }
+    });
+
+    btnNext.addEventListener('click', () => {
+        if (currentIdx < filteredPyqs.length - 1) {
+            currentIdx++;
+            renderPyq();
+        } else {
+            // Done
+            window.location.href = "{{ url_for('subject_view', subject=subject) }}";
+        }
+    });
+
+    btnPrev.addEventListener('click', () => {
+        if (currentIdx > 0) {
+            currentIdx--;
+            renderPyq();
+        }
+    });
+
+    // Filtering Logic
+    filterBtns.forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            // Update active state
+            filterBtns.forEach(b => b.classList.remove('active'));
+            e.target.classList.add('active');
+            
+            const targetMarks = e.target.getAttribute('data-marks');
+            if (targetMarks === 'all') {
+                filteredPyqs = [...allPyqs];
+            } else {
+                const marksInt = parseInt(targetMarks, 10);
+                filteredPyqs = allPyqs.filter(q => q.marks === marksInt);
+            }
+            
+            currentIdx = 0;
+            renderPyq();
+        });
+    });
+
+    if(allPyqs) renderPyq();
+</script>
+{% endif %}
+{% endblock %}

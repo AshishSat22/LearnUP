@@ -1,0 +1,332 @@
+[
+  {
+    "question": "Question 1 regarding Domain setup in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 2 regarding Range calculation in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Question 3 regarding Function type in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 4 regarding Matrix operation in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Question 5 regarding Determinant property in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 6 regarding Derivative rule in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Question 7 regarding Integral formula in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 8 regarding Limits and Continuity in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Question 9 regarding Differential order in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 10 regarding Vector dot product in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Question 11 regarding Vector cross product in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 12 regarding Equation roots in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Question 13 regarding Maxima/Minima condition in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 14 regarding Area bounded in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Question 15 regarding Integration by parts in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 16 regarding Trigonometric identity in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Question 17 regarding Inverse property in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 18 regarding Differential linearity in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Question 19 regarding Homogeneous check in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 20 regarding Particular solution boundary in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Question 21 regarding Chain rule in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 22 regarding Product rule in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Question 23 regarding Quotient rule in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 24 regarding L'Hopital's applicability in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Question 25 regarding Matrix inverse property in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 26 regarding Symmetric/Skew check in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Question 27 regarding Definite integral bounds in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 28 regarding Odd/Even function integral in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Question 29 regarding Graph intersection in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Question 30 regarding Parametric derivative in Applications of the Integrals: Choose the correct option.",
+    "options": [
+      "Correct Formula/Statement",
+      "Incorrect A",
+      "Incorrect B",
+      "Incorrect C"
+    ],
+    "answer": "Correct Formula/Statement",
+    "difficulty": "Easy"
+  }
+]

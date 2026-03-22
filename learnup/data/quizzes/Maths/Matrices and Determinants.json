@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Order of product AB where A is 2×3 and B is 3×4:",
+    "options": [
+      "2×4",
+      "3×3",
+      "2×3",
+      "4×2"
+    ],
+    "answer": "2×4",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Transpose of matrix A is denoted:",
+    "options": [
+      "Aᵀ",
+      "A⁻¹",
+      "adj(A)",
+      "|A|"
+    ],
+    "answer": "Aᵀ",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A square matrix A is singular if:",
+    "options": [
+      "|A|=0",
+      "|A|=1",
+      "A is symmetric",
+      "A is diagonal"
+    ],
+    "answer": "|A|=0",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Determinant of identity matrix Iₙ is:",
+    "options": [
+      "1",
+      "0",
+      "n",
+      "n!"
+    ],
+    "answer": "1",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "|AB| equals:",
+    "options": [
+      "|A||B|",
+      "|A|+|B|",
+      "|A|-|B|",
+      "|A|/|B|"
+    ],
+    "answer": "|A||B|",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A matrix equals its transpose ⟹ matrix is:",
+    "options": [
+      "Symmetric",
+      "Skew-symmetric",
+      "Orthogonal",
+      "Singular"
+    ],
+    "answer": "Symmetric",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Skew-symmetric matrix has diagonal elements all:",
+    "options": [
+      "Zero",
+      "One",
+      "Negative",
+      "Equal"
+    ],
+    "answer": "Zero",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A⁻¹ = adj(A)/|A|. This requires:",
+    "options": [
+      "|A|≠0",
+      "A is symmetric",
+      "A is diagonal",
+      "A is square only"
+    ],
+    "answer": "|A|≠0",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Number of elements in a 3×4 matrix:",
+    "options": [
+      "12",
+      "7",
+      "9",
+      "16"
+    ],
+    "answer": "12",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For matrices AB = BA is:",
+    "options": [
+      "Not always true",
+      "Always true",
+      "Never true",
+      "True only for diagonal"
+    ],
+    "answer": "Not always true",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If |A|=5 for 3×3 matrix A, then |3A| =",
+    "options": [
+      "135",
+      "15",
+      "45",
+      "5"
+    ],
+    "answer": "135",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Cofactor C₁₁ of matrix A is:",
+    "options": [
+      "(-1)²M₁₁",
+      "M₁₁",
+      "(-1)M₁₁",
+      "-M₁₁"
+    ],
+    "answer": "(-1)²M₁₁",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Rank of zero matrix is:",
+    "options": [
+      "0",
+      "1",
+      "∞",
+      "Undefined"
+    ],
+    "answer": "0",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If A is 3×3, |adj(A)| =",
+    "options": [
+      "|A|²",
+      "|A|",
+      "|A|³",
+      "1/|A|"
+    ],
+    "answer": "|A|²",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "System AX=B has unique solution when:",
+    "options": [
+      "|A|≠0",
+      "|A|=0",
+      "B=0",
+      "A is symmetric"
+    ],
+    "answer": "|A|≠0",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "(A+B)ᵀ =",
+    "options": [
+      "Aᵀ+Bᵀ",
+      "Aᵀ-Bᵀ",
+      "BᵀAᵀ",
+      "AᵀBᵀ"
+    ],
+    "answer": "Aᵀ+Bᵀ",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "(AB)ᵀ =",
+    "options": [
+      "BᵀAᵀ",
+      "AᵀBᵀ",
+      "Aᵀ+Bᵀ",
+      "BA"
+    ],
+    "answer": "BᵀAᵀ",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The trace of a matrix is:",
+    "options": [
+      "Sum of diagonal elements",
+      "Sum of all elements",
+      "Determinant",
+      "Product of diagonal"
+    ],
+    "answer": "Sum of diagonal elements",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Matrix multiplication is:",
+    "options": [
+      "Associative but not commutative",
+      "Commutative",
+      "Neither",
+      "Both"
+    ],
+    "answer": "Associative but not commutative",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "If A²=A, matrix A is called:",
+    "options": [
+      "Idempotent",
+      "Involutory",
+      "Nilpotent",
+      "Orthogonal"
+    ],
+    "answer": "Idempotent",
+    "difficulty": "Hard"
+  }
+]

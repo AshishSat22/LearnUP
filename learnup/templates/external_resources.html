@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="page-header" style="flex-direction: column; align-items: flex-start; gap: 1rem;">
+    <div>
+        <h1>🌐 External Resources Hub</h1>
+        <p class="subtitle">Curated external links for extended practice and CBSE Important Questions.</p>
+    </div>
+</div>
+
+<div class="subject-grid animate-slide-up" style="margin-top: 2rem;">
+    
+    <!-- SelfStudys Cards -->
+    <a href="https://www.selfstudys.com/books/cbse-important-questions" target="_blank" class="subject-card blur-card" style="text-decoration: none; color: inherit; display: block;">
+        <div class="icon" style="font-size: 3rem; margin-bottom: 1rem;">📘</div>
+        <h2 style="margin-bottom: 0.5rem;">SelfStudys — Physics</h2>
+        <p style="color: var(--text-color); opacity: 0.8; font-size: 0.9rem;">
+            Access hundreds of fully-solved important CBSE questions for Physics straight from SelfStudys.
+        </p>
+        <div style="margin-top: 1.5rem; color: var(--accent); font-weight: 600;">Visit Physics Page ↗</div>
+    </a>
+
+    <a href="https://www.selfstudys.com/books/cbse-important-questions" target="_blank" class="subject-card blur-card" style="text-decoration: none; color: inherit; display: block;">
+        <div class="icon" style="font-size: 3rem; margin-bottom: 1rem;">🧪</div>
+        <h2 style="margin-bottom: 0.5rem;">SelfStudys — Chemistry</h2>
+        <p style="color: var(--text-color); opacity: 0.8; font-size: 0.9rem;">
+            Jump into SelfStudys' archive of important Chemistry equations, concepts, and answers.
+        </p>
+        <div style="margin-top: 1.5rem; color: var(--accent); font-weight: 600;">Visit Chemistry Page ↗</div>
+    </a>
+
+    <a href="https://www.selfstudys.com/books/cbse-important-questions" target="_blank" class="subject-card blur-card" style="text-decoration: none; color: inherit; display: block;">
+        <div class="icon" style="font-size: 3rem; margin-bottom: 1rem;">📐</div>
+        <h2 style="margin-bottom: 0.5rem;">SelfStudys — Maths</h2>
+        <p style="color: var(--text-color); opacity: 0.8; font-size: 0.9rem;">
+            Find rigorous Mathematical problems and CBSE-important proofs on the SelfStudys portal.
+        </p>
+        <div style="margin-top: 1.5rem; color: var(--accent); font-weight: 600;">Visit Maths Page ↗</div>
+    </a>
+
+</div>
+
+<div class="blur-card animate-slide-up" style="padding: 2rem; text-align: center; margin-top: 3rem;">
+    <h3>Why use External Resources?</h3>
+    <p style="color: var(--text-color); opacity: 0.7; margin-top: 1rem; max-width: 600px; margin-left: auto; margin-right: auto;">
+        While LearnUP provides thousands of original questions, integrating with external platforms like SelfStudys ensures you are always exposed to the widest variety of question structures strictly tailored by CBSE experts. Use these links to open their interactive catalogs directly in a new tab!
+    </p>
+</div>
+{% endblock %}

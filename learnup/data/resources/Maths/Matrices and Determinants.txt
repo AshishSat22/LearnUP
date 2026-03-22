@@ -1,0 +1,5 @@
+Matrix Operations || https://www.youtube.com/watch?v=kqWCwwyeE6k
+Determinant of a Matrix || https://www.youtube.com/watch?v=Ip3X9LOh2dk
+Inverse of a Matrix || https://www.youtube.com/watch?v=01c12NaUQDw
+Cramers Rule || https://www.youtube.com/watch?v=jBsC34PxzoM
+Properties of Determinants || https://www.youtube.com/watch?v=mSld9BhpA_E

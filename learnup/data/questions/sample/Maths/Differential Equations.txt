@@ -1,0 +1,25 @@
+SAMPLE & PAST YEAR QUESTIONS — Differential Equations
+================================================================
+
+SECTION A: 1-Mark Questions
+1. State the fundamental theorem/formula for Differential Equations - Topic 1.
+2. State the fundamental theorem/formula for Differential Equations - Topic 2.
+3. State the fundamental theorem/formula for Differential Equations - Topic 3.
+4. State the fundamental theorem/formula for Differential Equations - Topic 4.
+5. State the fundamental theorem/formula for Differential Equations - Topic 5.
+
+SECTION B: 2-Mark Questions
+6. Solve the short conceptual problem involving concept A and concept B in Differential Equations.
+7. Solve the short conceptual problem involving concept A and concept B in Differential Equations.
+8. Solve the short conceptual problem involving concept A and concept B in Differential Equations.
+9. Solve the short conceptual problem involving concept A and concept B in Differential Equations.
+10. Solve the short conceptual problem involving concept A and concept B in Differential Equations.
+
+SECTION C: 3-Mark Questions
+11. Derive the expression or prove the theorem related to Differential Equations.
+12. Derive the expression or prove the theorem related to Differential Equations.
+13. Derive the expression or prove the theorem related to Differential Equations.
+
+SECTION D: 5-Mark Questions (Previous Year CBSE)
+14. (CBSE 2023) Detailed multi-step problem covering subtopics of Differential Equations.
+15. (CBSE 2022) Case study based on real-world applications of Differential Equations.

@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="page-header">
+    <h1>🔖 My Bookmarks</h1>
+</div>
+
+<div class="video-grid">
+    {% for b in bookmarks %}
+    <div class="video-card blur-card animate-slide-up" style="animation-delay: {{ loop.index0 * 0.1 }}s; padding: 1.5rem; display: flex; flex-direction: column; gap: 1rem;">
+        <div style="display: flex; justify-content: space-between;">
+            <span class="badge" style="background: var(--accent); color: white; padding: 4px 8px; border-radius: 4px; font-size: 0.8rem;">
+                {{ b.type|upper }}
+            </span>
+            <span style="color: var(--text-secondary); font-size: 0.9rem;">
+                {{ b.subject|title }}
+            </span>
+        </div>
+        
+        <h3 style="font-size: 1.1rem; line-height: 1.4;">{{ b.title|truncate(60) }}</h3>
+        
+        <div style="margin-top: auto; display: flex; justify-content: space-between; align-items: center;">
+            {% if b.type == 'video' %}
+                <a href="{{ url_for('videos_view', subject=b.subject, chapter=b.chapter) }}" class="btn secondary" style="padding: 0.5rem 1rem;">View</a>
+            {% elif b.type == 'question' %}
+                <a href="{{ url_for('questions_view', subject=b.subject, chapter=b.chapter) }}" class="btn secondary" style="padding: 0.5rem 1rem;">View</a>
+            {% else %}
+                <button class="btn secondary" style="padding: 0.5rem 1rem;">Open</button>
+            {% endif %}
+
+            <button class="btn-icon bookmark-btn active"
+                    data-type="{{ b.type }}" 
+                    data-subject="{{ b.subject }}" 
+                    data-chapter="{{ b.chapter }}" 
+                    data-title="{{ b.title }}"
+                    data-url="{{ b.url }}"
+                    style="color: var(--accent);" title="Remove Bookmark">
+                🔖
+            </button>
+        </div>
+    </div>
+    {% else %}
+    <div class="empty-state blur-card" style="padding: 3rem; text-align: center; grid-column: 1/-1;">
+        <span style="font-size: 3rem; margin-bottom: 1rem; display: block;">🔖</span>
+        <h2>No bookmarks yet</h2>
+        <p style="color: var(--text-secondary)">Save videos and questions to easily access them later.</p>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

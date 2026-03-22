@@ -1,0 +1,23 @@
+SAMPLE & PAST YEAR QUESTIONS — Matrices and Determinants
+================================================================
+
+SECTION A: 1-Mark Questions
+1. If A is a 2×3 matrix and B is 3×4 matrix, what is the order of AB?
+2. What is the value of |I₃| (determinant of 3×3 identity matrix)?
+3. Define singular matrix.
+4. If A is skew-symmetric, what is A^T?
+5. What is cofactor expansion?
+
+SECTION B: 2-Mark Questions
+6. Find the inverse of [[2,1],[1,1]].
+7. Prove that the determinant of a matrix and its transpose are equal.
+8. If A = [[1,2],[3,4]], find adj(A).
+
+SECTION C: 3-Mark Questions
+9. Using Cramer's Rule, solve: 2x+y=5, x+3y=10.
+10. Prove that |AB| = |A|·|B| using a 2×2 example.
+11. (CBSE 2023) If A = [[2,-1],[-1,2]], show that A²-4A+3I=0. Hence find A⁻¹.
+
+SECTION D: 5-Mark Questions
+12. (CBSE 2023) Using matrix method, solve the system: x+y+z=6, 2x-y+z=3, x+2y-z=2.
+13. (CBSE 2022) Find A⁻¹ where A=[[1,1,1],[1,2,-3],[2,-1,3]] and use it to solve the system of equations.

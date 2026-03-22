@@ -1,0 +1,73 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="page-header">
+    <h1>📊 Analytics & Scores</h1>
+</div>
+
+<div class="dashboard-grid">
+    <!-- Overall Performance Widget -->
+    <div class="blur-card p-4" style="grid-column: 1 / -1; padding: 2rem;">
+        <h2 style="margin-bottom: 1rem;">Topic Performance</h2>
+        <div style="overflow-x: auto;">
+            <table style="width: 100%; border-collapse: collapse;">
+                <thead>
+                    <tr style="border-bottom: 2px solid var(--border-color); text-align: left;">
+                        <th style="padding: 1rem;">Subject - Topic</th>
+                        <th style="padding: 1rem;">Attempts</th>
+                        <th style="padding: 1rem;">Best %</th>
+                        <th style="padding: 1rem;">Avg %</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for topic, stats in analytics.items() %}
+                    <tr style="border-bottom: 1px solid var(--border-color);">
+                        <td style="padding: 1rem;">{{ topic }}</td>
+                        <td style="padding: 1rem;">{{ stats.attempts }}</td>
+                        <td style="padding: 1rem; color: {% if stats.best >= 80 %}#4CC9F0{% else %}#F72585{% endif %}">{{ stats.best }}%</td>
+                        <td style="padding: 1rem; color: {% if stats.avg_acc >= 80 %}#4CC9F0{% else %}#F72585{% endif %}">{{ stats.avg_acc }}%</td>
+                    </tr>
+                    {% else %}
+                    <tr>
+                        <td colspan="4" style="padding: 1rem; text-align: center; color: var(--text-secondary)">No analytics data yet.</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- History Log -->
+    <div class="blur-card p-4" style="grid-column: 1 / -1; padding: 2rem;">
+        <h2 style="margin-bottom: 1rem;">Recent History</h2>
+        <div style="overflow-x: auto;">
+            <table style="width: 100%; border-collapse: collapse;">
+                <thead>
+                    <tr style="border-bottom: 2px solid var(--border-color); text-align: left;">
+                        <th style="padding: 1rem;">Date</th>
+                        <th style="padding: 1rem;">Subject</th>
+                        <th style="padding: 1rem;">Topic</th>
+                        <th style="padding: 1rem;">Score</th>
+                        <th style="padding: 1rem;">Accuracy</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for sc in scores|reverse %}
+                    <tr style="border-bottom: 1px solid var(--border-color);">
+                        <td style="padding: 1rem;">{{ sc.date }}</td>
+                        <td style="padding: 1rem;">{{ sc.subject|title }}</td>
+                        <td style="padding: 1rem;">{{ sc.topic|title }}</td>
+                        <td style="padding: 1rem;">{{ sc.score }} / {{ sc.total }}</td>
+                        <td style="padding: 1rem;">{{ sc.accuracy }}%</td>
+                    </tr>
+                    {% else %}
+                    <tr>
+                        <td colspan="5" style="padding: 1rem; text-align: center; color: var(--text-secondary)">No scoring history yet.</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+{% endblock %}

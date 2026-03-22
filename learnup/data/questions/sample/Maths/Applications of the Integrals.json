@@ -1,0 +1,2002 @@
+[
+  {
+    "question": "Q1 [CBSE 2010] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 2
+  },
+  {
+    "question": "Q2 [CBSE 2011] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 2
+  },
+  {
+    "question": "Q3 [CBSE 2012] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{7}$",
+    "answer": "Given Function: f(x) = x^{7}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 7 x^{6}<br><br>Exact Answer: 7 x^{6}",
+    "marks": 2
+  },
+  {
+    "question": "Q4 [CBSE 2013] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 2
+  },
+  {
+    "question": "Q5 [CBSE 2014] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q6 [CBSE 2015] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{3 x}$",
+    "answer": "Given Function: f(x) = e^{3 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 3 e^{3 x}<br><br>Exact Answer: 3 e^{3 x}",
+    "marks": 2
+  },
+  {
+    "question": "Q7 [CBSE 2016] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 4 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 4 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 4 e^{x}.<br><br>Exact Answer: 4 e^{x} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q8 [CBSE 2017] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q9 [CBSE 2018] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 7 x^{2} + 14 x \\, dx$",
+    "answer": "Given Integral: ∫ 7 x^{2} + 14 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{7 x^{3}}{3} + 7 x^{2}.<br><br>Exact Answer: \\frac{7 x^{3}}{3} + 7 x^{2} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q10 [CBSE 2019] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 5 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 5 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 5 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 5 \\cos{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q11 [CBSE 2020] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q12 [CBSE 2021] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 2
+  },
+  {
+    "question": "Q13 [CBSE 2022] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 2
+  },
+  {
+    "question": "Q14 [CBSE 2023] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 8 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 8 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 8 \\cos{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q15 [CBSE 2010] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q16 [CBSE 2011] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{5 x}$",
+    "answer": "Given Function: f(x) = e^{5 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 5 e^{5 x}<br><br>Exact Answer: 5 e^{5 x}",
+    "marks": 2
+  },
+  {
+    "question": "Q17 [CBSE 2012] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 2
+  },
+  {
+    "question": "Q18 [CBSE 2013] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 3
+  },
+  {
+    "question": "Q19 [CBSE 2014] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 x^{3} + 18 x \\, dx$",
+    "answer": "Given Integral: ∫ 2 x^{3} + 18 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{x^{4}}{2} + 9 x^{2}.<br><br>Exact Answer: \\frac{x^{4}}{2} + 9 x^{2} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q20 [CBSE 2015] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 3
+  },
+  {
+    "question": "Q21 [CBSE 2016] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{3 x}$",
+    "answer": "Given Function: f(x) = e^{3 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 3 e^{3 x}<br><br>Exact Answer: 3 e^{3 x}",
+    "marks": 3
+  },
+  {
+    "question": "Q22 [CBSE 2017] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 7 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 7 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 7 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 7 \\cos{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q23 [CBSE 2018] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{4}$",
+    "answer": "Given Function: f(x) = x^{4}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 4 x^{3}<br><br>Exact Answer: 4 x^{3}",
+    "marks": 3
+  },
+  {
+    "question": "Q24 [CBSE 2019] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{5}$",
+    "answer": "Given Function: f(x) = x^{5}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 5 x^{4}<br><br>Exact Answer: 5 x^{4}",
+    "marks": 2
+  },
+  {
+    "question": "Q25 [CBSE 2020] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{3 x}$",
+    "answer": "Given Function: f(x) = e^{3 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 3 e^{3 x}<br><br>Exact Answer: 3 e^{3 x}",
+    "marks": 3
+  },
+  {
+    "question": "Q26 [CBSE 2021] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 x^{5} + 20 x \\, dx$",
+    "answer": "Given Integral: ∫ 2 x^{5} + 20 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{x^{6}}{3} + 10 x^{2}.<br><br>Exact Answer: \\frac{x^{6}}{3} + 10 x^{2} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q27 [CBSE 2022] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 2
+  },
+  {
+    "question": "Q28 [CBSE 2023] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 2
+  },
+  {
+    "question": "Q29 [CBSE 2010] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 2
+  },
+  {
+    "question": "Q30 [CBSE 2011] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 2
+  },
+  {
+    "question": "Q31 [CBSE 2012] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q32 [CBSE 2013] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 8 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 8 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 8 \\cos{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q33 [CBSE 2014] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 2 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 2 e^{x}.<br><br>Exact Answer: 2 e^{x} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q34 [CBSE 2015] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 4 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 4 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 4 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 4 \\cos{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q35 [CBSE 2016] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 3
+  },
+  {
+    "question": "Q36 [CBSE 2017] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 3
+  },
+  {
+    "question": "Q37 [CBSE 2018] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 4 x^{5} + 32 x \\, dx$",
+    "answer": "Given Integral: ∫ 4 x^{5} + 32 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{2 x^{6}}{3} + 16 x^{2}.<br><br>Exact Answer: \\frac{2 x^{6}}{3} + 16 x^{2} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q38 [CBSE 2019] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 3
+  },
+  {
+    "question": "Q39 [CBSE 2020] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 2
+  },
+  {
+    "question": "Q40 [CBSE 2021] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 5 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 5 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 5 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 5 \\cos{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q41 [CBSE 2022] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q42 [CBSE 2023] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{4}$",
+    "answer": "Given Function: f(x) = x^{4}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 4 x^{3}<br><br>Exact Answer: 4 x^{3}",
+    "marks": 2
+  },
+  {
+    "question": "Q43 [CBSE 2010] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q44 [CBSE 2011] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{7}$",
+    "answer": "Given Function: f(x) = x^{7}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 7 x^{6}<br><br>Exact Answer: 7 x^{6}",
+    "marks": 3
+  },
+  {
+    "question": "Q45 [CBSE 2012] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 2
+  },
+  {
+    "question": "Q46 [CBSE 2013] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 8 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 8 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 8 \\sin{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q47 [CBSE 2014] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 2 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 2 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 2 \\cos{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q48 [CBSE 2015] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 3
+  },
+  {
+    "question": "Q49 [CBSE 2016] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 2 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 2 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 2 \\sin{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q50 [CBSE 2017] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 5 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 5 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 5 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 5 \\cos{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q51 [CBSE 2018] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 2
+  },
+  {
+    "question": "Q52 [CBSE 2019] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 4 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 4 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 4 e^{x}.<br><br>Exact Answer: 4 e^{x} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q53 [CBSE 2020] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 5 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 5 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 5 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 5 \\cos{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q54 [CBSE 2021] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q55 [CBSE 2022] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{4}$",
+    "answer": "Given Function: f(x) = x^{4}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 4 x^{3}<br><br>Exact Answer: 4 x^{3}",
+    "marks": 2
+  },
+  {
+    "question": "Q56 [CBSE 2023] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 2
+  },
+  {
+    "question": "Q57 [CBSE 2010] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 3
+  },
+  {
+    "question": "Q58 [CBSE 2011] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 2
+  },
+  {
+    "question": "Q59 [CBSE 2012] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 5 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 5 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 5 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 5 \\sin{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q60 [CBSE 2013] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 3
+  },
+  {
+    "question": "Q61 [CBSE 2014] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{3 x}$",
+    "answer": "Given Function: f(x) = e^{3 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 3 e^{3 x}<br><br>Exact Answer: 3 e^{3 x}",
+    "marks": 3
+  },
+  {
+    "question": "Q62 [CBSE 2015] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 2
+  },
+  {
+    "question": "Q63 [CBSE 2016] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 3 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 3 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 3 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 3 \\cos{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q64 [CBSE 2017] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 4 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 4 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 4 e^{x}.<br><br>Exact Answer: 4 e^{x} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q65 [CBSE 2018] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 2
+  },
+  {
+    "question": "Q66 [CBSE 2019] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q67 [CBSE 2020] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{5 x}$",
+    "answer": "Given Function: f(x) = e^{5 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 5 e^{5 x}<br><br>Exact Answer: 5 e^{5 x}",
+    "marks": 2
+  },
+  {
+    "question": "Q68 [CBSE 2021] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q69 [CBSE 2022] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{5}$",
+    "answer": "Given Function: f(x) = x^{5}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 5 x^{4}<br><br>Exact Answer: 5 x^{4}",
+    "marks": 2
+  },
+  {
+    "question": "Q70 [CBSE 2023] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 3
+  },
+  {
+    "question": "Q71 [CBSE 2010] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 x^{4} + 16 x \\, dx$",
+    "answer": "Given Integral: ∫ 8 x^{4} + 16 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{8 x^{5}}{5} + 8 x^{2}.<br><br>Exact Answer: \\frac{8 x^{5}}{5} + 8 x^{2} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q72 [CBSE 2011] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q73 [CBSE 2012] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{4}$",
+    "answer": "Given Function: f(x) = x^{4}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 4 x^{3}<br><br>Exact Answer: 4 x^{3}",
+    "marks": 3
+  },
+  {
+    "question": "Q74 [CBSE 2013] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{2 x}$",
+    "answer": "Given Function: f(x) = e^{2 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 e^{2 x}<br><br>Exact Answer: 2 e^{2 x}",
+    "marks": 2
+  },
+  {
+    "question": "Q75 [CBSE 2014] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 2
+  },
+  {
+    "question": "Q76 [CBSE 2015] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 4 x^{4} + 24 x \\, dx$",
+    "answer": "Given Integral: ∫ 4 x^{4} + 24 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{4 x^{5}}{5} + 12 x^{2}.<br><br>Exact Answer: \\frac{4 x^{5}}{5} + 12 x^{2} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q77 [CBSE 2016] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q78 [CBSE 2017] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q79 [CBSE 2018] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 2
+  },
+  {
+    "question": "Q80 [CBSE 2019] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{7}$",
+    "answer": "Given Function: f(x) = x^{7}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 7 x^{6}<br><br>Exact Answer: 7 x^{6}",
+    "marks": 2
+  },
+  {
+    "question": "Q81 [CBSE 2020] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 3 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 3 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 3 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 3 \\sin{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q82 [CBSE 2021] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 2
+  },
+  {
+    "question": "Q83 [CBSE 2022] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 8 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 8 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 8 \\sin{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q84 [CBSE 2023] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 3 x^{3} + 24 x \\, dx$",
+    "answer": "Given Integral: ∫ 3 x^{3} + 24 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{3 x^{4}}{4} + 12 x^{2}.<br><br>Exact Answer: \\frac{3 x^{4}}{4} + 12 x^{2} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q85 [CBSE 2010] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{5}$",
+    "answer": "Given Function: f(x) = x^{5}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 5 x^{4}<br><br>Exact Answer: 5 x^{4}",
+    "marks": 3
+  },
+  {
+    "question": "Q86 [CBSE 2011] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 3
+  },
+  {
+    "question": "Q87 [CBSE 2012] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 8 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 8 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 8 \\cos{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q88 [CBSE 2013] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 2 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 2 e^{x}.<br><br>Exact Answer: 2 e^{x} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q89 [CBSE 2014] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{7}$",
+    "answer": "Given Function: f(x) = x^{7}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 7 x^{6}<br><br>Exact Answer: 7 x^{6}",
+    "marks": 2
+  },
+  {
+    "question": "Q90 [CBSE 2015] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{5 x}$",
+    "answer": "Given Function: f(x) = e^{5 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 5 e^{5 x}<br><br>Exact Answer: 5 e^{5 x}",
+    "marks": 2
+  },
+  {
+    "question": "Q91 [CBSE 2016] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 3 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 3 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 3 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 3 \\cos{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q92 [CBSE 2017] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 2
+  },
+  {
+    "question": "Q93 [CBSE 2018] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 2
+  },
+  {
+    "question": "Q94 [CBSE 2019] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 3
+  },
+  {
+    "question": "Q95 [CBSE 2020] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 6 x^{3} + 54 x \\, dx$",
+    "answer": "Given Integral: ∫ 6 x^{3} + 54 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{3 x^{4}}{2} + 27 x^{2}.<br><br>Exact Answer: \\frac{3 x^{4}}{2} + 27 x^{2} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q96 [CBSE 2021] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 7 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 7 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 7 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 7 \\sin{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q97 [CBSE 2022] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 3
+  },
+  {
+    "question": "Q98 [CBSE 2023] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 5 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 5 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 5 e^{x}.<br><br>Exact Answer: 5 e^{x} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q99 [CBSE 2010] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q100 [CBSE 2011] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 3 x^{3} + 18 x \\, dx$",
+    "answer": "Given Integral: ∫ 3 x^{3} + 18 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{3 x^{4}}{4} + 9 x^{2}.<br><br>Exact Answer: \\frac{3 x^{4}}{4} + 9 x^{2} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q101 [CBSE 2012] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 4 x^{2} + 20 x \\, dx$",
+    "answer": "Given Integral: ∫ 4 x^{2} + 20 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{4 x^{3}}{3} + 10 x^{2}.<br><br>Exact Answer: \\frac{4 x^{3}}{3} + 10 x^{2} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q102 [CBSE 2013] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 7 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 7 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 7 e^{x}.<br><br>Exact Answer: 7 e^{x} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q103 [CBSE 2014] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 8 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 8 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 8 \\cos{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q104 [CBSE 2015] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 2 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 2 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 2 \\sin{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q105 [CBSE 2016] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 3
+  },
+  {
+    "question": "Q106 [CBSE 2017] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 2
+  },
+  {
+    "question": "Q107 [CBSE 2018] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 6 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 6 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 6 e^{x}.<br><br>Exact Answer: 6 e^{x} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q108 [CBSE 2019] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 2
+  },
+  {
+    "question": "Q109 [CBSE 2020] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 2
+  },
+  {
+    "question": "Q110 [CBSE 2021] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 3
+  },
+  {
+    "question": "Q111 [CBSE 2022] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{5 x}$",
+    "answer": "Given Function: f(x) = e^{5 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 5 e^{5 x}<br><br>Exact Answer: 5 e^{5 x}",
+    "marks": 2
+  },
+  {
+    "question": "Q112 [CBSE 2023] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q113 [CBSE 2010] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 3
+  },
+  {
+    "question": "Q114 [CBSE 2011] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{4 x}$",
+    "answer": "Given Function: f(x) = e^{4 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 4 e^{4 x}<br><br>Exact Answer: 4 e^{4 x}",
+    "marks": 3
+  },
+  {
+    "question": "Q115 [CBSE 2012] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 4 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 4 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 4 e^{x}.<br><br>Exact Answer: 4 e^{x} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q116 [CBSE 2013] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 3 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 3 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 3 e^{x}.<br><br>Exact Answer: 3 e^{x} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q117 [CBSE 2014] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q118 [CBSE 2015] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 8 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 8 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 8 \\cos{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q119 [CBSE 2016] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 2
+  },
+  {
+    "question": "Q120 [CBSE 2017] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 7 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 7 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 7 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 7 \\sin{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q121 [CBSE 2018] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 3 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 3 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 3 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 3 \\cos{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q122 [CBSE 2019] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 2 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 2 e^{x}.<br><br>Exact Answer: 2 e^{x} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q123 [CBSE 2020] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q124 [CBSE 2021] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{4 x}$",
+    "answer": "Given Function: f(x) = e^{4 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 4 e^{4 x}<br><br>Exact Answer: 4 e^{4 x}",
+    "marks": 3
+  },
+  {
+    "question": "Q125 [CBSE 2022] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 7 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 7 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 7 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 7 \\cos{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q126 [CBSE 2023] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 2
+  },
+  {
+    "question": "Q127 [CBSE 2010] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{3 x}$",
+    "answer": "Given Function: f(x) = e^{3 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 3 e^{3 x}<br><br>Exact Answer: 3 e^{3 x}",
+    "marks": 2
+  },
+  {
+    "question": "Q128 [CBSE 2011] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 3
+  },
+  {
+    "question": "Q129 [CBSE 2012] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q130 [CBSE 2013] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 2
+  },
+  {
+    "question": "Q131 [CBSE 2014] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 3 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 3 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 3 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 3 \\sin{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q132 [CBSE 2015] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 x^{3} + 64 x \\, dx$",
+    "answer": "Given Integral: ∫ 8 x^{3} + 64 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 2 x^{4} + 32 x^{2}.<br><br>Exact Answer: 2 x^{4} + 32 x^{2} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q133 [CBSE 2016] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 3
+  },
+  {
+    "question": "Q134 [CBSE 2017] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{4}$",
+    "answer": "Given Function: f(x) = x^{4}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 4 x^{3}<br><br>Exact Answer: 4 x^{3}",
+    "marks": 3
+  },
+  {
+    "question": "Q135 [CBSE 2018] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 2 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 2 e^{x}.<br><br>Exact Answer: 2 e^{x} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q136 [CBSE 2019] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q137 [CBSE 2020] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 3
+  },
+  {
+    "question": "Q138 [CBSE 2021] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 8 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 8 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 8 \\sin{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q139 [CBSE 2022] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 3
+  },
+  {
+    "question": "Q140 [CBSE 2023] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 2
+  },
+  {
+    "question": "Q141 [CBSE 2010] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{3 x}$",
+    "answer": "Given Function: f(x) = e^{3 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 3 e^{3 x}<br><br>Exact Answer: 3 e^{3 x}",
+    "marks": 2
+  },
+  {
+    "question": "Q142 [CBSE 2011] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q143 [CBSE 2012] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 3 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 3 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 3 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 3 \\cos{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q144 [CBSE 2013] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{6}$",
+    "answer": "Given Function: f(x) = x^{6}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 6 x^{5}<br><br>Exact Answer: 6 x^{5}",
+    "marks": 2
+  },
+  {
+    "question": "Q145 [CBSE 2014] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q146 [CBSE 2015] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 x^{5} + 10 x \\, dx$",
+    "answer": "Given Integral: ∫ 2 x^{5} + 10 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{x^{6}}{3} + 5 x^{2}.<br><br>Exact Answer: \\frac{x^{6}}{3} + 5 x^{2} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q147 [CBSE 2016] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 2
+  },
+  {
+    "question": "Q148 [CBSE 2017] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 3
+  },
+  {
+    "question": "Q149 [CBSE 2018] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 2
+  },
+  {
+    "question": "Q150 [CBSE 2019] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 3 x^{5} + 21 x \\, dx$",
+    "answer": "Given Integral: ∫ 3 x^{5} + 21 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{x^{6}}{2} + \\frac{21 x^{2}}{2}.<br><br>Exact Answer: \\frac{x^{6}}{2} + \\frac{21 x^{2}}{2} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q151 [CBSE 2020] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 2
+  },
+  {
+    "question": "Q152 [CBSE 2021] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 6 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 6 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 6 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 6 \\cos{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q153 [CBSE 2022] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 2
+  },
+  {
+    "question": "Q154 [CBSE 2023] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{2 x}$",
+    "answer": "Given Function: f(x) = e^{2 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 e^{2 x}<br><br>Exact Answer: 2 e^{2 x}",
+    "marks": 2
+  },
+  {
+    "question": "Q155 [CBSE 2010] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q156 [CBSE 2011] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 2
+  },
+  {
+    "question": "Q157 [CBSE 2012] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 4 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 4 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 4 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 4 \\cos{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q158 [CBSE 2013] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 5 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 5 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 5 e^{x}.<br><br>Exact Answer: 5 e^{x} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q159 [CBSE 2014] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{7}$",
+    "answer": "Given Function: f(x) = x^{7}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 7 x^{6}<br><br>Exact Answer: 7 x^{6}",
+    "marks": 2
+  },
+  {
+    "question": "Q160 [CBSE 2015] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 2
+  },
+  {
+    "question": "Q161 [CBSE 2016] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 x^{4} + 16 x \\, dx$",
+    "answer": "Given Integral: ∫ 8 x^{4} + 16 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{8 x^{5}}{5} + 8 x^{2}.<br><br>Exact Answer: \\frac{8 x^{5}}{5} + 8 x^{2} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q162 [CBSE 2017] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 2
+  },
+  {
+    "question": "Q163 [CBSE 2018] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 3
+  },
+  {
+    "question": "Q164 [CBSE 2019] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 8 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 8 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 8 \\sin{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q165 [CBSE 2020] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 6 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 6 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 6 e^{x}.<br><br>Exact Answer: 6 e^{x} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q166 [CBSE 2021] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 2
+  },
+  {
+    "question": "Q167 [CBSE 2022] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 5 x^{5} + 30 x \\, dx$",
+    "answer": "Given Integral: ∫ 5 x^{5} + 30 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{5 x^{6}}{6} + 15 x^{2}.<br><br>Exact Answer: \\frac{5 x^{6}}{6} + 15 x^{2} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q168 [CBSE 2023] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{5}$",
+    "answer": "Given Function: f(x) = x^{5}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 5 x^{4}<br><br>Exact Answer: 5 x^{4}",
+    "marks": 2
+  },
+  {
+    "question": "Q169 [CBSE 2010] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 2 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 2 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 2 \\sin{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q170 [CBSE 2011] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q171 [CBSE 2012] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{3}$",
+    "answer": "Given Function: f(x) = x^{3}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 3 x^{2}<br><br>Exact Answer: 3 x^{2}",
+    "marks": 2
+  },
+  {
+    "question": "Q172 [CBSE 2013] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 3 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 3 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 3 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 3 \\cos{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q173 [CBSE 2014] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 5 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 5 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 5 e^{x}.<br><br>Exact Answer: 5 e^{x} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q174 [CBSE 2015] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 3 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 3 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 3 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 3 \\sin{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q175 [CBSE 2016] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 3
+  },
+  {
+    "question": "Q176 [CBSE 2017] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 2 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 2 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 2 \\cos{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q177 [CBSE 2018] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 2 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 2 e^{x}.<br><br>Exact Answer: 2 e^{x} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q178 [CBSE 2019] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 4 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 4 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 4 e^{x}.<br><br>Exact Answer: 4 e^{x} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q179 [CBSE 2020] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 2
+  },
+  {
+    "question": "Q180 [CBSE 2021] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{3 x}$",
+    "answer": "Given Function: f(x) = e^{3 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 3 e^{3 x}<br><br>Exact Answer: 3 e^{3 x}",
+    "marks": 2
+  },
+  {
+    "question": "Q181 [CBSE 2022] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 2
+  },
+  {
+    "question": "Q182 [CBSE 2023] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q183 [CBSE 2010] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 8 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 8 e^{x}.<br><br>Exact Answer: 8 e^{x} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q184 [CBSE 2011] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 7 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 7 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 7 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 7 \\sin{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q185 [CBSE 2012] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{7}$",
+    "answer": "Given Function: f(x) = x^{7}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 7 x^{6}<br><br>Exact Answer: 7 x^{6}",
+    "marks": 2
+  },
+  {
+    "question": "Q186 [CBSE 2013] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 2
+  },
+  {
+    "question": "Q187 [CBSE 2014] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 5 x^{5} + 35 x \\, dx$",
+    "answer": "Given Integral: ∫ 5 x^{5} + 35 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{5 x^{6}}{6} + \\frac{35 x^{2}}{2}.<br><br>Exact Answer: \\frac{5 x^{6}}{6} + \\frac{35 x^{2}}{2} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q188 [CBSE 2015] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{4}$",
+    "answer": "Given Function: f(x) = x^{4}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 4 x^{3}<br><br>Exact Answer: 4 x^{3}",
+    "marks": 3
+  },
+  {
+    "question": "Q189 [CBSE 2016] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 7 x^{2} + 7 x \\, dx$",
+    "answer": "Given Integral: ∫ 7 x^{2} + 7 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{7 x^{3}}{3} + \\frac{7 x^{2}}{2}.<br><br>Exact Answer: \\frac{7 x^{3}}{3} + \\frac{7 x^{2}}{2} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q190 [CBSE 2017] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 8 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 8 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 8 \\sin{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q191 [CBSE 2018] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 2 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 2 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 2 \\sin{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q192 [CBSE 2019] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 3 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 3 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 3 e^{x}.<br><br>Exact Answer: 3 e^{x} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q193 [CBSE 2020] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q194 [CBSE 2021] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 2
+  },
+  {
+    "question": "Q195 [CBSE 2022] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{5 x}$",
+    "answer": "Given Function: f(x) = e^{5 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 5 e^{5 x}<br><br>Exact Answer: 5 e^{5 x}",
+    "marks": 2
+  },
+  {
+    "question": "Q196 [CBSE 2023] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 8 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 8 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 8 \\sin{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q197 [CBSE 2010] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 2
+  },
+  {
+    "question": "Q198 [CBSE 2011] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q199 [CBSE 2012] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 4 x^{4} + 28 x \\, dx$",
+    "answer": "Given Integral: ∫ 4 x^{4} + 28 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{4 x^{5}}{5} + 14 x^{2}.<br><br>Exact Answer: \\frac{4 x^{5}}{5} + 14 x^{2} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q200 [CBSE 2013] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 3
+  },
+  {
+    "question": "Q201 [CBSE 2014] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 4 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 4 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 4 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 4 \\cos{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q202 [CBSE 2015] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 x^{3} + 4 x \\, dx$",
+    "answer": "Given Integral: ∫ 2 x^{3} + 4 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{x^{4}}{2} + 2 x^{2}.<br><br>Exact Answer: \\frac{x^{4}}{2} + 2 x^{2} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q203 [CBSE 2016] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 3
+  },
+  {
+    "question": "Q204 [CBSE 2017] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 5 x^{4} + 10 x \\, dx$",
+    "answer": "Given Integral: ∫ 5 x^{4} + 10 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is x^{5} + 5 x^{2}.<br><br>Exact Answer: x^{5} + 5 x^{2} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q205 [CBSE 2018] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 2
+  },
+  {
+    "question": "Q206 [CBSE 2019] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 3
+  },
+  {
+    "question": "Q207 [CBSE 2020] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 2
+  },
+  {
+    "question": "Q208 [CBSE 2021] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 4 x^{4} + 24 x \\, dx$",
+    "answer": "Given Integral: ∫ 4 x^{4} + 24 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{4 x^{5}}{5} + 12 x^{2}.<br><br>Exact Answer: \\frac{4 x^{5}}{5} + 12 x^{2} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q209 [CBSE 2022] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 7 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 7 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 7 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 7 \\cos{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q210 [CBSE 2023] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 2
+  },
+  {
+    "question": "Q211 [CBSE 2010] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 2
+  },
+  {
+    "question": "Q212 [CBSE 2011] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 3 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 3 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 3 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 3 \\cos{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q213 [CBSE 2012] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 7 x^{2} + 7 x \\, dx$",
+    "answer": "Given Integral: ∫ 7 x^{2} + 7 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{7 x^{3}}{3} + \\frac{7 x^{2}}{2}.<br><br>Exact Answer: \\frac{7 x^{3}}{3} + \\frac{7 x^{2}}{2} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q214 [CBSE 2013] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 3
+  },
+  {
+    "question": "Q215 [CBSE 2014] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{4}$",
+    "answer": "Given Function: f(x) = x^{4}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 4 x^{3}<br><br>Exact Answer: 4 x^{3}",
+    "marks": 3
+  },
+  {
+    "question": "Q216 [CBSE 2015] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 2
+  },
+  {
+    "question": "Q217 [CBSE 2016] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{3 x}$",
+    "answer": "Given Function: f(x) = e^{3 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 3 e^{3 x}<br><br>Exact Answer: 3 e^{3 x}",
+    "marks": 2
+  },
+  {
+    "question": "Q218 [CBSE 2017] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 2
+  },
+  {
+    "question": "Q219 [CBSE 2018] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{4}$",
+    "answer": "Given Function: f(x) = x^{4}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 4 x^{3}<br><br>Exact Answer: 4 x^{3}",
+    "marks": 3
+  },
+  {
+    "question": "Q220 [CBSE 2019] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 2
+  },
+  {
+    "question": "Q221 [CBSE 2020] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 5 x^{2} + 15 x \\, dx$",
+    "answer": "Given Integral: ∫ 5 x^{2} + 15 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{5 x^{3}}{3} + \\frac{15 x^{2}}{2}.<br><br>Exact Answer: \\frac{5 x^{3}}{3} + \\frac{15 x^{2}}{2} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q222 [CBSE 2021] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 3
+  },
+  {
+    "question": "Q223 [CBSE 2022] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{5 x}$",
+    "answer": "Given Function: f(x) = e^{5 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 5 e^{5 x}<br><br>Exact Answer: 5 e^{5 x}",
+    "marks": 2
+  },
+  {
+    "question": "Q224 [CBSE 2023] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 8 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 8 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 8 \\cos{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q225 [CBSE 2010] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 3
+  },
+  {
+    "question": "Q226 [CBSE 2011] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 8 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 8 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 8 \\cos{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q227 [CBSE 2012] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 3
+  },
+  {
+    "question": "Q228 [CBSE 2013] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q229 [CBSE 2014] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{4 x}$",
+    "answer": "Given Function: f(x) = e^{4 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 4 e^{4 x}<br><br>Exact Answer: 4 e^{4 x}",
+    "marks": 2
+  },
+  {
+    "question": "Q230 [CBSE 2015] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q231 [CBSE 2016] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 3 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 3 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 3 e^{x}.<br><br>Exact Answer: 3 e^{x} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q232 [CBSE 2017] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{2 x}$",
+    "answer": "Given Function: f(x) = e^{2 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 e^{2 x}<br><br>Exact Answer: 2 e^{2 x}",
+    "marks": 3
+  },
+  {
+    "question": "Q233 [CBSE 2018] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 8 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 8 e^{x}.<br><br>Exact Answer: 8 e^{x} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q234 [CBSE 2019] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q235 [CBSE 2020] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{3}$",
+    "answer": "Given Function: f(x) = x^{3}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 3 x^{2}<br><br>Exact Answer: 3 x^{2}",
+    "marks": 2
+  },
+  {
+    "question": "Q236 [CBSE 2021] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 3 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 3 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 3 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 3 \\cos{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q237 [CBSE 2022] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{5 x}$",
+    "answer": "Given Function: f(x) = e^{5 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 5 e^{5 x}<br><br>Exact Answer: 5 e^{5 x}",
+    "marks": 3
+  },
+  {
+    "question": "Q238 [CBSE 2023] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{6}$",
+    "answer": "Given Function: f(x) = x^{6}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 6 x^{5}<br><br>Exact Answer: 6 x^{5}",
+    "marks": 3
+  },
+  {
+    "question": "Q239 [CBSE 2010] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 x^{3} + 18 x \\, dx$",
+    "answer": "Given Integral: ∫ 2 x^{3} + 18 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{x^{4}}{2} + 9 x^{2}.<br><br>Exact Answer: \\frac{x^{4}}{2} + 9 x^{2} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q240 [CBSE 2011] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 2
+  },
+  {
+    "question": "Q241 [CBSE 2012] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 2
+  },
+  {
+    "question": "Q242 [CBSE 2013] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 8 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 8 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 8 \\cos{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q243 [CBSE 2014] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 8 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 8 e^{x}.<br><br>Exact Answer: 8 e^{x} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q244 [CBSE 2015] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q245 [CBSE 2016] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 8 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 8 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 8 \\sin{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q246 [CBSE 2017] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 4 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 4 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 4 e^{x}.<br><br>Exact Answer: 4 e^{x} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q247 [CBSE 2018] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q248 [CBSE 2019] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{6}$",
+    "answer": "Given Function: f(x) = x^{6}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 6 x^{5}<br><br>Exact Answer: 6 x^{5}",
+    "marks": 3
+  },
+  {
+    "question": "Q249 [CBSE 2020] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 7 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 7 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 7 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 7 \\sin{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q250 [CBSE 2021] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q251 [CBSE 2022] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 4 x^{4} + 12 x \\, dx$",
+    "answer": "Given Integral: ∫ 4 x^{4} + 12 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{4 x^{5}}{5} + 6 x^{2}.<br><br>Exact Answer: \\frac{4 x^{5}}{5} + 6 x^{2} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q252 [CBSE 2023] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{6}$",
+    "answer": "Given Function: f(x) = x^{6}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 6 x^{5}<br><br>Exact Answer: 6 x^{5}",
+    "marks": 2
+  },
+  {
+    "question": "Q253 [CBSE 2010] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 3 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 3 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 3 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 3 \\sin{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q254 [CBSE 2011] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 8 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 8 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 8 \\cos{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q255 [CBSE 2012] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{5 x}$",
+    "answer": "Given Function: f(x) = e^{5 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 5 e^{5 x}<br><br>Exact Answer: 5 e^{5 x}",
+    "marks": 2
+  },
+  {
+    "question": "Q256 [CBSE 2013] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 2
+  },
+  {
+    "question": "Q257 [CBSE 2014] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 3 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 3 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 3 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 3 \\cos{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q258 [CBSE 2015] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q259 [CBSE 2016] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 3
+  },
+  {
+    "question": "Q260 [CBSE 2017] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 2
+  },
+  {
+    "question": "Q261 [CBSE 2018] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 7 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 7 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 7 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 7 \\cos{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q262 [CBSE 2019] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{7}$",
+    "answer": "Given Function: f(x) = x^{7}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 7 x^{6}<br><br>Exact Answer: 7 x^{6}",
+    "marks": 3
+  },
+  {
+    "question": "Q263 [CBSE 2020] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 5 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 5 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 5 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 5 \\cos{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q264 [CBSE 2021] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 2 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 2 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 2 \\sin{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q265 [CBSE 2022] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 7 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 7 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 7 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 7 \\sin{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q266 [CBSE 2023] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 7 x^{3} + 70 x \\, dx$",
+    "answer": "Given Integral: ∫ 7 x^{3} + 70 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{7 x^{4}}{4} + 35 x^{2}.<br><br>Exact Answer: \\frac{7 x^{4}}{4} + 35 x^{2} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q267 [CBSE 2010] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 3
+  },
+  {
+    "question": "Q268 [CBSE 2011] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{3}$",
+    "answer": "Given Function: f(x) = x^{3}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 3 x^{2}<br><br>Exact Answer: 3 x^{2}",
+    "marks": 3
+  },
+  {
+    "question": "Q269 [CBSE 2012] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 x^{5} + 10 x \\, dx$",
+    "answer": "Given Integral: ∫ 2 x^{5} + 10 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{x^{6}}{3} + 5 x^{2}.<br><br>Exact Answer: \\frac{x^{6}}{3} + 5 x^{2} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q270 [CBSE 2013] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 2
+  },
+  {
+    "question": "Q271 [CBSE 2014] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 2
+  },
+  {
+    "question": "Q272 [CBSE 2015] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 5 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 5 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 5 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 5 \\cos{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q273 [CBSE 2016] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 5 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 5 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 5 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 5 \\cos{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q274 [CBSE 2017] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 6 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 6 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 6 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 6 \\sin{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q275 [CBSE 2018] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 5 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 5 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 5 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 5 \\cos{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q276 [CBSE 2019] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q277 [CBSE 2020] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 7 x^{2} + 63 x \\, dx$",
+    "answer": "Given Integral: ∫ 7 x^{2} + 63 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{7 x^{3}}{3} + \\frac{63 x^{2}}{2}.<br><br>Exact Answer: \\frac{7 x^{3}}{3} + \\frac{63 x^{2}}{2} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q278 [CBSE 2021] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 3
+  },
+  {
+    "question": "Q279 [CBSE 2022] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 3
+  },
+  {
+    "question": "Q280 [CBSE 2023] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 3
+  },
+  {
+    "question": "Q281 [CBSE 2010] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 x^{3} + 80 x \\, dx$",
+    "answer": "Given Integral: ∫ 8 x^{3} + 80 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 2 x^{4} + 40 x^{2}.<br><br>Exact Answer: 2 x^{4} + 40 x^{2} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q282 [CBSE 2011] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q283 [CBSE 2012] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 x^{4} + 8 x \\, dx$",
+    "answer": "Given Integral: ∫ 2 x^{4} + 8 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{2 x^{5}}{5} + 4 x^{2}.<br><br>Exact Answer: \\frac{2 x^{5}}{5} + 4 x^{2} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q284 [CBSE 2013] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 6 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 6 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 6 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 6 \\cos{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q285 [CBSE 2014] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 3
+  },
+  {
+    "question": "Q286 [CBSE 2015] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{3 x}$",
+    "answer": "Given Function: f(x) = e^{3 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 3 e^{3 x}<br><br>Exact Answer: 3 e^{3 x}",
+    "marks": 3
+  },
+  {
+    "question": "Q287 [CBSE 2016] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 8 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 8 e^{x}.<br><br>Exact Answer: 8 e^{x} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q288 [CBSE 2017] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 2
+  },
+  {
+    "question": "Q289 [CBSE 2018] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 2
+  },
+  {
+    "question": "Q290 [CBSE 2019] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 2
+  },
+  {
+    "question": "Q291 [CBSE 2020] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q292 [CBSE 2021] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 2
+  },
+  {
+    "question": "Q293 [CBSE 2022] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{2 x}$",
+    "answer": "Given Function: f(x) = e^{2 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 e^{2 x}<br><br>Exact Answer: 2 e^{2 x}",
+    "marks": 2
+  },
+  {
+    "question": "Q294 [CBSE 2023] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 2
+  },
+  {
+    "question": "Q295 [CBSE 2010] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 3
+  },
+  {
+    "question": "Q296 [CBSE 2011] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 5 x^{2} + 45 x \\, dx$",
+    "answer": "Given Integral: ∫ 5 x^{2} + 45 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{5 x^{3}}{3} + \\frac{45 x^{2}}{2}.<br><br>Exact Answer: \\frac{5 x^{3}}{3} + \\frac{45 x^{2}}{2} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q297 [CBSE 2012] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 4 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 4 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 4 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 4 \\sin{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q298 [CBSE 2013] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{5}$",
+    "answer": "Given Function: f(x) = x^{5}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 5 x^{4}<br><br>Exact Answer: 5 x^{4}",
+    "marks": 2
+  },
+  {
+    "question": "Q299 [CBSE 2014] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 7 x^{5} + 21 x \\, dx$",
+    "answer": "Given Integral: ∫ 7 x^{5} + 21 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{7 x^{6}}{6} + \\frac{21 x^{2}}{2}.<br><br>Exact Answer: \\frac{7 x^{6}}{6} + \\frac{21 x^{2}}{2} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q300 [CBSE 2015] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 3
+  },
+  {
+    "question": "Q301 [CBSE 2016] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 2
+  },
+  {
+    "question": "Q302 [CBSE 2017] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 7 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 7 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 7 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 7 \\sin{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q303 [CBSE 2018] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 3
+  },
+  {
+    "question": "Q304 [CBSE 2019] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{7}$",
+    "answer": "Given Function: f(x) = x^{7}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 7 x^{6}<br><br>Exact Answer: 7 x^{6}",
+    "marks": 3
+  },
+  {
+    "question": "Q305 [CBSE 2020] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 3
+  },
+  {
+    "question": "Q306 [CBSE 2021] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 8 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 8 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 8 \\cos{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q307 [CBSE 2022] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 2
+  },
+  {
+    "question": "Q308 [CBSE 2023] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 7 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 7 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 7 e^{x}.<br><br>Exact Answer: 7 e^{x} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q309 [CBSE 2010] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q310 [CBSE 2011] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{5 x}$",
+    "answer": "Given Function: f(x) = e^{5 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 5 e^{5 x}<br><br>Exact Answer: 5 e^{5 x}",
+    "marks": 3
+  },
+  {
+    "question": "Q311 [CBSE 2012] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 3
+  },
+  {
+    "question": "Q312 [CBSE 2013] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q313 [CBSE 2014] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 3 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 3 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 3 e^{x}.<br><br>Exact Answer: 3 e^{x} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q314 [CBSE 2015] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q315 [CBSE 2016] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q316 [CBSE 2017] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q317 [CBSE 2018] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 2
+  },
+  {
+    "question": "Q318 [CBSE 2019] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 2
+  },
+  {
+    "question": "Q319 [CBSE 2020] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{3}$",
+    "answer": "Given Function: f(x) = x^{3}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 3 x^{2}<br><br>Exact Answer: 3 x^{2}",
+    "marks": 3
+  },
+  {
+    "question": "Q320 [CBSE 2021] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 3
+  },
+  {
+    "question": "Q321 [CBSE 2022] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 2
+  },
+  {
+    "question": "Q322 [CBSE 2023] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q323 [CBSE 2010] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{4}$",
+    "answer": "Given Function: f(x) = x^{4}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 4 x^{3}<br><br>Exact Answer: 4 x^{3}",
+    "marks": 3
+  },
+  {
+    "question": "Q324 [CBSE 2011] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 2
+  },
+  {
+    "question": "Q325 [CBSE 2012] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 2
+  },
+  {
+    "question": "Q326 [CBSE 2013] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 x^{3} + 14 x \\, dx$",
+    "answer": "Given Integral: ∫ 2 x^{3} + 14 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{x^{4}}{2} + 7 x^{2}.<br><br>Exact Answer: \\frac{x^{4}}{2} + 7 x^{2} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q327 [CBSE 2014] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 2 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 2 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 2 \\sin{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q328 [CBSE 2015] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 3
+  },
+  {
+    "question": "Q329 [CBSE 2016] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 2
+  },
+  {
+    "question": "Q330 [CBSE 2017] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 2
+  },
+  {
+    "question": "Q331 [CBSE 2018] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 2
+  },
+  {
+    "question": "Q332 [CBSE 2019] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q333 [CBSE 2020] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 2
+  },
+  {
+    "question": "Q334 [CBSE 2021] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 6 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 6 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 6 e^{x}.<br><br>Exact Answer: 6 e^{x} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q335 [CBSE 2022] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 2
+  },
+  {
+    "question": "Q336 [CBSE 2023] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 4 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 4 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 4 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 4 \\cos{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q337 [CBSE 2010] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 3
+  },
+  {
+    "question": "Q338 [CBSE 2011] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 4 x^{3} + 16 x \\, dx$",
+    "answer": "Given Integral: ∫ 4 x^{3} + 16 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is x^{4} + 8 x^{2}.<br><br>Exact Answer: x^{4} + 8 x^{2} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q339 [CBSE 2012] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{3 x}$",
+    "answer": "Given Function: f(x) = e^{3 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 3 e^{3 x}<br><br>Exact Answer: 3 e^{3 x}",
+    "marks": 2
+  },
+  {
+    "question": "Q340 [CBSE 2013] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 2
+  },
+  {
+    "question": "Q341 [CBSE 2014] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 4 x^{4} + 40 x \\, dx$",
+    "answer": "Given Integral: ∫ 4 x^{4} + 40 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{4 x^{5}}{5} + 20 x^{2}.<br><br>Exact Answer: \\frac{4 x^{5}}{5} + 20 x^{2} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q342 [CBSE 2015] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 3
+  },
+  {
+    "question": "Q343 [CBSE 2016] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 2
+  },
+  {
+    "question": "Q344 [CBSE 2017] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 3
+  },
+  {
+    "question": "Q345 [CBSE 2018] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 3
+  },
+  {
+    "question": "Q346 [CBSE 2019] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q347 [CBSE 2020] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{4}$",
+    "answer": "Given Function: f(x) = x^{4}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 4 x^{3}<br><br>Exact Answer: 4 x^{3}",
+    "marks": 3
+  },
+  {
+    "question": "Q348 [CBSE 2021] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 2
+  },
+  {
+    "question": "Q349 [CBSE 2022] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 2
+  },
+  {
+    "question": "Q350 [CBSE 2023] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{3 x}$",
+    "answer": "Given Function: f(x) = e^{3 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 3 e^{3 x}<br><br>Exact Answer: 3 e^{3 x}",
+    "marks": 3
+  },
+  {
+    "question": "Q351 [CBSE 2010] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 2
+  },
+  {
+    "question": "Q352 [CBSE 2011] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{7}$",
+    "answer": "Given Function: f(x) = x^{7}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 7 x^{6}<br><br>Exact Answer: 7 x^{6}",
+    "marks": 3
+  },
+  {
+    "question": "Q353 [CBSE 2012] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 7 x^{3} + 7 x \\, dx$",
+    "answer": "Given Integral: ∫ 7 x^{3} + 7 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{7 x^{4}}{4} + \\frac{7 x^{2}}{2}.<br><br>Exact Answer: \\frac{7 x^{4}}{4} + \\frac{7 x^{2}}{2} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q354 [CBSE 2013] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 2 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 2 e^{x}.<br><br>Exact Answer: 2 e^{x} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q355 [CBSE 2014] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{5 x}$",
+    "answer": "Given Function: f(x) = e^{5 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 5 e^{5 x}<br><br>Exact Answer: 5 e^{5 x}",
+    "marks": 3
+  },
+  {
+    "question": "Q356 [CBSE 2015] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 2
+  },
+  {
+    "question": "Q357 [CBSE 2016] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 7 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 7 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 7 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 7 \\cos{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q358 [CBSE 2017] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 2 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 2 e^{x}.<br><br>Exact Answer: 2 e^{x} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q359 [CBSE 2018] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 8 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 8 e^{x}.<br><br>Exact Answer: 8 e^{x} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q360 [CBSE 2019] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 2
+  },
+  {
+    "question": "Q361 [CBSE 2020] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 3
+  },
+  {
+    "question": "Q362 [CBSE 2021] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 8 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 8 e^{x}.<br><br>Exact Answer: 8 e^{x} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q363 [CBSE 2022] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 4 x^{2} + 4 x \\, dx$",
+    "answer": "Given Integral: ∫ 4 x^{2} + 4 x dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is \\frac{4 x^{3}}{3} + 2 x^{2}.<br><br>Exact Answer: \\frac{4 x^{3}}{3} + 2 x^{2} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q364 [CBSE 2023] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 7 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 7 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 7 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 7 \\sin{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q365 [CBSE 2010] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 5 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 5 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 5 e^{x}.<br><br>Exact Answer: 5 e^{x} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q366 [CBSE 2011] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 3
+  },
+  {
+    "question": "Q367 [CBSE 2012] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 2
+  },
+  {
+    "question": "Q368 [CBSE 2013] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q369 [CBSE 2014] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 4 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 4 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 4 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 4 \\sin{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q370 [CBSE 2015] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q371 [CBSE 2016] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q372 [CBSE 2017] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 8 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 8 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 8 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 8 \\cos{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q373 [CBSE 2018] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 2
+  },
+  {
+    "question": "Q374 [CBSE 2019] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 2
+  },
+  {
+    "question": "Q375 [CBSE 2020] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 2
+  },
+  {
+    "question": "Q376 [CBSE 2021] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 3
+  },
+  {
+    "question": "Q377 [CBSE 2022] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 3
+  },
+  {
+    "question": "Q378 [CBSE 2023] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 2
+  },
+  {
+    "question": "Q379 [CBSE 2010] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 5 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 5 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 5 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 5 \\sin{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q380 [CBSE 2011] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 2
+  },
+  {
+    "question": "Q381 [CBSE 2012] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 2
+  },
+  {
+    "question": "Q382 [CBSE 2013] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{4} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{4} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 4.<br><br>Exact Answer: 4",
+    "marks": 3
+  },
+  {
+    "question": "Q383 [CBSE 2014] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 2 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 2 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 2 e^{x}.<br><br>Exact Answer: 2 e^{x} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q384 [CBSE 2015] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q385 [CBSE 2016] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{2} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{2} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 2.<br><br>Exact Answer: 2",
+    "marks": 3
+  },
+  {
+    "question": "Q386 [CBSE 2017] (3 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 3
+  },
+  {
+    "question": "Q387 [CBSE 2018] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 3 \\cos{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 3 \\cos{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 3 \\sin{\\left(x \\right)}.<br><br>Exact Answer: 3 \\sin{\\left(x \\right)} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q388 [CBSE 2019] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{2 x}$",
+    "answer": "Given Function: f(x) = e^{2 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 e^{2 x}<br><br>Exact Answer: 2 e^{2 x}",
+    "marks": 3
+  },
+  {
+    "question": "Q389 [CBSE 2020] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 3
+  },
+  {
+    "question": "Q390 [CBSE 2021] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 2
+  },
+  {
+    "question": "Q391 [CBSE 2022] (5 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 3 e^{x} \\, dx$",
+    "answer": "Given Integral: ∫ 3 e^{x} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is 3 e^{x}.<br><br>Exact Answer: 3 e^{x} + C",
+    "marks": 5
+  },
+  {
+    "question": "Q392 [CBSE 2023] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{4 x}$",
+    "answer": "Given Function: f(x) = e^{4 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 4 e^{4 x}<br><br>Exact Answer: 4 e^{4 x}",
+    "marks": 3
+  },
+  {
+    "question": "Q393 [CBSE 2010] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = e^{4 x}$",
+    "answer": "Given Function: f(x) = e^{4 x}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 4 e^{4 x}<br><br>Exact Answer: 4 e^{4 x}",
+    "marks": 2
+  },
+  {
+    "question": "Q394 [CBSE 2011] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\log{\\left(x \\right)}$",
+    "answer": "Given Function: f(x) = \\log{\\left(x \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = \\frac{1}{x}<br><br>Exact Answer: \\frac{1}{x}",
+    "marks": 3
+  },
+  {
+    "question": "Q395 [CBSE 2012] (3 Marks): For the topic Applications of the Integrals, evaluate the exact indefinite integral: $\\int 4 \\sin{\\left(x \\right)} \\, dx$",
+    "answer": "Given Integral: ∫ 4 \\sin{\\left(x \\right)} dx<br><br>Step 1: Identify the standard integration form.<br>Step 2: Using SymPy symbolic integration engine, evaluate exactly.<br>Step 3: The antiderivative is - 4 \\cos{\\left(x \\right)}.<br><br>Exact Answer: - 4 \\cos{\\left(x \\right)} + C",
+    "marks": 3
+  },
+  {
+    "question": "Q396 [CBSE 2013] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{7}$",
+    "answer": "Given Function: f(x) = x^{7}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 7 x^{6}<br><br>Exact Answer: 7 x^{6}",
+    "marks": 3
+  },
+  {
+    "question": "Q397 [CBSE 2014] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{7}$",
+    "answer": "Given Function: f(x) = x^{7}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 7 x^{6}<br><br>Exact Answer: 7 x^{6}",
+    "marks": 3
+  },
+  {
+    "question": "Q398 [CBSE 2015] (2 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = \\sin{\\left(x^{2} \\right)}$",
+    "answer": "Given Function: f(x) = \\sin{\\left(x^{2} \\right)}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 2 x \\cos{\\left(x^{2} \\right)}<br><br>Exact Answer: 2 x \\cos{\\left(x^{2} \\right)}",
+    "marks": 2
+  },
+  {
+    "question": "Q399 [CBSE 2016] (3 Marks): In Applications of the Integrals, precisely differentiate the function with respect to x: $f(x) = x^{7}$",
+    "answer": "Given Function: f(x) = x^{7}<br><br>Step 1: Apply the appropriate chain/product rules of differentiation.<br>Step 2: The exact symbolic derivative computed is: f'(x) = 7 x^{6}<br><br>Exact Answer: 7 x^{6}",
+    "marks": 3
+  },
+  {
+    "question": "Q400 [CBSE 2017] (2 Marks): Analyze using concepts from Applications of the Integrals. Evaluate the exact limit: $\\lim_{x \\to 1} \\frac{x^{3} - 1}{x - 1}$",
+    "answer": "Given Limit: lim (x→1) [\\frac{x^{3} - 1}{x - 1}]<br><br>Step 1: Direct substitution yields 0/0, an indeterminate form.<br>Step 2: Apply L'Hôpital's Rule or factor the numerator.<br>Step 3: The exact evaluated limit is 3.<br><br>Exact Answer: 3",
+    "marks": 2
+  }
+]

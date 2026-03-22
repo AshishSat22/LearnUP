@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="dashboard-header animate-fade-in">
+    <h1>Welcome to LearnUP</h1>
+    <p class="subtitle">Your Smart Study Companion for CBSE Class 12</p>
+</div>
+
+<div class="dashboard-grid">
+    {% set colors = ['#4CC9F0', '#F72585', '#4361EE', '#3A0CA3'] %}
+    {% for subject in subjects %}
+    {% set c = colors[loop.index0 % colors|length] %}
+    <a href="{{ url_for('subject_view', subject=subject) }}" class="subject-card blur-card animate-slide-up" style="--accent-color: {{ c }}; animation-delay: {{ loop.index0 * 0.1 }}s">
+        <div class="card-icon" style="color: {{ c }}">{{ subject[0]|upper }}</div>
+        <div class="card-content">
+            <h2>{{ subject }}</h2>
+            <p>Explore chapters, videos, and quizzes</p>
+        </div>
+        <div class="card-arrow" style="color: {{ c }}">→</div>
+    </a>
+    {% else %}
+    <div class="empty-state">
+        <p>No subjects found. Please check data directory.</p>
+    </div>
+    {% endfor %}
+</div>
+
+<!-- Optional Section: Quick Analytics or Bookmarks -->
+<div class="dashboard-widgets animate-fade-in" style="animation-delay: 0.4s;">
+    <div class="widget blur-card">
+        <h3>Quick Links</h3>
+        <div class="widget-content">
+            <a href="{{ url_for('scores_view') }}" class="btn primary">View Analytics</a>
+            <a href="{{ url_for('bookmarks_view') }}" class="btn secondary">My Bookmarks</a>
+        </div>
+    </div>
+</div>
+{% endblock %}

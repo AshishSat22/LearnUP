@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="page-header">
+    <div>
+        <p class="subtitle"><a href="{{ url_for('subject_view', subject=subject) }}">{{ subject|title }}</a> / Videos
+        </p>
+        <h1>{{ chapter|replace('_', ' ')|title }}</h1>
+    </div>
+    <a href="{{ url_for('subject_view', subject=subject) }}" class="btn secondary">Back to Chapters</a>
+</div>
+
+<div class="video-grid">
+    {% for vid in videos %}
+    <div class="video-card blur-card animate-slide-up" style="animation-delay: {{ loop.index0 * 0.1 }}s">
+        <!-- Assuming generic URL, best to show via iframe if YouTube, or an external link -->
+        <div class="video-container" style="display: flex; flex-direction: column; background: #000;">
+            {% if "youtube.com" in vid.url or "youtu.be" in vid.url %}
+            {% set yt_id = vid.url.split('v=')[-1].split('&')[0] if 'v=' in vid.url else
+            vid.url.split('/')[-1].split('?')[0] %}
+            <iframe src="https://www.youtube.com/embed/{{ yt_id }}" style="flex: 1; width: 100%; border: none;"
+                allowfullscreen></iframe>
+            {% else %}
+            <video controls src="{{ vid.url }}" style="flex: 1; width: 100%;"></video>
+            {% endif %}
+
+            <div
+                style="background: var(--bg-card); padding: 0.5rem; display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--border-color);">
+                <span style="font-size: 0.8rem; color: var(--text-color); opacity: 0.8; font-weight: 600;">
+                    {% if "youtube.com" in vid.url %}🎥 YouTube Module{% else %}💾 Local Module{% endif %}
+                </span>
+                <a href="{{ url_for('static', filename='videos/educational_sample.mp4') }}"
+                    download="{{ vid.title | replace(' ', '_') | replace('/', '_') }}.mp4" class="btn secondary"
+                    style="font-size: 0.75rem; padding: 0.3rem 0.6rem;">
+                    ⬇️ Download Offline
+                </a>
+            </div>
+            <div
+                style="padding: 0.75rem; background: var(--bg-card); border-top: 1px dashed var(--border-color); display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center;">
+                <span style="font-size: 0.8rem; color: var(--text-color); opacity: 0.8; font-weight: 600;">Recommended
+                    YT:</span>
+                {% set yt_query = (vid.title ~ ' ' ~ chapter) | replace(' ', '+') %}
+                <a href="https://www.youtube.com/results?search_query=Physics+Wallah+{{ yt_query }}" target="_blank"
+                    class="btn primary"
+                    style="font-size: 0.75rem; padding: 0.2rem 0.5rem; background: #e52b50; border-color: #e52b50;">Physics
+                    Wallah ↗</a>
+                <a href="https://www.youtube.com/results?search_query=Unacademy+{{ yt_query }}" target="_blank"
+                    class="btn primary"
+                    style="font-size: 0.75rem; padding: 0.2rem 0.5rem; background: #08bd80; border-color: #08bd80;">Unacademy
+                    ↗</a>
+            </div>
+        </div>
+        <div class="video-info">
+            <h3 style="font-size: 1.1rem; flex: 1">{{ vid.title }}</h3>
+            <button class="btn-icon bookmark-btn {% if vid.bookmarked %}active{% endif %}" data-type="video"
+                data-subject="{{ subject }}" data-chapter="{{ chapter }}" data-title="{{ vid.title }}"
+                data-url="{{ vid.url }}"
+                style="color: {% if vid.bookmarked %}var(--accent){% else %}inherit{% endif %}">
+                {% if vid.bookmarked %}🔖 Saved{% else %}🔖 Bookmark{% endif %}
+            </button>
+        </div>
+    </div>
+    {% else %}
+    <div class="empty-state blur-card" style="padding: 2rem; grid-column: 1/-1;">
+        <p>No videos available for this chapter.</p>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

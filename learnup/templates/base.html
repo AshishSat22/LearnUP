@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LearnUP — CBSE Class 12</title>
+    <!-- Modern Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body class="light-mode" id="app-body">
+    <div class="app-layout">
+        <!-- Top Navigation -->
+        <header class="topbar glass">
+            <div class="logo">
+                <a href="{{ url_for('index') }}" class="nav-brand">
+                    <span class="icon">⚡</span> LearnUP
+                </a>
+            </div>
+            <nav class="nav-links">
+                <a href="{{ url_for('index') }}" class="nav-item {% if request.endpoint == 'index' %}active{% endif %}">🏠 Home</a>
+                <a href="{{ url_for('official_papers_index') }}" class="nav-item {% if 'official_papers' in request.endpoint %}active{% endif %}">📄 Official Papers</a>
+                <a href="{{ url_for('external_resources_view') }}" class="nav-item {% if request.endpoint == 'external_resources_view' %}active{% endif %}">🌐 External Hub</a>
+                <a href="{{ url_for('bookmarks_view') }}" class="nav-item {% if request.endpoint == 'bookmarks_view' %}active{% endif %}">🔖 Bookmarks</a>
+                <a href="{{ url_for('scores_view') }}" class="nav-item {% if request.endpoint == 'scores_view' %}active{% endif %}">📊 Scores</a>
+            </nav>
+            <div class="nav-actions">
+                <form action="{{ url_for('search_view') }}" method="GET" class="search-form">
+                    <input type="text" name="q" placeholder="🔍 Search..." value="{{ request.args.get('q', '') }}">
+                </form>
+                <button id="theme-toggle" class="btn-icon">🌙</button>
+            </div>
+        </header>
+
+        <!-- Main Content Area -->
+        <main class="content-area">
+            {% block content %}{% endblock %}
+        </main>
+    </div>
+    
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    {% block scripts %}{% endblock %}
+</body>
+</html>

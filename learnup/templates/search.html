@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="page-header">
+    <h1>🔍 Search Results {% if query %}for "{{ query }}"{% endif %}</h1>
+</div>
+
+{% if not query %}
+    <div class="blur-card p-4">
+        <p>Please enter a search query in the top bar.</p>
+    </div>
+{% else %}
+
+<div class="layout-grid" style="display: grid; gap: 2rem;">
+
+    <!-- Video Results -->
+    <div class="blur-card p-4">
+        <h2 style="padding: 1rem; border-bottom: 1px solid var(--border-color)">🎬 Videos ({{ video_results|length }})</h2>
+        <div class="chapter-list p-2">
+            {% for res in video_results %}
+            <a href="{{ url_for('videos_view', subject=res.subject, chapter=res.chapter) }}" class="chapter-item blur-card">
+                <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+                    <span class="badge" style="background:var(--accent); color:white; width: max-content; padding: 2px 6px; border-radius: 4px; font-size: 0.8rem;">{{ res.subject|upper }} - {{ res.chapter|replace('_', ' ')|title }}</span>
+                    <span class="chapter-title">{{ res.title }}</span>
+                </div>
+                <span class="card-arrow">→</span>
+            </a>
+            {% else %}
+            <p style="padding: 1rem; color: var(--text-secondary)">No videos found.</p>
+            {% endfor %}
+        </div>
+    </div>
+
+    <!-- Question Results -->
+    <div class="blur-card p-4">
+        <h2 style="padding: 1rem; border-bottom: 1px solid var(--border-color)">📝 Questions ({{ question_results|length }})</h2>
+        <div class="chapter-list p-2">
+            {% for res in question_results %}
+            <a href="{{ url_for('questions_view', subject=res.subject, chapter=res.chapter) }}" class="chapter-item blur-card">
+                <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+                    <span class="badge" style="background:var(--accent); color:white; width: max-content; padding: 2px 6px; border-radius: 4px; font-size: 0.8rem;">{{ res.subject|upper }} - {{ res.chapter|replace('_', ' ')|title }}</span>
+                    <span class="chapter-title" style="font-weight: normal; font-size: 0.95rem;">"...{{ res.snippet }}..."</span>
+                </div>
+                <span class="card-arrow">→</span>
+            </a>
+            {% else %}
+            <p style="padding: 1rem; color: var(--text-secondary)">No questions found.</p>
+            {% endfor %}
+        </div>
+    </div>
+
+</div>
+
+{% endif %}
+{% endblock %}
