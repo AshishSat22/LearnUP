@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 regarding SI Units in Wave Optics: Choose the correct option.",
+    "question": "Which of the following phenomena proves the transverse nature of light?",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Interference",
+      "Diffraction",
+      "Polarisation",
+      "Reflection"
     ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Only transverse waves can be polarised.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 regarding Dimensional Formula in Wave Optics: Choose the correct option.",
+    "question": "Wavefront is the locus of all points vibrating in the:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Same phase",
+      "Opposite phase",
+      "Zero phase",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 regarding Constant Value in Wave Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "By definition of a wavefront.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 regarding Derivation Step in Wave Optics: Choose the correct option.",
+    "question": "In Young's Double Slit Experiment, if the distance between slits is halved, fringe width becomes:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Double",
+      "Half",
+      "Four times",
+      "One-fourth"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 regarding Scalar vs Vector in Wave Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "\u03b2 = \u03bbD/d. Since \u03b2 \u221d 1/d, halving d doubles \u03b2.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 regarding Proportionality in Wave Optics: Choose the correct option.",
+    "question": "The idea of secondary wavelets was given by:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Newton",
+      "Huygens",
+      "Maxwell",
+      "Fresnel"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 regarding Inverse Proportionality in Wave Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Huygens' Principle explains wave propagation.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 regarding Graph Shape in Wave Optics: Choose the correct option.",
+    "question": "For sustained interference, the two sources must be:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Coherent",
+      "Incoherent",
+      "Point sources",
+      "Monochromatic"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 regarding Law or Principle in Wave Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Constant phase difference is required.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 regarding Formula Identification in Wave Optics: Choose the correct option.",
+    "question": "Ratio of intensities of two waves is 9:1. Ratio of amplitudes is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "3:1",
+      "9:1",
+      "81:1",
+      "1:3"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 regarding Practical Application in Wave Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Intensity I \u221d A\u00b2. So A = \u221aI.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 regarding Exception or Limitation in Wave Optics: Choose the correct option.",
+    "question": "The central fringe in the interference pattern is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Bright",
+      "Dark",
+      "Colored",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 regarding Numerical (Easy) in Wave Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Path difference is zero at the center.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 regarding Numerical (Medium) in Wave Optics: Choose the correct option.",
+    "question": "Bending of light around the corners of an obstacle is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Interference",
+      "Diffraction",
+      "Dispersion",
+      "Polarisation"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 regarding Numerical (Hard) in Wave Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Definition of diffraction.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 regarding True/False in Wave Optics: Choose the correct option.",
+    "question": "In a single slit diffraction, the width of central maximum is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "2\u03bbD/d",
+      "\u03bbD/d",
+      "\u03bb/d",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 regarding Assertion Reason 1 in Wave Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Angular width is 2\u03bb/d.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 regarding Assertion Reason 2 in Wave Optics: Choose the correct option.",
+    "question": "Resolving power of a microscope increases with:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Increasing \u03bb",
+      "Decreasing \u03bb",
+      "Decreasing refractive index",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 regarding Right Hand Rule / Convention in Wave Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "RP \u221d 1/\u03bb.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 regarding Electromagnetic Effect in Wave Optics: Choose the correct option.",
+    "question": "Angle of polarisation (Brewster's angle) ip is related to n by:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "n = tan ip",
+      "n = sin ip",
+      "n = cos ip",
+      "n = cot ip"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 regarding Energy Conservation in Wave Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Brewster's Law.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 regarding Momentum Conservation in Wave Optics: Choose the correct option.",
+    "question": "A soap bubble shows colors due to:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Interference",
+      "Diffraction",
+      "Scattering",
+      "Dispersion"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 regarding Limit Case in Wave Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Thin film interference.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 regarding Boundary Condition in Wave Optics: Choose the correct option.",
+    "question": "When a polaroid is rotated, if the intensity of light does not change, the light is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Unpolarised",
+      "Linearly polarised",
+      "Circularly polarised",
+      "Both A and C"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 regarding Material Property in Wave Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 3,
+    "solution": "Unpolarised and circularly polarised light show constant intensity.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 regarding Temperature Dependence in Wave Optics: Choose the correct option.",
+    "question": "Path difference for constructive interference is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "n\u03bb",
+      "(n+1/2)\u03bb",
+      "\u03bb/2",
+      "Zero"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 regarding Frequency Dependence in Wave Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Phase difference must be 2n\u03c0.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 regarding Phase Difference in Wave Optics: Choose the correct option.",
+    "question": "Path difference for destructive interference is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "n\u03bb",
+      "(n+1/2)\u03bb",
+      "\u03bb",
+      "Zero"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 regarding Interference / Superposition in Wave Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Phase difference must be (2n+1)\u03c0.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 regarding Historical Discovery in Wave Optics: Choose the correct option.",
+    "question": "Light travels in a straight line because its:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Velocity is high",
+      "Wavelength is small",
+      "Frequency is high",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
+    "correct_index": 1,
+    "solution": "Diffraction effects are negligible due to small \u03bb.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If YDSE is performed in water instead of air, fringe width:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Same",
+      "Disappears"
+    ],
+    "correct_index": 1,
+    "solution": "\u03bb decreases in water, and \u03b2 \u221d \u03bb.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The wavefront from a point source at a large distance is:",
+    "options": [
+      "Spherical",
+      "Cylindrical",
+      "Plane",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "Curvature decreases as distance increases.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Law of Malus is:",
+    "options": [
+      "I = I\u2080 cos\u00b2\u03b8",
+      "I = I\u2080 sin\u00b2\u03b8",
+      "V = IR",
+      "n = tan i"
+    ],
+    "correct_index": 0,
+    "solution": "Relates intensity and angle between polaroids.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Difference between interference and diffraction is:",
+    "options": [
+      "Number of sources",
+      "Wavelength",
+      "Frequency",
+      "Speed"
+    ],
+    "correct_index": 0,
+    "solution": "Interference (2 sources), Diffraction (single source/wavefront).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Colors in a CD are due to:",
+    "options": [
+      "Diffraction",
+      "Interference",
+      "Refraction",
+      "Reflection"
+    ],
+    "correct_index": 0,
+    "solution": "Acts as a reflection grating.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Primary rainbow is formed by:",
+    "options": [
+      "1 TIR",
+      "2 TIR",
+      "Reflection only",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Involves 1 total internal reflection.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Secondary rainbow is formed by:",
+    "options": [
+      "1 TIR",
+      "2 TIR",
+      "Reflection only",
+      "None"
+    ],
+    "correct_index": 1,
+    "solution": "Involves 2 total internal reflections.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Fresnel distance (Zf) is:",
+    "options": [
+      "a\u00b2/\u03bb",
+      "\u03bb/a\u00b2",
+      "a/\u03bb",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Distance where ray optics is valid.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Unpolarised light passes through a polaroid. Intensity becomes:",
+    "options": [
+      "I\u2080/2",
+      "I\u2080",
+      "Zero",
+      "I\u2080/4"
+    ],
+    "correct_index": 0,
+    "solution": "Half the intensity is absorbed.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Two coherent sources have intensities in ratio 4:1. Max to Min intensity ratio:",
+    "options": [
+      "9:1",
+      "4:1",
+      "5:1",
+      "2:1"
+    ],
+    "correct_index": 0,
+    "solution": "(\u221a4+\u221a1)\u00b2 / (\u221a4-\u221a1)\u00b2 = 3\u00b2/1\u00b2 = 9.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Diffraction is most prominent when size of obstacle is:",
+    "options": [
+      "Comparable to \u03bb",
+      "Much larger than \u03bb",
+      "Much smaller than \u03bb",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Condition for wave character.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In YDSE, white light produces:",
+    "options": [
+      "Central white fringe",
+      "Colored fringes",
+      "Dark center",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "All colors meet in phase at the center.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A wavefront is always:",
+    "options": [
+      "Perpendicular to ray",
+      "Parallel to ray",
+      "At 45\u00b0 to ray",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Ray indicates direction of propagation.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Resolution of human eye is approx:",
+    "options": [
+      "1 minute",
+      "1 degree",
+      "1 second",
+      "10 minutes"
+    ],
+    "correct_index": 0,
+    "solution": "Angular resolution limit.",
+    "difficulty": "Medium"
   }
 ]

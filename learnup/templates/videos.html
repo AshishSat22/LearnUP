@@ -18,7 +18,7 @@
             {% if "youtube.com" in vid.url or "youtu.be" in vid.url %}
             {% set yt_id = vid.url.split('v=')[-1].split('&')[0] if 'v=' in vid.url else
             vid.url.split('/')[-1].split('?')[0] %}
-            <iframe src="https://www.youtube.com/embed/{{ yt_id }}" style="flex: 1; width: 100%; border: none;"
+            <iframe src="https://www.youtube.com/embed/{{ yt_id }}?enablejsapi=1" style="flex: 1; width: 100%; border: none;"
                 allowfullscreen></iframe>
             {% else %}
             <video controls src="{{ vid.url }}" style="flex: 1; width: 100%;"></video>

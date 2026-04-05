@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 on Basic Definition for Alcohols Phenols and Ethers: Which of the following is correct?",
+    "question": "Ethanol is commercially produced by fermentation of:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Molasses",
+      "Wood",
+      "Coal",
+      "None"
     ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Using yeast enzymes.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 on Nomenclature for Alcohols Phenols and Ethers: Which of the following is correct?",
+    "question": "Phenol is also known as:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Carbolic acid",
+      "Picric acid",
+      "Benzyl alcohol",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 on Preparation Method 1 for Alcohols Phenols and Ethers: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Standard common name.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 on Preparation Method 2 for Alcohols Phenols and Ethers: Which of the following is correct?",
+    "question": "Lucas test distinguishes between:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "1\u00b0 2\u00b0 and 3\u00b0 alcohols",
+      "Alcohols and Phenols",
+      "Aldehydes",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 on Physical Property: Boiling Point for Alcohols Phenols and Ethers: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Based on time taken for turbidity.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 on Physical Property: Solubility for Alcohols Phenols and Ethers: Which of the following is correct?",
+    "question": "Aspirin is prepared from:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Salicylic acid",
+      "Phenol",
+      "Ethanol",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 on Chemical Property: Oxidation for Alcohols Phenols and Ethers: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Acetylation of salicylic acid.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 on Chemical Property: Reduction for Alcohols Phenols and Ethers: Which of the following is correct?",
+    "question": "Williamson synthesis is used for:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Ethers",
+      "Alcohols",
+      "Phenols",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 on Reaction with Acids for Alcohols Phenols and Ethers: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "RX + RONa -> ROR + NaX.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 on Reaction with Bases for Alcohols Phenols and Ethers: Which of the following is correct?",
+    "question": "Reimer-Tiemann reaction of Phenol gives:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Salicylaldehyde",
+      "Salicylic acid",
+      "Benzaldehyde",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 on Special Name Reaction 1 for Alcohols Phenols and Ethers: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Reaction with CHCl3 and NaOH.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 on Special Name Reaction 2 for Alcohols Phenols and Ethers: Which of the following is correct?",
+    "question": "Denatured spirit contains:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Ethanol + Methanol",
+      "Pure Ethanol",
+      "Ethanol + Water",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 on Uses and Applications for Alcohols Phenols and Ethers: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Methanol added to make it undrinkable.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 on Environmental Impact for Alcohols Phenols and Ethers: Which of the following is correct?",
+    "question": "Phenol is ________ acidic than Alcohols:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "More",
+      "Less",
+      "Equally",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 on Analytical Test for Alcohols Phenols and Ethers: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Phenoxide ion is resonance stabilized.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 on Mechanism Step 1 for Alcohols Phenols and Ethers: Which of the following is correct?",
+    "question": "Acidic dehydration of Ethanol at 443K gives:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Ethene",
+      "Diethyl ether",
+      "Ethane",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 on Mechanism Step 2 for Alcohols Phenols and Ethers: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Elimination reaction.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 on Catalyst used for Alcohols Phenols and Ethers: Which of the following is correct?",
+    "question": "Acidic dehydration of Ethanol at 413K gives:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Diethyl ether",
+      "Ethene",
+      "Ethane",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 on Temperature conditions for Alcohols Phenols and Ethers: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Substitution reaction.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 on Pressure conditions for Alcohols Phenols and Ethers: Which of the following is correct?",
+    "question": "Which has highest boiling point?",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Alcohols",
+      "Ethers",
+      "Hydrocarbons",
+      "Haloalkanes"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 on Byproducts formed for Alcohols Phenols and Ethers: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Due to intermolecular hydrogen bonding.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 on Thermodynamics of reaction for Alcohols Phenols and Ethers: Which of the following is correct?",
+    "question": "Phenol + Zn dust gives:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Benzene",
+      "Phenoxide",
+      "Toluene",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 on Kinetics of reaction for Alcohols Phenols and Ethers: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Reduction of phenol.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 on Isomerism for Alcohols Phenols and Ethers: Which of the following is correct?",
+    "question": "Methanol is also called:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Wood spirit",
+      "Grain alcohol",
+      "Rubbing alcohol",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 on Stereochemistry for Alcohols Phenols and Ethers: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Traditionally made by destructive distillation of wood.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 on Electronic effect for Alcohols Phenols and Ethers: Which of the following is correct?",
+    "question": "Kolbe's reaction of Phenol gives:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Salicylic acid",
+      "Salicylaldehyde",
+      "Benzene",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 on Steric effect for Alcohols Phenols and Ethers: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Reaction with CO2 and NaOH.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 on Industrial preparation for Alcohols Phenols and Ethers: Which of the following is correct?",
+    "question": "Ethers are isomers of:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Alcohols",
+      "Aldehydes",
+      "Ketones",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 on Laboratory preparation for Alcohols Phenols and Ethers: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Functional group isomerism.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 on Exceptional case for Alcohols Phenols and Ethers: Which of the following is correct?",
+    "question": "Catalytic hydrogenation of Aldehydes gives:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Primary alcohols",
+      "Secondary alcohols",
+      "Tertiary alcohols",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
+    "correct_index": 0,
+    "solution": "Reduction of -CHO.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Grignard + Ketone gives:",
+    "options": [
+      "Tertiary alcohol",
+      "Primary alcohol",
+      "Secondary alcohol",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Standard nucleophilic addition.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Hydroboration-oxidation of Propene gives:",
+    "options": [
+      "Propan-1-ol",
+      "Propan-2-ol",
+      "Propane",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Apparent anti-Markownikov addition.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Solubility of alcohols in water ________ with molar mass:",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Remains same",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Hydrophobic part becomes larger.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Bromination of Phenol in CS2 gives:",
+    "options": [
+      "o and p-Bromophenol",
+      "2 4 6-Tribromophenol",
+      "m-Bromophenol",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Low polarity solvent limits bromination.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Bromination of Phenol in Water gives:",
+    "options": [
+      "2 4 6-Tribromophenol",
+      "o-Bromophenol",
+      "p-Bromophenol",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "White precipitate formed.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Reaction of Ether with HI gives:",
+    "options": [
+      "Alcohol + Alkyl iodide",
+      "Alkane",
+      "Alkene",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Cleavage of C-O bond.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Phenol + Neutral FeCl3 gives:",
+    "options": [
+      "Violet color",
+      "Red color",
+      "Green color",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Test for phenolic group.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Boiling point of Ethers is ________ than Alcohols:",
+    "options": [
+      "Lower",
+      "Higher",
+      "Same",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Ethers lack intermolecular H-bonding.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Power alcohol is a mixture of:",
+    "options": [
+      "Ethanol + Petrol",
+      "Methanol + Petrol",
+      "Ethanol + Water",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Used as fuel.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Oxidation of secondary alcohol with CrO3 gives:",
+    "options": [
+      "Ketone",
+      "Aldehyde",
+      "Carboxylic acid",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Standard oxidation.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Glycerol is a:",
+    "options": [
+      "Trihydric alcohol",
+      "Dihydric",
+      "Monohydric",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Contains three -OH groups.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Propan-2-ol is a:",
+    "options": [
+      "Secondary alcohol",
+      "Primary",
+      "Tertiary",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "OH attached to secondary carbon.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Reaction of Cumene with O2 followed by H+ gives:",
+    "options": [
+      "Phenol + Acetone",
+      "Ethanol",
+      "Benzene",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Commercial method for phenol.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Acidic strength of alcohols order:",
+    "options": [
+      "1\u00b0 > 2\u00b0 > 3\u00b0",
+      "3\u00b0 > 2\u00b0 > 1\u00b0",
+      "All same",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Due to +I effect of alkyl groups.",
+    "difficulty": "Medium"
   }
 ]

@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 regarding SI Units in Alternating Current: Choose the correct option.",
+    "question": "RMS value of AC is related to peak value I\u2080 by:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "I\u2080/\u221a2",
+      "I\u2080/2",
+      "2I\u2080/\u03c0",
+      "\u221a2 I\u2080"
     ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Root Mean Square value.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 regarding Dimensional Formula in Alternating Current: Choose the correct option.",
+    "question": "Average value of AC over a full cycle is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Zero",
+      "I\u2080/\u03c0",
+      "2I\u2080/\u03c0",
+      "I\u2080"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 regarding Constant Value in Alternating Current: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Positive half cancels negative half.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 regarding Derivation Step in Alternating Current: Choose the correct option.",
+    "question": "Reactance of a capacitor (Xc) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1/\u03c9C",
+      "\u03c9C",
+      "L/C",
+      "Zero"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 regarding Scalar vs Vector in Alternating Current: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Inverse with frequency.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 regarding Proportionality in Alternating Current: Choose the correct option.",
+    "question": "Reactance of an inductor (Xl) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "\u03c9L",
+      "1/\u03c9L",
+      "L/C",
+      "Zero"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 regarding Inverse Proportionality in Alternating Current: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Direct with frequency.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 regarding Graph Shape in Alternating Current: Choose the correct option.",
+    "question": "In a purely resistive circuit, phase diff is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "0\u00b0",
+      "90\u00b0",
+      "180\u00b0",
+      "45\u00b0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 regarding Law or Principle in Alternating Current: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "V and I are in phase.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 regarding Formula Identification in Alternating Current: Choose the correct option.",
+    "question": "In a purely inductive circuit, current:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Lags by 90\u00b0",
+      "Leads by 90\u00b0",
+      "Is in phase",
+      "Lags by 180\u00b0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 regarding Practical Application in Alternating Current: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "ELI (EMF leads Inductor).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 regarding Exception or Limitation in Alternating Current: Choose the correct option.",
+    "question": "In a purely capacitive circuit, current:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Leads by 90\u00b0",
+      "Lags by 90\u00b0",
+      "Is in phase",
+      "Leads by 180\u00b0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 regarding Numerical (Easy) in Alternating Current: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "ICE (Inductor Current leads).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 regarding Numerical (Medium) in Alternating Current: Choose the correct option.",
+    "question": "Impedance (Z) of LCR circuit is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "\u221a[R\u00b2+(Xl-Xc)\u00b2]",
+      "R+Xl+Xc",
+      "R",
+      "Xl-Xc"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 regarding Numerical (Hard) in Alternating Current: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Phasor sum of resistances.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 regarding True/False in Alternating Current: Choose the correct option.",
+    "question": "Resonance frequency of LCR circuit is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1/[2\u03c0\u221a(LC)]",
+      "1/\u221a(LC)",
+      "\u03c9L",
+      "1/\u03c9C"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 regarding Assertion Reason 1 in Alternating Current: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Condition where Xl = Xc.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 regarding Assertion Reason 2 in Alternating Current: Choose the correct option.",
+    "question": "Power factor of LCR circuit is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "R/Z",
+      "Z/R",
+      "X/R",
+      "sin\u03b8"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 regarding Right Hand Rule / Convention in Alternating Current: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "cos\u03b8 = R/Z.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 regarding Electromagnetic Effect in Alternating Current: Choose the correct option.",
+    "question": "At resonance, power factor is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1",
+      "0",
+      "0.5",
+      "Infinity"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 regarding Energy Conservation in Alternating Current: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Z = R, so R/R = 1.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 regarding Momentum Conservation in Alternating Current: Choose the correct option.",
+    "question": "Wattless current flows in:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Pure L or C",
+      "Pure R",
+      "LCR",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 regarding Limit Case in Alternating Current: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "No power dissipated when phase is 90\u00b0.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 regarding Boundary Condition in Alternating Current: Choose the correct option.",
+    "question": "Transformer turns ratio k is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Ns/Np",
+      "Np/Ns",
+      "Vs/Vp",
+      "Both A and C"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 regarding Material Property in Alternating Current: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 3,
+    "solution": "Ns/Np = Vs/Vp.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 regarding Temperature Dependence in Alternating Current: Choose the correct option.",
+    "question": "In a step-up transformer:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Ns > Np",
+      "Np > Ns",
+      "Vs < Vp",
+      "Is > Ip"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 regarding Frequency Dependence in Alternating Current: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Secondary turns are more.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 regarding Phase Difference in Alternating Current: Choose the correct option.",
+    "question": "Q-factor of a circuit is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "(1/R)\u221a(L/C)",
+      "R\u221a(C/L)",
+      "\u03c9L/R",
+      "Both A and C"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 regarding Interference / Superposition in Alternating Current: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 3,
+    "solution": "Measures sharpness of resonance.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 regarding Historical Discovery in Alternating Current: Choose the correct option.",
+    "question": "AC ammeter measures:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "RMS value",
+      "Peak value",
+      "Average value",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
+    "correct_index": 0,
+    "solution": "Based on heating effect.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Frequency of AC in India is:",
+    "options": [
+      "50 Hz",
+      "60 Hz",
+      "100 Hz",
+      "220 Hz"
+    ],
+    "correct_index": 0,
+    "solution": "Standard power supply.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Hot wire instruments work on:",
+    "options": [
+      "Heating effect",
+      "Magnetic effect",
+      "Chemical",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Expansion of wire due to heat.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Energy loss in transformer:",
+    "options": [
+      "Copper loss",
+      "Hysteresis",
+      "Eddy current",
+      "All"
+    ],
+    "correct_index": 3,
+    "solution": "Various real-world losses.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Power dissipated in AC circuit:",
+    "options": [
+      "Vrms Irms cos\u03b8",
+      "VI",
+      "V\u00b2/R",
+      "I\u00b2R"
+    ],
+    "correct_index": 0,
+    "solution": "True power formula.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Capacitor blocks DC because:",
+    "options": [
+      "Xc is infinite",
+      "Xc is zero",
+      "R is zero",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Frequency of DC is 0.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Inductor blocks AC because:",
+    "options": [
+      "Xl increases with f",
+      "Xl is zero",
+      "R is infinite",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "High frequency means high reactance.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Choke coil is used to:",
+    "options": [
+      "Reduce current with min power loss",
+      "Increase voltage",
+      "Rectify AC",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Uses inductance to limit current.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "LC oscillations frequency:",
+    "options": [
+      "1/[2\u03c0\u221a(LC)]",
+      "\u221a(LC)",
+      "1/LC",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Energy swaps between L and C.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If f is doubled, Xl becomes:",
+    "options": [
+      "Double",
+      "Half",
+      "Four times",
+      "Same"
+    ],
+    "correct_index": 0,
+    "solution": "Xl = 2\u03c0fL.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If f is doubled, Xc becomes:",
+    "options": [
+      "Half",
+      "Double",
+      "Four times",
+      "Same"
+    ],
+    "correct_index": 0,
+    "solution": "Xc = 1/(2\u03c0fC).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Phase diff in LCR at resonance is:",
+    "options": [
+      "0\u00b0",
+      "90\u00b0",
+      "180\u00b0",
+      "45\u00b0"
+    ],
+    "correct_index": 0,
+    "solution": "Acts as a pure resistor.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Voltage across L and C at resonance is:",
+    "options": [
+      "Equal and opposite",
+      "Zero",
+      "Max",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Vl + Vc = 0.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Unit of Impedance:",
+    "options": [
+      "Ohm",
+      "Mho",
+      "Henry",
+      "Farad"
+    ],
+    "correct_index": 0,
+    "solution": "Effective resistance.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Step-down transformer increases:",
+    "options": [
+      "Current",
+      "Voltage",
+      "Power",
+      "Frequency"
+    ],
+    "correct_index": 0,
+    "solution": "V goes down, I goes up (P constant).",
+    "difficulty": "Medium"
   }
 ]

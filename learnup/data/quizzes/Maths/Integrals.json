@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 regarding Domain setup in Integrals: Choose the correct option.",
+    "question": "\u222b x\u207f dx is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "x^(n+1)/(n+1)",
+      "nx^(n-1)",
+      "x\u207f",
+      "log x"
     ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Power rule for n != -1.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 regarding Range calculation in Integrals: Choose the correct option.",
+    "question": "\u222b sec\u00b2x dx is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "tan x + C",
+      "-tan x + C",
+      "sec x + C",
+      "log sec x"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 regarding Function type in Integrals: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Standard formula.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 regarding Matrix operation in Integrals: Choose the correct option.",
+    "question": "\u222b 1/x dx is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "log|x| + C",
+      "1",
+      "e\u02e3",
+      "x\u00b2/2"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 regarding Determinant property in Integrals: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Standard log integral.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 regarding Derivative rule in Integrals: Choose the correct option.",
+    "question": "\u222b e\u02e3 dx is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "e\u02e3 + C",
+      "xe\u02e3",
+      "e^(x+1)",
+      "log e"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 regarding Integral formula in Integrals: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Exponential rule.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 regarding Limits and Continuity in Integrals: Choose the correct option.",
+    "question": "Value of \u222b sin x dx from 0 to \u03c0 is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "0",
+      "1",
+      "2",
+      "-2"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 regarding Differential order in Integrals: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "-cos(\u03c0) - (-cos 0) = 1 + 1 = 2.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 regarding Vector dot product in Integrals: Choose the correct option.",
+    "question": "\u222b dx/(1+x\u00b2) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "sin\u207b\u00b9x",
+      "tan\u207b\u00b9x",
+      "log x",
+      "tan x"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 regarding Vector cross product in Integrals: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Standard inverse trig form.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 regarding Equation roots in Integrals: Choose the correct option.",
+    "question": "\u222b log x dx is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1/x",
+      "x log x - x + C",
+      "x log x",
+      "x"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 regarding Maxima/Minima condition in Integrals: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "By parts calculation.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 regarding Area bounded in Integrals: Choose the correct option.",
+    "question": "\u222b tan x dx is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "sec\u00b2x",
+      "log|sec x| + C",
+      "log|sin x|",
+      "tan\u00b2x"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 regarding Integration by parts in Integrals: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Standard log-sec formula.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 regarding Trigonometric identity in Integrals: Choose the correct option.",
+    "question": "\u222b e\u02e3(f(x) + f'(x)) dx is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "e\u02e3 f(x) + C",
+      "e\u02e3 f'(x)",
+      "e\u02e3",
+      "f(x)"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 regarding Inverse property in Integrals: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Standard result.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 regarding Differential linearity in Integrals: Choose the correct option.",
+    "question": "\u222b sin\u00b3x dx is an:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Even function",
+      "Odd function",
+      "Constant",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 regarding Homogeneous check in Integrals: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Odd power of sine.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 regarding Particular solution boundary in Integrals: Choose the correct option.",
+    "question": "\u222b dx/\u221a(1-x\u00b2) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "cos\u207b\u00b9x",
+      "sin\u207b\u00b9x + C",
+      "tan\u207b\u00b9x",
+      "sin x"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 regarding Chain rule in Integrals: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Standard inverse sine form.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 regarding Product rule in Integrals: Choose the correct option.",
+    "question": "\u222b cos 2x dx is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "sin 2x",
+      "1/2 sin 2x + C",
+      "-sin 2x",
+      "2 sin 2x"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 regarding Quotient rule in Integrals: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Linear substitution rule.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 regarding L'Hopital's applicability in Integrals: Choose the correct option.",
+    "question": "Definite integral is independent of variable:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "True",
+      "False",
+      "Only for x",
+      "Only for y"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 regarding Matrix inverse property in Integrals: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Dummy variable property.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 regarding Symmetric/Skew check in Integrals: Choose the correct option.",
+    "question": "\u222b dx/(x\u00b2+a\u00b2) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1/a tan\u207b\u00b9(x/a) + C",
+      "tan\u207b\u00b9(x/a)",
+      "1/a sin\u207b\u00b9(x/a)",
+      "log x"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 regarding Definite integral bounds in Integrals: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Standard formula.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 regarding Odd/Even function integral in Integrals: Choose the correct option.",
+    "question": "Value of \u222b dx/x from 1 to e is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "e",
+      "1",
+      "0",
+      "log 2"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 regarding Graph intersection in Integrals: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "log e - log 1 = 1.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 regarding Parametric derivative in Integrals: Choose the correct option.",
+    "question": "\u222b cot x dx is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "log|sin x| + C",
+      "log|cos x|",
+      "-cosec\u00b2x",
+      "tan x"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
+    "correct_index": 0,
+    "solution": "Standard formula.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Integration by parts depends on:",
+    "options": [
+      "ILATE",
+      "Chain rule",
+      "Product",
+      "Sum"
+    ],
+    "correct_index": 0,
+    "solution": "Prioritization rule.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "\u222b dx/\u221a(a\u00b2-x\u00b2) is:",
+    "options": [
+      "sin\u207b\u00b9(x/a) + C",
+      "1/a sin\u207b\u00b9(x/a)",
+      "cos\u207b\u00b9(x/a)",
+      "log x"
+    ],
+    "correct_index": 0,
+    "solution": "No 1/a coefficient.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "\u222b 0 dx is:",
+    "options": [
+      "0",
+      "C",
+      "1",
+      "x"
+    ],
+    "correct_index": 1,
+    "solution": "Constant derivative is zero.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "\u222b sec x dx is:",
+    "options": [
+      "log|sec x + tan x| + C",
+      "sec x tan x",
+      "tan x",
+      "log|sec x|"
+    ],
+    "correct_index": 0,
+    "solution": "Standard formula.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Property \u222bf(x) from a to b = \u222bf(a+b-x):",
+    "options": [
+      "True",
+      "False",
+      "Only if f is even",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "King's property.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "\u222b \u221ax dx is:",
+    "options": [
+      "2/3 x^(3/2) + C",
+      "1/2\u221ax",
+      "3/2 x^(3/2)",
+      "x"
+    ],
+    "correct_index": 0,
+    "solution": "x^(1/2) integration.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "\u222b dx/(x\u00b2-a\u00b2) is:",
+    "options": [
+      "1/2a log|(x-a)/(x+a)|",
+      "log(x-a)",
+      "tan\u207b\u00b9x",
+      "1/a log x"
+    ],
+    "correct_index": 0,
+    "solution": "Logarithmic form.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "\u222b a\u02e3 dx is:",
+    "options": [
+      "a\u02e3/log a + C",
+      "a\u02e3 log a",
+      "a\u02e3",
+      "x a^(x-1)"
+    ],
+    "correct_index": 0,
+    "solution": "Standard formula.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "\u222b cosec\u00b2x dx is:",
+    "options": [
+      "-cot x + C",
+      "cot x",
+      "tan x",
+      "-cosec x"
+    ],
+    "correct_index": 0,
+    "solution": "Reverse of cot derivative.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Area under a curve is found using:",
+    "options": [
+      "Derivatives",
+      "Indefinite Integrals",
+      "Definite Integrals",
+      "Limits"
+    ],
+    "correct_index": 2,
+    "solution": "Geometrical interpretation.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "\u222b dx from 0 to 1 is:",
+    "options": [
+      "0",
+      "1",
+      "x",
+      "C"
+    ],
+    "correct_index": 1,
+    "solution": "x evaluated at limits.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "\u222b 1/\u221a(x\u00b2+a\u00b2) dx is:",
+    "options": [
+      "log|x+\u221a(x\u00b2+a\u00b2)| + C",
+      "sin\u207b\u00b9x",
+      "tan\u207b\u00b9x",
+      "1/a log x"
+    ],
+    "correct_index": 0,
+    "solution": "Standard formula.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "\u222b sin\u00b2x dx + \u222b cos\u00b2x dx is:",
+    "options": [
+      "x + C",
+      "sin 2x",
+      "1",
+      "0"
+    ],
+    "correct_index": 0,
+    "solution": "\u222b 1 dx.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "\u222b f(x) from a to a is:",
+    "options": [
+      "f(a)",
+      "2f(a)",
+      "0",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "Limit bounds equal.",
+    "difficulty": "Medium"
   }
 ]

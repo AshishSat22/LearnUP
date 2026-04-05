@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 on Basic Definition for d and f Block Elements: Which of the following is correct?",
+    "question": "Transition elements are located in:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "d-block",
+      "p-block",
+      "s-block",
+      "f-block"
     ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Groups 3 to 12.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 on Nomenclature for d and f Block Elements: Which of the following is correct?",
+    "question": "Which of the following is NOT a transition element?",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Zn",
+      "Fe",
+      "Cu",
+      "Ni"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 on Preparation Method 1 for d and f Block Elements: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Zn has completely filled d-orbitals.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 on Preparation Method 2 for d and f Block Elements: Which of the following is correct?",
+    "question": "Highest oxidation state of Mn is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "+7",
+      "+2",
+      "+5",
+      "+4"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 on Physical Property: Boiling Point for d and f Block Elements: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Seen in KMnO4.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 on Physical Property: Solubility for d and f Block Elements: Which of the following is correct?",
+    "question": "Lanthanoid contraction is due to:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Poor shielding of 4f",
+      "Poor shielding of 5d",
+      "Effective 3d",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 on Chemical Property: Oxidation for d and f Block Elements: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Causes size decrease across the series.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 on Chemical Property: Reduction for d and f Block Elements: Which of the following is correct?",
+    "question": "Most transition elements are:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Paramagnetic",
+      "Diamagnetic",
+      "Ferromagnetic",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 on Reaction with Acids for d and f Block Elements: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Due to presence of unpaired d-electrons.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 on Reaction with Bases for d and f Block Elements: Which of the following is correct?",
+    "question": "Transition metals are good catalysts because of:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Variable oxidation states",
+      "High density",
+      "Color",
+      "High MP"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 on Special Name Reaction 1 for d and f Block Elements: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Can form unstable intermediates.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 on Special Name Reaction 2 for d and f Block Elements: Which of the following is correct?",
+    "question": "KMnO4 acts as a strong:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Oxidising agent",
+      "Reducing agent",
+      "Acid",
+      "Base"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 on Uses and Applications for d and f Block Elements: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Reduced to Mn2+ in acidic medium.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 on Environmental Impact for d and f Block Elements: Which of the following is correct?",
+    "question": "Which ion is colored in water?",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Cu2+",
+      "Zn2+",
+      "Sc3+",
+      "Ti4+"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 on Analytical Test for d and f Block Elements: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Cu2+ has d9 configuration (d-d transition).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 on Mechanism Step 1 for d and f Block Elements: Which of the following is correct?",
+    "question": "General electronic configuration of d-block:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "(n-1)d 1-10 ns 1-2",
+      "nd 1-10",
+      "ns 2",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 on Mechanism Step 2 for d and f Block Elements: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Standard valence shell config.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 on Catalyst used for d and f Block Elements: Which of the following is correct?",
+    "question": "The shape of Cr2O7 2- ion is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Two tetrahedra sharing O",
+      "Square planar",
+      "Octahedral",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 on Temperature conditions for d and f Block Elements: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Dichromate ion structure.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 on Pressure conditions for d and f Block Elements: Which of the following is correct?",
+    "question": "Most stable oxidation state of Lanthanoids is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "+3",
+      "+2",
+      "+4",
+      "+1"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 on Byproducts formed for d and f Block Elements: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Most common across the series.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 on Thermodynamics of reaction for d and f Block Elements: Which of the following is correct?",
+    "question": "Mischmetal is an alloy of:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Lanthanoids",
+      "Actinoids",
+      "Iron and Copper",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 on Kinetics of reaction for d and f Block Elements: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Used in cigarette lighters.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 on Isomerism for d and f Block Elements: Which of the following is correct?",
+    "question": "Magnetic moment (spin only) formula:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "\u221an(n+2) BM",
+      "\u221an BM",
+      "n(n+1)",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 on Stereochemistry for d and f Block Elements: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "n is number of unpaired electrons.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 on Electronic effect for d and f Block Elements: Which of the following is correct?",
+    "question": "Interstitial compounds are:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Hard and high MP",
+      "Soft",
+      "Ionic",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 on Steric effect for d and f Block Elements: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Small atoms like H C N fit into voids.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 on Industrial preparation for d and f Block Elements: Which of the following is correct?",
+    "question": "Alloy of Cu and Zn is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Brass",
+      "Bronze",
+      "Steel",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 on Laboratory preparation for d and f Block Elements: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Transition metal mixture.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 on Exceptional case for d and f Block Elements: Which of the following is correct?",
+    "question": "Scandium (Z=21) oxidation state is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "+3 only",
+      "+2",
+      "+4",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
+    "correct_index": 0,
+    "solution": "Loss of 4s2 3d1 leads to noble gas config.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Color of KMnO4 is due to:",
+    "options": [
+      "Charge transfer",
+      "d-d transition",
+      "f-f transition",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "L-M charge transfer.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Inner transition elements are:",
+    "options": [
+      "f-block",
+      "d-block",
+      "s-block",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Lanthanoids and Actinoids.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Actinoid contraction is greater than Lanthanoid because:",
+    "options": [
+      "5f shielding is poorer",
+      "4f is better",
+      "Size is large",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "5f electrons are even less effective at shielding.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which element shows max number of oxidation states?",
+    "options": [
+      "Mn",
+      "Fe",
+      "Cr",
+      "Cu"
+    ],
+    "correct_index": 0,
+    "solution": "+2 to +7.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Enthalpy of atomization is high for d-metals due to:",
+    "options": [
+      "Unpaired electrons",
+      "Size",
+      "Charge",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Strong metallic bonding.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Standard electrode potential of Cu is:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Only 3d metal with positive E\u00b0.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Chromate and Dichromate are interconvertible based on:",
+    "options": [
+      "pH",
+      "Temperature",
+      "Pressure",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Dichromate in acid; Chromate in base.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which is a liquid at room temp?",
+    "options": [
+      "Hg",
+      "Ag",
+      "Au",
+      "Cu"
+    ],
+    "correct_index": 0,
+    "solution": "Only liquid transition metal.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Zr and Hf have similar sizes due to:",
+    "options": [
+      "Lanthanoid contraction",
+      "Same group",
+      "Isomorphism",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Consequence of 4f filling.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Cu+ ion is unstable in aq solution due to:",
+    "options": [
+      "Disproportionation",
+      "Hydration",
+      "Size",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Cu+ -> Cu2+ + Cu.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Magnetic moment of Fe2+ (d6):",
+    "options": [
+      "4.90 BM",
+      "5.92 BM",
+      "1.73 BM",
+      "0"
+    ],
+    "correct_index": 0,
+    "solution": "n=4 unpaired electrons.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Actinoids are radioactive:",
+    "options": [
+      "True",
+      "False",
+      "Only Uranium",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "All elements in the series are radioactive.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "V2O5 is used as a catalyst in:",
+    "options": [
+      "Contact Process",
+      "Haber Process",
+      "Ostwald Process",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Oxidation of SO2 to SO3.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Electronic config of Cu (Z=29):",
+    "options": [
+      "3d10 4s1",
+      "3d9 4s2",
+      "3d8 4s2",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Full d-orbital stability.",
+    "difficulty": "Medium"
   }
 ]

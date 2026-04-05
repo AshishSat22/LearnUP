@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 regarding Domain setup in Continuity and Differentiability: Choose the correct option.",
+    "question": "f(x)=|x| is continuous at 0?",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Yes",
+      "No",
+      "Only x>0",
+      "Only x<0"
     ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "LHL=RHL=0.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 regarding Range calculation in Continuity and Differentiability: Choose the correct option.",
+    "question": "Derivative of log(sin x) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "cos x",
+      "cot x",
+      "tan x",
+      "-cot x"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 regarding Function type in Continuity and Differentiability: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "1/sin x * cos x.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 regarding Matrix operation in Continuity and Differentiability: Choose the correct option.",
+    "question": "If y=e^sin x then y' is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "e^sin x",
+      "cos x e^sin x",
+      "sin x",
+      "0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 regarding Determinant property in Continuity and Differentiability: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Chain rule.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 regarding Derivative rule in Continuity and Differentiability: Choose the correct option.",
+    "question": "[x] is continuous at:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1",
+      "1.5",
+      "2",
+      "0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 regarding Integral formula in Continuity and Differentiability: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Continuous at non-integers.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 regarding Limits and Continuity in Continuity and Differentiability: Choose the correct option.",
+    "question": "Derivative of tan\u207b\u00b9x is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1/(1+x\u00b2)",
+      "1/(1-x\u00b2)",
+      "sec\u00b2x",
+      "tan x"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 regarding Differential order in Continuity and Differentiability: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Standard formula.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 regarding Vector dot product in Continuity and Differentiability: Choose the correct option.",
+    "question": "x=at\u00b2 y=2at dy/dx is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "t",
+      "1/t",
+      "2t",
+      "2"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 regarding Vector cross product in Continuity and Differentiability: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "(2a)/(2at).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 regarding Equation roots in Continuity and Differentiability: Choose the correct option.",
+    "question": "d/dx(sin\u207b\u00b9x + cos\u207b\u00b9x) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1",
+      "0",
+      "\u03c0/2",
+      "2"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 regarding Maxima/Minima condition in Continuity and Differentiability: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Derivative of constant \u03c0/2.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 regarding Area bounded in Continuity and Differentiability: Choose the correct option.",
+    "question": "y=log(log x) y' is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1/x",
+      "1/log x",
+      "1/(x log x)",
+      "log x"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 regarding Integration by parts in Continuity and Differentiability: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Chain rule.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 regarding Trigonometric identity in Continuity and Differentiability: Choose the correct option.",
+    "question": "Derivative of 2\u02e3 is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "x 2^(x-1)",
+      "2\u02e3",
+      "2\u02e3 log 2",
+      "2\u02e3/log 2"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 regarding Inverse property in Continuity and Differentiability: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "a\u02e3 log a formula.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 regarding Differential linearity in Continuity and Differentiability: Choose the correct option.",
+    "question": "f(x)=kx+1 continuous at 5 with f(5)=3x-5 k is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "9/5",
+      "2/3",
+      "4/5",
+      "3/5"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 regarding Homogeneous check in Continuity and Differentiability: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "5k+1=10.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 regarding Particular solution boundary in Continuity and Differentiability: Choose the correct option.",
+    "question": "Derivative of \u221asin x is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "cos x / 2\u221asin x",
+      "cos x",
+      "1/2\u221asin x",
+      "0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 regarding Chain rule in Continuity and Differentiability: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Power and chain rule.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 regarding Product rule in Continuity and Differentiability: Choose the correct option.",
+    "question": "y=sin(x\u00b2) y' is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "cos(x\u00b2)",
+      "2x cos(x\u00b2)",
+      "2x",
+      "cos 2x"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 regarding Quotient rule in Continuity and Differentiability: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "cos(x\u00b2) * 2x.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 regarding L'Hopital's applicability in Continuity and Differentiability: Choose the correct option.",
+    "question": "Second derivative of x\u00b3 is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "3x\u00b2",
+      "6x",
+      "6",
+      "0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 regarding Matrix inverse property in Continuity and Differentiability: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "3x\u00b2 -> 6x.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 regarding Symmetric/Skew check in Continuity and Differentiability: Choose the correct option.",
+    "question": "y+sin y=cos x dy/dx is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "-sin x / (1+cos y)",
+      "sin x",
+      "cos x",
+      "0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 regarding Definite integral bounds in Continuity and Differentiability: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Implicit diff.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 regarding Odd/Even function integral in Continuity and Differentiability: Choose the correct option.",
+    "question": "d/dx(log x) at e is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "e",
+      "1",
+      "1/e",
+      "0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 regarding Graph intersection in Continuity and Differentiability: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "1/e.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 regarding Parametric derivative in Continuity and Differentiability: Choose the correct option.",
+    "question": "MVT applies if f is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Continuous",
+      "Differentiable",
+      "Both",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
+    "correct_index": 2,
+    "solution": "Standard conditions.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derivative of e^(3x+5) is:",
+    "options": [
+      "e^(3x+5)",
+      "3e^(3x+5)",
+      "3",
+      "0"
+    ],
+    "correct_index": 1,
+    "solution": "Chain rule.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "f(x)=|x-1| f'(1) is:",
+    "options": [
+      "1",
+      "-1",
+      "0",
+      "Does not exist"
+    ],
+    "correct_index": 3,
+    "solution": "Sharp corner.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derivative of cos\u207b\u00b9(sin x) is:",
+    "options": [
+      "1",
+      "-1",
+      "0",
+      "\u03c0/2"
+    ],
+    "correct_index": 1,
+    "solution": "d/dx(\u03c0/2 - x).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "y=tan x + sec x y' is:",
+    "options": [
+      "sec x(sec+tan)",
+      "sec\u00b2x",
+      "sec x",
+      "1"
+    ],
+    "correct_index": 0,
+    "solution": "sec\u00b2 + sec tan.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "f(x)=x\u00b2 differentiable at 0?",
+    "options": [
+      "Yes",
+      "No",
+      "Only x>0",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Smooth curve.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "d/dx(x\u02e3) is:",
+    "options": [
+      "x\u02e3(1+log x)",
+      "x\u00b2",
+      "x log x",
+      "x"
+    ],
+    "correct_index": 0,
+    "solution": "Logarithmic diff.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "y=sin\u207b\u00b9(2x/1+x\u00b2) y' is:",
+    "options": [
+      "1/(1+x\u00b2)",
+      "2/(1+x\u00b2)",
+      "2",
+      "0"
+    ],
+    "correct_index": 1,
+    "solution": "2 * d/dx(tan\u207b\u00b9x).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derivative of \u03c0 is:",
+    "options": [
+      "\u03c0",
+      "1",
+      "0",
+      "3.14"
+    ],
+    "correct_index": 2,
+    "solution": "Constant rule.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "d\u00b2y/dx\u00b2 in parametric involves:",
+    "options": [
+      "d/dt(dy/dx)*dt/dx",
+      "d\u00b2y/dt\u00b2",
+      "1",
+      "0"
+    ],
+    "correct_index": 0,
+    "solution": "Chain rule second order.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Derivative of |x| for x<0:",
+    "options": [
+      "1",
+      "-1",
+      "0",
+      "None"
+    ],
+    "correct_index": 1,
+    "solution": "Slope of -x.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "x sin(1/x) continuous at 0?",
+    "options": [
+      "Yes",
+      "No",
+      "Only x=1",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Limit is 0.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "d/dx(log(x+\u221ax\u00b2+a\u00b2)) is:",
+    "options": [
+      "1/\u221a(x\u00b2+a\u00b2)",
+      "1",
+      "x",
+      "0"
+    ],
+    "correct_index": 0,
+    "solution": "Standard result.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "y=cos x y'' is:",
+    "options": [
+      "-sin x",
+      "-cos x",
+      "cos x",
+      "0"
+    ],
+    "correct_index": 1,
+    "solution": "-sin x -> -cos x.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "d/dx(5) is:",
+    "options": [
+      "5",
+      "1",
+      "0",
+      "x"
+    ],
+    "correct_index": 2,
+    "solution": "Zero.",
+    "difficulty": "Medium"
   }
 ]

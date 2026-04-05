@@ -38,7 +38,30 @@
         </main>
     </div>
     
+    <!-- Chatbot Widget -->
+    <div id="chatbot-container" class="chatbot-container">
+        <button id="chatbot-toggle" class="chatbot-toggle" aria-label="Open Chat">
+            <span class="icon">🤖</span>
+        </button>
+        <div id="chatbot-window" class="chatbot-window hidden glass">
+            <div class="chatbot-header">
+                <h3>Solve Doubts 🧠</h3>
+                <button id="chatbot-close" class="btn-icon">×</button>
+            </div>
+            <div id="chatbot-messages" class="chatbot-messages">
+                <div class="chat-message bot-message">
+                    Hi! I'm your LearnUP AI tutor. Ask me any Physics, Chemistry, or Maths doubts!
+                </div>
+            </div>
+            <div class="chatbot-input">
+                <input type="text" id="chat-input" placeholder="Type your doubt here..." autocomplete="off">
+                <button id="chat-send" class="btn-primary">Send</button>
+            </div>
+        </div>
+    </div>
+
     <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/chatbot.js') }}"></script>
     {% block scripts %}{% endblock %}
 </body>
 </html>

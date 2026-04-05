@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 on Basic Definition for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
+    "question": "Rosenmund reduction prepares:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Aldehydes",
+      "Ketones",
+      "Alcohols",
+      "None"
     ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Using Pd-BaSO4 (Lindlar's catalyst).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 on Nomenclature for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
+    "question": "Stephen reaction uses:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "SnCl2 + HCl",
+      "LiAlH4",
+      "NaBH4",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 on Preparation Method 1 for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Reduction of nitriles to aldehydes.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 on Preparation Method 2 for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
+    "question": "Fehling's test is positive for:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Aliphatic aldehydes",
+      "Aromatic aldehydes",
+      "Ketones",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 on Physical Property: Boiling Point for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Aromatic aldehydes do not reduce Fehling's.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 on Physical Property: Solubility for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
+    "question": "Tollen's reagent is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Ammoniacal AgNO3",
+      "CuSO4 + NaOH",
+      "AgCl",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 on Chemical Property: Oxidation for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Forms a silver mirror with aldehydes.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 on Chemical Property: Reduction for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
+    "question": "Cannizzaro reaction is shown by aldehydes with:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "No alpha-H",
+      "Alpha-H",
+      "Ketones",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 on Reaction with Acids for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Example: Formaldehyde and Benzaldehyde.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 on Reaction with Bases for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
+    "question": "Aldol condensation requires:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Alpha-H",
+      "No alpha-H",
+      "Acid catalyst",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 on Special Name Reaction 1 for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Formation of beta-hydroxy carbonyl.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 on Special Name Reaction 2 for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
+    "question": "Clemmensen reduction uses:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Zn-Hg / HCl",
+      "NH2NH2 / KOH",
+      "LiAlH4",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 on Uses and Applications for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Carbonyl to CH2 group.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 on Environmental Impact for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
+    "question": "Wolf-Kishner reduction uses:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "NH2NH2 / KOH",
+      "Zn-Hg / HCl",
+      "NaBH4",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 on Analytical Test for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Basic medium reduction of carbonyl.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 on Mechanism Step 1 for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
+    "question": "Formalin is a 40% solution of:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Formaldehyde",
+      "Acetaldehyde",
+      "Acetone",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 on Mechanism Step 2 for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Used for preserving biological specimens.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 on Catalyst used for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
+    "question": "Which acid is found in vinegar?",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Acetic acid",
+      "Formic acid",
+      "Citric acid",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 on Temperature conditions for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Ethanoic acid.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 on Pressure conditions for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
+    "question": "HVZ reaction is for:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Alpha-halogenation of acids",
+      "Aldehydes",
+      "Ketones",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 on Byproducts formed for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Hell-Volhard-Zelinsky reaction.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 on Thermodynamics of reaction for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
+    "question": "Iodoform test is positive for:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Methyl ketones",
+      "Formaldehyde",
+      "Benzene",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 on Kinetics of reaction for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Requires CH3CO- group.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 on Isomerism for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
+    "question": "Nucleophilic addition is common in:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Carbonyl compounds",
+      "Alkanes",
+      "Alcohols",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 on Stereochemistry for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Due to polar C=O bond.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 on Electronic effect for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
+    "question": "Carboxylic acids have higher BP than Alcohols due to:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Dimerization",
+      "Size",
+      "Polarity",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 on Steric effect for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Stronger intermolecular H-bonding.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 on Industrial preparation for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
+    "question": "Etard reaction converts Toluene to:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Benzaldehyde",
+      "Benzoic acid",
+      "Benzyl alcohol",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 on Laboratory preparation for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Using CrO2Cl2.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 on Exceptional case for Aldehydes Ketones and Carboxylic Acids: Which of the following is correct?",
+    "question": "Gatterman-Koch reaction produces:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Benzaldehyde",
+      "Benzene",
+      "Phenol",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
+    "correct_index": 0,
+    "solution": "CO + HCl + Anhyd. AlCl3.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calcium acetate on dry distillation gives:",
+    "options": [
+      "Acetone",
+      "Acetaldehyde",
+      "Formaldehyde",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Standard ketone preparation.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Formaldehyde + Grignard gives:",
+    "options": [
+      "Primary alcohol",
+      "Secondary",
+      "Tertiary",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Simplest nucleophilic addition.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Acidity of Carboxylic acids is ________ than Phenols:",
+    "options": [
+      "More",
+      "Less",
+      "Same",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Carboxylate ion is more resonance stabilized.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Urotropine is prepared from:",
+    "options": [
+      "Formaldehyde + NH3",
+      "Acetone",
+      "Acetaldehyde",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Used in medicine (urinary antiseptic).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which does not reduce Tollen's?",
+    "options": [
+      "Ketones",
+      "Aldehydes",
+      "Formic acid",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Ketones are resistant to mild oxidation.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Decarboxylation of Soda-lime gives:",
+    "options": [
+      "Alkane",
+      "Acid",
+      "Aldehyde",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Loss of CO2.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Functional group of Ketones:",
+    "options": [
+      ">C=O",
+      "-CHO",
+      "-COOH",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Carbonyl group between two carbons.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Acetone is used as:",
+    "options": [
+      "Nail polish remover",
+      "Antiseptic",
+      "Fuel",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Common solvent.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Schiff's base is formed with:",
+    "options": [
+      "Primary amines",
+      "Water",
+      "Alcohols",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Reaction with aldehydes/ketones.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Paraldehyde is a trimer of:",
+    "options": [
+      "Acetaldehyde",
+      "Formaldehyde",
+      "Acetone",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Used as a sedative.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Semicarbazone is formed with:",
+    "options": [
+      "Semicarbazide",
+      "NH3",
+      "NH2OH",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Carbonyl derivative.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Propanoic acid + Br2/P gives:",
+    "options": [
+      "2-Bromopropanoic acid",
+      "3-Bromopropanoic",
+      "Propane",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "HVZ reaction.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Formic acid reduces Fehling's:",
+    "options": [
+      "True",
+      "False",
+      "Only at high T",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Acts as both acid and aldehyde.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Cyanohydrins are formed by addition of:",
+    "options": [
+      "HCN",
+      "NaOH",
+      "H2O",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Nucleophilic addition.",
+    "difficulty": "Medium"
   }
 ]

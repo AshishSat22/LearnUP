@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 regarding SI Units in Current Electricity: Choose the correct option.",
+    "question": "The SI unit of electric current is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Watt"
     ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Standard SI unit defined as Coulomb per second.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 regarding Dimensional Formula in Current Electricity: Choose the correct option.",
+    "question": "Ohm's law is valid for:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Conductors",
+      "Insulators",
+      "Semiconductors",
+      "Vacuum tubes"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 regarding Constant Value in Current Electricity: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Valid for ohmic conductors at constant temperature.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 regarding Derivation Step in Current Electricity: Choose the correct option.",
+    "question": "The resistance of a wire is R. If its length is doubled and area is halved its new resistance is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "R",
+      "2R",
+      "4R",
+      "8R"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 regarding Scalar vs Vector in Current Electricity: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "R = \u03c1l/A. New R' = \u03c1(2l)/(A/2) = 4R.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 regarding Proportionality in Current Electricity: Choose the correct option.",
+    "question": "The temperature coefficient of resistance is positive for:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Metals",
+      "Insulators",
+      "Semiconductors",
+      "Electrolytes"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 regarding Inverse Proportionality in Current Electricity: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Resistance of metals increases with temperature.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 regarding Graph Shape in Current Electricity: Choose the correct option.",
+    "question": "Kirchhoff's first law (Junction Rule) is based on conservation of:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Energy",
+      "Charge",
+      "Momentum",
+      "Mass"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 regarding Law or Principle in Current Electricity: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Total current entering a junction equals total current leaving.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 regarding Formula Identification in Current Electricity: Choose the correct option.",
+    "question": "Kirchhoff's second law (Loop Rule) is based on conservation of:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Energy",
+      "Charge",
+      "Momentum",
+      "Mass"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 regarding Practical Application in Current Electricity: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "The sum of potential changes in a closed loop is zero.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 regarding Exception or Limitation in Current Electricity: Choose the correct option.",
+    "question": "The drift velocity of electrons in a conductor is of the order of:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "10\u2078 m/s",
+      "10\u207b\u2074 m/s",
+      "10\u00b2 m/s",
+      "1 m/s"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 regarding Numerical (Easy) in Current Electricity: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Electrons drift very slowly despite high thermal speeds.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 regarding Numerical (Medium) in Current Electricity: Choose the correct option.",
+    "question": "A wire of resistance 12 ohms is bent into a circle. Resistance between diametrically opposite points is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "12 ohm",
+      "6 ohm",
+      "3 ohm",
+      "24 ohm"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 regarding Numerical (Hard) in Current Electricity: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Two 6 ohm resistors in parallel = 3 ohm.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 regarding True/False in Current Electricity: Choose the correct option.",
+    "question": "Potentiometer is used to measure:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Internal resistance",
+      "EMF of cell",
+      "Both A and B",
+      "Current"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 regarding Assertion Reason 1 in Current Electricity: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Ideal instrument for EMF as it draws no current at balance.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 regarding Assertion Reason 2 in Current Electricity: Choose the correct option.",
+    "question": "The unit of specific resistance (resistivity) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Ohm",
+      "Ohm-meter",
+      "Ohm/meter",
+      "mho"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 regarding Right Hand Rule / Convention in Current Electricity: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Derived from R = \u03c1l/A.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 regarding Electromagnetic Effect in Current Electricity: Choose the correct option.",
+    "question": "Superconductivity is the phenomenon where resistance becomes:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Infinite",
+      "Zero",
+      "Very high",
+      "Unit"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 regarding Energy Conservation in Current Electricity: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Occurs at very low temperatures.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 regarding Momentum Conservation in Current Electricity: Choose the correct option.",
+    "question": "The Wheatstone bridge is most sensitive when all four resistances are:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Very high",
+      "Very low",
+      "Of the same order",
+      "Zero"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 regarding Limit Case in Current Electricity: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Standard condition for maximum sensitivity.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 regarding Boundary Condition in Current Electricity: Choose the correct option.",
+    "question": "Electromotive force (EMF) is a:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Force",
+      "Potential difference",
+      "Work",
+      "Power"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 regarding Material Property in Current Electricity: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "It is the max potential difference when no current is drawn.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 regarding Temperature Dependence in Current Electricity: Choose the correct option.",
+    "question": "Terminal potential difference is less than EMF when cell is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Discharging",
+      "Charging",
+      "Open circuit",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 regarding Frequency Dependence in Current Electricity: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "V = E - Ir.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 regarding Phase Difference in Current Electricity: Choose the correct option.",
+    "question": "Three resistors of 3 ohms each are in parallel. Equivalent resistance is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "9 ohm",
+      "1 ohm",
+      "6 ohm",
+      "3 ohm"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 regarding Interference / Superposition in Current Electricity: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "1/Rp = 1/3 + 1/3 + 1/3 = 1.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 regarding Historical Discovery in Current Electricity: Choose the correct option.",
+    "question": "The heating effect of current is given by:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "V\u00b2/R",
+      "I\u00b2Rt",
+      "VI",
+      "All of these"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
+    "correct_index": 1,
+    "solution": "Joule's law of heating (H = I\u00b2Rt).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In a meter bridge experiment the null point is usually preferred at:",
+    "options": [
+      "10 cm",
+      "90 cm",
+      "50 cm",
+      "0 cm"
+    ],
+    "correct_index": 2,
+    "solution": "To minimize errors due to end resistances.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Internal resistance of an ideal cell is:",
+    "options": [
+      "Zero",
+      "Infinite",
+      "1 ohm",
+      "Variable"
+    ],
+    "correct_index": 0,
+    "solution": "An ideal cell has no internal voltage drop.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Kilowatt-hour (kWh) is the unit of:",
+    "options": [
+      "Power",
+      "Electric Energy",
+      "Force",
+      "Time"
+    ],
+    "correct_index": 1,
+    "solution": "Commercial unit of electrical energy.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Mobility of electrons is defined as:",
+    "options": [
+      "Drift velocity/Field",
+      "Field/Drift velocity",
+      "Force/Field",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "\u03bc = Vd / E.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Carbon resistors use color coding. Red color stands for:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "correct_index": 1,
+    "solution": "BBROYGBVGW sequence (0 1 2...).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "When two identical cells are in parallel the EMF of combination is:",
+    "options": [
+      "2E",
+      "E",
+      "E/2",
+      "Zero"
+    ],
+    "correct_index": 1,
+    "solution": "Potential remains same in parallel.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Resistance of a semiconductor with increase in temperature:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Same",
+      "Becomes zero"
+    ],
+    "correct_index": 1,
+    "solution": "Semiconductors have a negative temperature coefficient.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Conductance is the reciprocal of:",
+    "options": [
+      "Resistivity",
+      "Resistance",
+      "Current",
+      "Potential"
+    ],
+    "correct_index": 1,
+    "solution": "G = 1/R.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A fuse wire should have:",
+    "options": [
+      "High melting point",
+      "Low melting point",
+      "No melting point",
+      "Infinite resistance"
+    ],
+    "correct_index": 1,
+    "solution": "To break the circuit during current surge.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Sensitivity of a potentiometer can be increased by:",
+    "options": [
+      "Increasing length",
+      "Decreasing length",
+      "Increasing EMF",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Decreases potential gradient.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Current density is a:",
+    "options": [
+      "Scalar",
+      "Vector",
+      "Tensor",
+      "None"
+    ],
+    "correct_index": 1,
+    "solution": "Current per unit area in a specific direction.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ohmic conductors show a V-I graph which is:",
+    "options": [
+      "Parabolic",
+      "Linear",
+      "Circular",
+      "Exponential"
+    ],
+    "correct_index": 1,
+    "solution": "Straight line passing through origin.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "SI unit of power is:",
+    "options": [
+      "Joule",
+      "Watt",
+      "Ampere",
+      "Volt"
+    ],
+    "correct_index": 1,
+    "solution": "Energy per unit time.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Internal resistance of a cell depends on:",
+    "options": [
+      "Distance between plates",
+      "Nature of electrolyte",
+      "Area of plates",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "solution": "Standard physical factors of a cell.",
+    "difficulty": "Medium"
   }
 ]

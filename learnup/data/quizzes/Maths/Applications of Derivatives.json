@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 regarding Domain setup in Applications of Derivatives: Choose the correct option.",
+    "question": "The rate of change of the area of a circle with respect to its radius r at r = 6 cm is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "10\u03c0",
+      "12\u03c0",
+      "8\u03c0",
+      "11\u03c0"
     ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "A = \u03c0r\u00b2. dA/dr = 2\u03c0r. At r=6, dA/dr = 12\u03c0.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 regarding Range calculation in Applications of Derivatives: Choose the correct option.",
+    "question": "The total revenue in Rupees received from the sale of x units of a product is R(x) = 3x\u00b2 + 36x + 5. Marginal revenue when x = 15 is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "116",
+      "96",
+      "126",
+      "136"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 regarding Function type in Applications of Derivatives: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "MR = dR/dx = 6x + 36. At x=15, MR = 6(15) + 36 = 126.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 regarding Matrix operation in Applications of Derivatives: Choose the correct option.",
+    "question": "The function f(x) = x\u00b2 - 2x is increasing in the interval:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "(1",
+      " \u221e)",
+      "(-\u221e",
+      " 1)"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 regarding Determinant property in Applications of Derivatives: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": " 2)",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 regarding Derivative rule in Applications of Derivatives: Choose the correct option.",
+    "question": "The slope of the tangent to the curve y = x\u00b3 - x at x = 2 is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "11",
+      "10",
+      "12",
+      "13"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 regarding Integral formula in Applications of Derivatives: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "dy/dx = 3x\u00b2 - 1. At x=2, 3(4)-1 = 11.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 regarding Limits and Continuity in Applications of Derivatives: Choose the correct option.",
+    "question": "The slope of the normal to the curve y = 2x\u00b2 + 3sin x at x = 0 is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "3",
+      "-3",
+      "1/3",
+      "-1/3"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 regarding Differential order in Applications of Derivatives: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 3,
+    "solution": "dy/dx = 4x + 3cos x. At x=0, slope of tangent = 3. Normal slope = -1/m = -1/3.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 regarding Vector dot product in Applications of Derivatives: Choose the correct option.",
+    "question": "The interval in which y = x\u00b2 e\u207b\u02e3 is increasing is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "(0",
+      " 2)",
+      "(-\u221e",
+      " \u221e)"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 regarding Vector cross product in Applications of Derivatives: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": " 0)",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 regarding Equation roots in Applications of Derivatives: Choose the correct option.",
+    "question": "The line y = x + 1 is a tangent to the curve y\u00b2 = 4x at the point:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "(1",
+      " 2)",
+      "(2",
+      " 1)"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 regarding Maxima/Minima condition in Applications of Derivatives: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": " -2)",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 regarding Area bounded in Applications of Derivatives: Choose the correct option.",
+    "question": "The maximum value of [x(x-1)+1]^(1/3), 0 \u2264 x \u2264 1 is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "(1/3)^(1/3)",
+      "1/2",
+      "1",
+      "0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 regarding Integration by parts in Applications of Derivatives: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "f(x) = (x\u00b2-x+1)^(1/3). Max occurs at boundaries x=0 or x=1, both give 1.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 regarding Trigonometric identity in Applications of Derivatives: Choose the correct option.",
+    "question": "The point on the curve x\u00b2 = 2y which is nearest to (0, 5) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "(2",
+      " 2)",
+      "(2\u221a2",
+      " 4)"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 regarding Inverse property in Applications of Derivatives: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": " 0)",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 regarding Differential linearity in Applications of Derivatives: Choose the correct option.",
+    "question": "The function f(x) = tan x - x:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Always increases",
+      "Always decreases",
+      "Is stationary",
+      "Sometimes increases"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 regarding Homogeneous check in Applications of Derivatives: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "f'(x) = sec\u00b2x - 1 = tan\u00b2x. Since tan\u00b2x \u2265 0, it always increases.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 regarding Particular solution boundary in Applications of Derivatives: Choose the correct option.",
+    "question": "If the radius of a sphere is measured as 9 cm with an error of 0.03 cm, then error in volume is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1.29\u03c0",
+      "9.72\u03c0",
+      "0.03\u03c0",
+      "3.24\u03c0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 regarding Chain rule in Applications of Derivatives: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "V = 4/3 \u03c0r\u00b3. dV = 4\u03c0r\u00b2dr = 4\u03c0(81)(0.03) = 9.72\u03c0.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 regarding Product rule in Applications of Derivatives: Choose the correct option.",
+    "question": "The curve y = x^(1/5) at (0, 0) has:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Vertical tangent",
+      "Horizontal tangent",
+      "No tangent",
+      "Slope 1"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 regarding Quotient rule in Applications of Derivatives: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "dy/dx = (1/5)x^(-4/5). At x=0, derivative is undefined (tends to infinity).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 regarding L'Hopital's applicability in Applications of Derivatives: Choose the correct option.",
+    "question": "The local minimum value of the function f(x) = x + 1/x (x > 0) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "0",
+      "1",
+      "2",
+      "-2"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 regarding Matrix inverse property in Applications of Derivatives: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "f'(x) = 1 - 1/x\u00b2 = 0 => x=1. f(1) = 1 + 1 = 2.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 regarding Symmetric/Skew check in Applications of Derivatives: Choose the correct option.",
+    "question": "The maximum slope of the curve y = -x\u00b3 + 3x\u00b2 + 9x - 27 is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "0",
+      "12",
+      "16",
+      "32"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 regarding Definite integral bounds in Applications of Derivatives: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Slope m = -3x\u00b2 + 6x + 9. dm/dx = -6x + 6 = 0 => x=1. m(1) = -3 + 6 + 9 = 12.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 regarding Odd/Even function integral in Applications of Derivatives: Choose the correct option.",
+    "question": "For all real values of x, the minimum value of (1-x+x\u00b2)/(1+x+x\u00b2) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "0",
+      "1",
+      "3",
+      "1/3"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 regarding Graph intersection in Applications of Derivatives: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 3,
+    "solution": "Let y = f(x). Set f'(x)=0 and find critical points. Min occurs at x=1.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 regarding Parametric derivative in Applications of Derivatives: Choose the correct option.",
+    "question": "At what point on the curve y = x\u00b2 does the tangent make an angle of 45\u00b0 with x-axis?",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "(1/2",
+      " 1/4)",
+      "(1",
+      " 1)"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
+    "correct_index": 0,
+    "solution": " 4)",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A cylindrical tank of radius 10m is being filled with wheat at the rate of 314 m\u00b3/h. The rate at which depth is increasing is:",
+    "options": [
+      "1 m/h",
+      "0.1 m/h",
+      "1.1 m/h",
+      "0.5 m/h"
+    ],
+    "correct_index": 0,
+    "solution": "V = \u03c0r\u00b2h = 100\u03c0h. dV/dt = 100\u03c0(dh/dt). 314 = 100(3.14)(dh/dt) => dh/dt = 1.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The function f(x) = 4x\u00b3 - 18x\u00b2 + 27x - 7 is:",
+    "options": [
+      "Increasing on R",
+      "Decreasing on R",
+      "Neither",
+      "Increasing on (0"
+    ],
+    "correct_index": 0,
+    "solution": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The normal to the curve x\u00b2 = 4y passing through (1, 2) is:",
+    "options": [
+      "x+y=3",
+      "x-y=3",
+      "x+y=1",
+      "x-y=1"
+    ],
+    "correct_index": 0,
+    "solution": "y = x\u00b2/4. y' = x/2. Normal slope = -2/x. At (h,k), k-2 = (-2/h)(h-1). Solve for point on curve.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The minimum value of f(x) = |x + 2| - 1 is:",
+    "options": [
+      "-1",
+      "-2",
+      "1",
+      "0"
+    ],
+    "correct_index": 0,
+    "solution": "Absolute value is min at 0. So 0 - 1 = -1.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which of the following functions are strictly decreasing on (0, \u03c0/2)?",
+    "options": [
+      "cos x",
+      "cos 2x",
+      "cos 3x",
+      "All of these"
+    ],
+    "correct_index": 0,
+    "solution": "f'(x) = -sin x. In (0, \u03c0/2), -sin x is always negative.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The point on the curve y\u00b2 = x where tangent makes 45\u00b0 with x-axis is:",
+    "options": [
+      "(1/4",
+      " 1/2)",
+      "(1/2",
+      " 1/4)"
+    ],
+    "correct_index": 0,
+    "solution": " 1)",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The function f(x) = log(sin x) is strictly increasing on:",
+    "options": [
+      "(0",
+      " \u03c0/2)",
+      "(\u03c0/2",
+      " \u03c0)"
+    ],
+    "correct_index": 0,
+    "solution": " \u03c0)",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The tangent to the curve y = e\u00b2\u02e3 at the point (0, 1) meets x-axis at:",
+    "options": [
+      "(0",
+      " 1)",
+      "(-1/2",
+      " 0)"
+    ],
+    "correct_index": 0,
+    "solution": " 0)",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The smallest value of polynomial x\u00b3 - 18x\u00b2 + 96x in interval [0, 9] is:",
+    "options": [
+      "0",
+      "126",
+      "135",
+      "160"
+    ],
+    "correct_index": 0,
+    "solution": "f(0)=0. Critical points at x=4, 8. f(4)=160, f(8)=128. Boundary f(9)=135. Min is 0.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If y = x + 1/x, then:",
+    "options": [
+      "Max value < Min value",
+      "Max value = Min value",
+      "Max value > Min value",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Local Max at x=-1 is -2. Local Min at x=1 is 2. (Note: for specific intervals this can occur).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The rate of change of volume of a sphere with respect to its surface area when radius is 2cm is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_index": 0,
+    "solution": "V = 4/3 \u03c0r\u00b3, S = 4\u03c0r\u00b2. dV/dS = (dV/dr)/(dS/dr) = 4\u03c0r\u00b2/8\u03c0r = r/2. At r=2, 2/2 = 1.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Two curves y\u00b2 = 4x and x\u00b2 = 4y intersect at (0, 0) and:",
+    "options": [
+      "(4",
+      " 4)",
+      "(2",
+      " 2)"
+    ],
+    "correct_index": 0,
+    "solution": " 1)",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The height of a cylinder of maximum volume that can be inscribed in a sphere of radius R is:",
+    "options": [
+      "2R/\u221a3",
+      "R/\u221a3",
+      "2R",
+      "R/2"
+    ],
+    "correct_index": 0,
+    "solution": "Standard derivation: h = 2R/\u221a3.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The function f(x) = x + cos x is:",
+    "options": [
+      "Always increasing",
+      "Always decreasing",
+      "Stationary",
+      "Decreasing in (0"
+    ],
+    "correct_index": 0,
+    "solution": "A",
+    "difficulty": "Medium"
   }
 ]

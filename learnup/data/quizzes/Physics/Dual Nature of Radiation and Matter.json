@@ -1,0 +1,362 @@
+[
+  {
+    "question": "The minimum energy required to eject an electron from a metal surface is:",
+    "options": [
+      "Work function",
+      "Kinetic energy",
+      "Potential energy",
+      "Ionization energy"
+    ],
+    "correct_index": 0,
+    "solution": "Characteristic of the metal.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Photoelectric effect proves that light is:",
+    "options": [
+      "A wave",
+      "A particle",
+      "Electromagnetic",
+      "Longitudinal"
+    ],
+    "correct_index": 1,
+    "solution": "Explained by Einstein using photon theory.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Einstein's photoelectric equation is:",
+    "options": [
+      "h\u03bd = Kmax + \u03a6\u2080",
+      "h\u03bd = Kmax - \u03a6\u2080",
+      "\u03a6\u2080 = h\u03bd + Kmax",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Energy of photon = Max KE + Work function.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Slope of V\u2080 (stopping potential) vs frequency (\u03bd) graph is:",
+    "options": [
+      "h/e",
+      "e/h",
+      "h",
+      "e"
+    ],
+    "correct_index": 0,
+    "solution": "V\u2080 = (h/e)\u03bd - (\u03a6\u2080/e).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If the intensity of light is doubled, the photoelectric current:",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains same",
+      "Quadruples"
+    ],
+    "correct_index": 0,
+    "solution": "Current \u221d Number of photons (Intensity).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If the frequency of light is doubled, the stopping potential:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Doubles",
+      "Remains same"
+    ],
+    "correct_index": 0,
+    "solution": "Max KE increases with frequency.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "De-Broglie wavelength (\u03bb) is:",
+    "options": [
+      "h/p",
+      "p/h",
+      "h*p",
+      "mv/h"
+    ],
+    "correct_index": 0,
+    "solution": "\u03bb = h/mv.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Davisson-Germer experiment proved:",
+    "options": [
+      "Particle nature of light",
+      "Wave nature of electrons",
+      "Quantization",
+      "None"
+    ],
+    "correct_index": 1,
+    "solution": "Confirmed electron diffraction.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The rest mass of a photon is:",
+    "options": [
+      "Zero",
+      "1.67 x 10\u207b\u00b2\u2077 kg",
+      "9.1 x 10\u207b\u00b3\u00b9 kg",
+      "Infinite"
+    ],
+    "correct_index": 0,
+    "solution": "Photons only exist in motion at speed c.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Threshold frequency is the frequency at which:",
+    "options": [
+      "KE is zero",
+      "Current is max",
+      "Potential is max",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Minimum frequency to start emission.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Wavelength of an electron accelerated by V volts is:",
+    "options": [
+      "12.27/\u221aV \u00c5",
+      "1.227/\u221aV \u00c5",
+      "122.7/\u221aV \u00c5",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Empirical formula for electrons.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Momentum of a photon is:",
+    "options": [
+      "h/\u03bb",
+      "h\u03bb",
+      "mc\u00b2",
+      "h\u03bd"
+    ],
+    "correct_index": 0,
+    "solution": "p = E/c = h\u03bd/c = h/\u03bb.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Photoelectric emission is an:",
+    "options": [
+      "Instantaneous process",
+      "Delayed process",
+      "Thermal process",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Occurs within 10\u207b\u2079 seconds.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Number of photoelectrons emitted depends on:",
+    "options": [
+      "Intensity",
+      "Frequency",
+      "Wavelength",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Higher intensity means more photons.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Max KE of photoelectrons depends on:",
+    "options": [
+      "Frequency",
+      "Intensity",
+      "Time",
+      "Distance"
+    ],
+    "correct_index": 0,
+    "solution": "Independent of intensity.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Material used in photocells is:",
+    "options": [
+      "Alkali metals",
+      "Insulators",
+      "Gases",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Low work function for easy emission.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Dimensional formula of Planck's constant (h):",
+    "options": [
+      "[ML\u00b2T\u207b\u00b9]",
+      "[MLT\u207b\u00b9]",
+      "[ML\u00b2T\u207b\u00b2]",
+      "[MLT\u207b\u00b2]"
+    ],
+    "correct_index": 0,
+    "solution": "From E = h\u03bd.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Heisenberg Uncertainty Principle involves:",
+    "options": [
+      "\u0394x and \u0394p",
+      "E and t",
+      "Both A and B",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "Standard quantum limits.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Photon energy in terms of \u03bb:",
+    "options": [
+      "hc/\u03bb",
+      "h/\u03bb",
+      "c/\u03bb",
+      "h\u03bb/c"
+    ],
+    "correct_index": 0,
+    "solution": "E = h\u03bd = hc/\u03bb.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Stopping potential is a measure of:",
+    "options": [
+      "Max KE",
+      "Intensity",
+      "Frequency",
+      "Work function"
+    ],
+    "correct_index": 0,
+    "solution": "eV\u2080 = Kmax.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Light of frequency < threshold frequency is incident:",
+    "options": [
+      "No emission",
+      "Emission occurs",
+      "Current is max",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Energy is less than work function.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If power of source is increased, number of photons per sec:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Same",
+      "Zero"
+    ],
+    "correct_index": 0,
+    "solution": "Power = N * h\u03bd.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Work function of Cesium is approx:",
+    "options": [
+      "2.14 eV",
+      "4.5 eV",
+      "10 eV",
+      "1.1 eV"
+    ],
+    "correct_index": 0,
+    "solution": "One of the lowest work functions.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Energy of a photon of wavelength 4000 \u00c5:",
+    "options": [
+      "3.1 eV",
+      "1.1 eV",
+      "10 eV",
+      "2.1 eV"
+    ],
+    "correct_index": 0,
+    "solution": "E (eV) = 12400 / \u03bb (\u00c5).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The wave nature of matter is significant for:",
+    "options": [
+      "Subatomic particles",
+      "Macroscopic bodies",
+      "Both",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "\u03bb is too small for large masses.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A proton and alpha particle have same de-Broglie \u03bb. Ratio of velocities:",
+    "options": [
+      "4:1",
+      "1:4",
+      "2:1",
+      "1:1"
+    ],
+    "correct_index": 0,
+    "solution": "\u03bb = h/mv. m\u03b1 = 4mp.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Matter waves are:",
+    "options": [
+      "Electromagnetic",
+      "Mechanical",
+      "Probability waves",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "Also known as de-Broglie waves.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Cathode rays are a beam of:",
+    "options": [
+      "Electrons",
+      "Protons",
+      "Neutrons",
+      "Photons"
+    ],
+    "correct_index": 0,
+    "solution": "Discovered in discharge tubes.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Unit of work function is same as:",
+    "options": [
+      "Joule",
+      "Electron-Volt",
+      "Both",
+      "Watt"
+    ],
+    "correct_index": 2,
+    "solution": "It is an energy term.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Stopping potential depends on:",
+    "options": [
+      "Frequency and Material",
+      "Intensity",
+      "Distance",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "V\u2080 = (h/e)\u03bd - \u03a6\u2080/e.",
+    "difficulty": "Medium"
+  }
+]

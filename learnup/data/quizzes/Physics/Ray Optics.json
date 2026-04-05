@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 regarding SI Units in Ray Optics: Choose the correct option.",
+    "question": "A convex mirror always forms an image that is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Real",
+      "Inverted",
+      "Virtual and Diminished",
+      "Magnified"
     ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Convex mirrors are used as rear-view mirrors for this reason.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 regarding Dimensional Formula in Ray Optics: Choose the correct option.",
+    "question": "The power of a lens of focal length 20 cm is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "5 D",
+      "0.05 D",
+      "-5 D",
+      "2 D"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 regarding Constant Value in Ray Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "P = 100/f (in cm) = 100/20 = 5D.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 regarding Derivation Step in Ray Optics: Choose the correct option.",
+    "question": "Critical angle is related to refractive index n by:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "sin C = 1/n",
+      "cos C = 1/n",
+      "tan C = n",
+      "sin C = n"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 regarding Scalar vs Vector in Ray Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Total internal reflection formula.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 regarding Proportionality in Ray Optics: Choose the correct option.",
+    "question": "Mirage is a phenomenon due to:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Reflection",
+      "Refraction",
+      "Total Internal Reflection",
+      "Diffraction"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 regarding Inverse Proportionality in Ray Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Caused by atmospheric temperature gradients.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 regarding Graph Shape in Ray Optics: Choose the correct option.",
+    "question": "The refractive index of diamond is approximately:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1.33",
+      "1.50",
+      "2.42",
+      "1.00"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 regarding Law or Principle in Ray Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Diamond has a high RI, leading to more TIR and sparkle.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 regarding Formula Identification in Ray Optics: Choose the correct option.",
+    "question": "A lens immersed in a liquid of higher RI than itself will:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Change nature",
+      "Keep nature",
+      "Become invisible",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 regarding Practical Application in Ray Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "A convex lens can act as concave if n_liquid > n_lens.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 regarding Exception or Limitation in Ray Optics: Choose the correct option.",
+    "question": "Final image in a compound microscope is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Real inverted",
+      "Virtual inverted",
+      "Real erect",
+      "Virtual erect"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 regarding Numerical (Easy) in Ray Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Inverted with respect to the original object.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 regarding Numerical (Medium) in Ray Optics: Choose the correct option.",
+    "question": "Focal length of a plane mirror is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Zero",
+      "One",
+      "Infinite",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 regarding Numerical (Hard) in Ray Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Parallel rays remain parallel after reflection.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 regarding True/False in Ray Optics: Choose the correct option.",
+    "question": "For a thin prism, the deviation \u03b4 is given by:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "(n-1)A",
+      "(n+1)A",
+      "n/A",
+      "A/n"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 regarding Assertion Reason 1 in Ray Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Standard formula for small angles.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 regarding Assertion Reason 2 in Ray Optics: Choose the correct option.",
+    "question": "The sky appears blue due to:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Refraction",
+      "Scattering",
+      "Dispersion",
+      "Reflection"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 regarding Right Hand Rule / Convention in Ray Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Rayleigh scattering (intensity \u221d 1/\u03bb\u2074).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 regarding Electromagnetic Effect in Ray Optics: Choose the correct option.",
+    "question": "Speed of light is maximum in:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Water",
+      "Glass",
+      "Vacuum",
+      "Diamond"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 regarding Energy Conservation in Ray Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Roughly 3 x 10\u2078 m/s.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 regarding Momentum Conservation in Ray Optics: Choose the correct option.",
+    "question": "The lens used to correct myopia is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Convex",
+      "Concave",
+      "Cylindrical",
+      "Bifocal"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 regarding Limit Case in Ray Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Myopia requires a diverging lens.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 regarding Boundary Condition in Ray Optics: Choose the correct option.",
+    "question": "The lens used to correct hypermetropia is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Convex",
+      "Concave",
+      "Cylindrical",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 regarding Material Property in Ray Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Hypermetropia requires a converging lens.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 regarding Temperature Dependence in Ray Optics: Choose the correct option.",
+    "question": "Optical fibers work on the principle of:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Refraction",
+      "Scattering",
+      "Total Internal Reflection",
+      "Interference"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 regarding Frequency Dependence in Ray Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Light reflects within the core.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 regarding Phase Difference in Ray Optics: Choose the correct option.",
+    "question": "Power of two lenses in contact (P1 and P2) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "P1 + P2",
+      "P1 - P2",
+      "P1 * P2",
+      "P1 / P2"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 regarding Interference / Superposition in Ray Optics: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Equivalent power is the algebraic sum.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 regarding Historical Discovery in Ray Optics: Choose the correct option.",
+    "question": "Magnification of a simple microscope at near point is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "D/f",
+      "1 + D/f",
+      "f/D",
+      "1 - D/f"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
+    "correct_index": 1,
+    "solution": "D is the least distance of distinct vision (25cm).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Color of light is determined by its:",
+    "options": [
+      "Amplitude",
+      "Velocity",
+      "Frequency",
+      "Intensity"
+    ],
+    "correct_index": 2,
+    "solution": "Frequency remains constant during refraction.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "When light travels from air to glass, its wavelength:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "None"
+    ],
+    "correct_index": 1,
+    "solution": "\u03bb = v/f. Since speed v decreases, wavelength decreases.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Angle of minimum deviation occurs when:",
+    "options": [
+      "i = e",
+      "i > e",
+      "i < e",
+      "i = 0"
+    ],
+    "correct_index": 0,
+    "solution": "Angle of incidence equals angle of emergence.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The focal length of a lens is 50cm. Its power is:",
+    "options": [
+      "2D",
+      "0.5D",
+      "5D",
+      "10D"
+    ],
+    "correct_index": 0,
+    "solution": "P = 1/0.5 = 2D.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Red light is used for danger signals because it:",
+    "options": [
+      "Is bright",
+      "Scatters least",
+      "Scatters most",
+      "None"
+    ],
+    "correct_index": 1,
+    "solution": "Longest wavelength in visible spectrum.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Refractive index of water is:",
+    "options": [
+      "1.33",
+      "1.5",
+      "1.0",
+      "2.42"
+    ],
+    "correct_index": 0,
+    "solution": "Roughly 4/3.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Image formed by a plane mirror is at:",
+    "options": [
+      "Same distance",
+      "Double distance",
+      "Focus",
+      "Center"
+    ],
+    "correct_index": 0,
+    "solution": "Object distance = Image distance.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Cause of dispersion is:",
+    "options": [
+      "Reflection",
+      "Different speeds for colors",
+      "TIR",
+      "Diffraction"
+    ],
+    "correct_index": 1,
+    "solution": "Refractive index varies with wavelength.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If an object is at focus of convex lens, image is at:",
+    "options": [
+      "Focus",
+      "Center",
+      "Infinity",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "Rays emerge parallel.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Magnification formula for mirror is:",
+    "options": [
+      "-v/u",
+      "v/u",
+      "1/v + 1/u",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Ratio of image height to object height.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Relationship between R and f for spherical mirror:",
+    "options": [
+      "R = f/2",
+      "R = 2f",
+      "R = f",
+      "None"
+    ],
+    "correct_index": 1,
+    "solution": "Radius is twice the focal length.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Unit of refractive index is:",
+    "options": [
+      "m/s",
+      "Radians",
+      "No unit",
+      "Watts"
+    ],
+    "correct_index": 2,
+    "solution": "Ratio of two speeds.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Rainbow is formed by:",
+    "options": [
+      "Dispersion",
+      "Refraction",
+      "TIR",
+      "All"
+    ],
+    "correct_index": 3,
+    "solution": "Involves all three phenomena in water droplets.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Maximum magnification of a telescope is when:",
+    "options": [
+      "f_o is large",
+      "f_e is large",
+      "f_o is small",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "M = f_o / f_e.",
+    "difficulty": "Medium"
   }
 ]

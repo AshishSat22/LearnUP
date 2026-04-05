@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 on Basic Definition for Electrochemistry: Which of the following is correct?",
+    "question": "The unit of molar conductivity is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "S cm\u00b2 mol\u207b\u00b9",
+      "S cm mol\u207b\u00b9",
+      "Ohm cm",
+      "S/cm"
     ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Siemens square centimeter per mole.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 on Nomenclature for Electrochemistry: Which of the following is correct?",
+    "question": "A cell that converts chemical energy to electrical is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Galvanic cell",
+      "Electrolytic cell",
+      "Fuel cell",
+      "Both A and C"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 on Preparation Method 1 for Electrochemistry: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 3,
+    "solution": "Both use chemical reactions to produce current.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 on Preparation Method 2 for Electrochemistry: Which of the following is correct?",
+    "question": "In a Galvanic cell anode is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Negative",
+      "Positive",
+      "Neutral",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 on Physical Property: Boiling Point for Electrochemistry: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Oxidation occurs at the negative electrode.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 on Physical Property: Solubility for Electrochemistry: Which of the following is correct?",
+    "question": "The standard potential of Hydrogen electrode is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "0 V",
+      "1 V",
+      "0.5 V",
+      "Infinite"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 on Chemical Property: Oxidation for Electrochemistry: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Taken as reference.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 on Chemical Property: Reduction for Electrochemistry: Which of the following is correct?",
+    "question": "Kohlrausch's Law is used to determine \u039bm\u00b0 for:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Weak electrolytes",
+      "Strong electrolytes",
+      "Metals",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 on Reaction with Acids for Electrochemistry: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Indepedent migration of ions at infinite dilution.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 on Reaction with Bases for Electrochemistry: Which of the following is correct?",
+    "question": "Faraday's first law relates mass to:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Charge",
+      "Voltage",
+      "Resistance",
+      "Time"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 on Special Name Reaction 1 for Electrochemistry: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "m = zQ.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 on Special Name Reaction 2 for Electrochemistry: Which of the following is correct?",
+    "question": "Unit of cell constant is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "cm\u207b\u00b9",
+      "Ohm",
+      "S cm\u00b2",
+      "cm"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 on Uses and Applications for Electrochemistry: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Ratio of l/A.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 on Environmental Impact for Electrochemistry: Which of the following is correct?",
+    "question": "Specific conductance ________ with dilution.",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Decreases",
+      "Increases",
+      "Remains same",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 on Analytical Test for Electrochemistry: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Number of ions per unit volume decreases.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 on Mechanism Step 1 for Electrochemistry: Which of the following is correct?",
+    "question": "Molar conductivity ________ with dilution.",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 on Mechanism Step 2 for Electrochemistry: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Due to increase in volume containing one mole.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 on Catalyst used for Electrochemistry: Which of the following is correct?",
+    "question": "The primary cell among following is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Dry cell",
+      "Lead storage",
+      "Ni-Cd",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 on Temperature conditions for Electrochemistry: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Cannot be recharged.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 on Pressure conditions for Electrochemistry: Which of the following is correct?",
+    "question": "The fuel used in H2-O2 fuel cell is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Hydrogen",
+      "Methane",
+      "Methanol",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 on Byproducts formed for Electrochemistry: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Clean energy source.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 on Thermodynamics of reaction for Electrochemistry: Which of the following is correct?",
+    "question": "Rusting of iron is an:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Electrochemical process",
+      "Physical process",
+      "Mechanical",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 on Kinetics of reaction for Electrochemistry: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Forms a tiny electrochemical cell on surface.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 on Isomerism for Electrochemistry: Which of the following is correct?",
+    "question": "E\u00b0 cell is equal to:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "E\u00b0 cathode - E\u00b0 anode",
+      "E\u00b0 anode - E\u00b0 cathode",
+      "E\u00b0 + E\u00b0",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 on Stereochemistry for Electrochemistry: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Standard EMF calculation.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 on Electronic effect for Electrochemistry: Which of the following is correct?",
+    "question": "Relation between \u0394G\u00b0 and E\u00b0 is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "\u0394G\u00b0 = -nFE\u00b0",
+      "\u0394G\u00b0 = nFE\u00b0",
+      "\u0394G\u00b0 = RT log E",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 on Steric effect for Electrochemistry: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Relates free energy to cell potential.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 on Industrial preparation for Electrochemistry: Which of the following is correct?",
+    "question": "Function of salt bridge:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Maintain neutrality",
+      "Increase voltage",
+      "Complete circuit",
+      "Both A and C"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 on Laboratory preparation for Electrochemistry: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 3,
+    "solution": "Prevents accumulation of charges.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 on Exceptional case for Electrochemistry: Which of the following is correct?",
+    "question": "Value of 1 Faraday is approx:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "96500 C",
+      "1000 C",
+      "1.6 x 10\u207b\u00b9\u2079 C",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
+    "correct_index": 0,
+    "solution": "Charge on one mole of electrons.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Electrolysis of brine (NaCl aq) produces:",
+    "options": [
+      "Cl2 and H2",
+      "Na and Cl2",
+      "O2 and H2",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "NaOH is left in the solution.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which metal is used for galvanization?",
+    "options": [
+      "Zinc",
+      "Copper",
+      "Tin",
+      "Lead"
+    ],
+    "correct_index": 0,
+    "solution": "Sacrificial protection of iron.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Nernst equation relates E to:",
+    "options": [
+      "Concentration",
+      "Pressure",
+      "Temperature",
+      "All"
+    ],
+    "correct_index": 3,
+    "solution": "Accounts for non-standard conditions.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Stronger reducing agent has:",
+    "options": [
+      "Lower E\u00b0",
+      "Higher E\u00b0",
+      "Zero E\u00b0",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Easily loses electrons.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In electrolytic cell anode is:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Neutral",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "External battery pumps electrons away.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Secondary batteries are:",
+    "options": [
+      "Rechargeable",
+      "One-time use",
+      "Fuel based",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Examples: Lead storage",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Unit of resistivity is:",
+    "options": [
+      "Ohm cm",
+      "S/cm",
+      "Ohm",
+      "cm"
+    ],
+    "correct_index": 0,
+    "solution": "Inverse of conductivity.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Conductivity of metals ________ with temperature.",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Remains same",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Kernels vibrate and obstruct flow.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Device used to measure resistance of solution:",
+    "options": [
+      "Wheatstone Bridge",
+      "Voltmeter",
+      "Ammeter",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Uses AC to prevent electrolysis.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Lambda m =:",
+    "options": [
+      "kappa * 1000 / M",
+      "kappa / M",
+      "M / kappa",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Standard conversion formula.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Corrosion is accelerated by:",
+    "options": [
+      "Salt water",
+      "Pure water",
+      "Vacuum",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Electrolytes facilitate ion movement.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": " Cathodic protection involves:",
+    "options": [
+      "Sacrificial anode",
+      "Painting",
+      "Greasing",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Using a more reactive metal.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Lead storage battery electrolyte is:",
+    "options": [
+      "38% H2SO4",
+      "KOH",
+      "NH4Cl",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Standard sulfuric acid concentration.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Potential of a cell at equilibrium is:",
+    "options": [
+      "Zero",
+      "Maximum",
+      "Constant",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "\u0394G = 0",
+    "difficulty": "Medium"
   }
 ]

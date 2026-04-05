@@ -76,22 +76,46 @@ function renderQuestion() {
     <p style="font-size: 1.2rem; margin-bottom: 1.5rem;">${q.question}</p>
     <div class="options">`;
     
+    const isAnswered = userAnswers[currentIdx] !== null;
     q.options.forEach((opt, idx) => {
-        const checked = userAnswers[currentIdx] === idx ? 'checked' : '';
-        html += `<label class="option-label">
-            <input type="radio" name="q${currentIdx}" value="${idx}" ${checked}>
+        let checked = userAnswers[currentIdx] === idx ? 'checked' : '';
+        let disabled = isAnswered ? 'disabled' : '';
+        let extraStyle = '';
+        
+        if (isAnswered) {
+             if (idx === q.correct_index) {
+                 extraStyle = 'background: rgba(40, 167, 69, 0.2); border: 1px solid #28a745;';
+             } else if (idx === userAnswers[currentIdx]) {
+                 extraStyle = 'background: rgba(220, 53, 69, 0.2); border: 1px solid #dc3545;';
+             }
+        }
+
+        html += `<label class="option-label" style="${extraStyle}">
+            <input type="radio" name="q${currentIdx}" value="${idx}" ${checked} ${disabled}>
             ${opt}
         </label>`;
     });
     html += `</div>`;
+
+    if (isAnswered) {
+        if (userAnswers[currentIdx] === q.correct_index) {
+            html += `<p style="color: #28a745; font-weight: bold; margin-top: 1rem;">✅ Correct!</p>`;
+        } else {
+            html += `<p style="color: #dc3545; font-weight: bold; margin-top: 1rem;">❌ Incorrect.</p>`;
+        }
+    }
+    
     contentDiv.innerHTML = html;
 
     // Attach listeners
-    document.querySelectorAll(`input[name="q${currentIdx}"]`).forEach(inp => {
-        inp.addEventListener('change', (e) => {
-            userAnswers[currentIdx] = parseInt(e.target.value);
+    if (!isAnswered) {
+        document.querySelectorAll(`input[name="q${currentIdx}"]`).forEach(inp => {
+            inp.addEventListener('change', (e) => {
+                userAnswers[currentIdx] = parseInt(e.target.value);
+                renderQuestion(); // Re-render to show feedback
+            });
         });
-    });
+    }
 
     btnPrev.style.display = currentIdx > 0 ? 'inline-block' : 'none';
     if(currentIdx === quizQuestions.length - 1){

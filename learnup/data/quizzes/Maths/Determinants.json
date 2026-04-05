@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 regarding Domain setup in Determinants: Choose the correct option.",
+    "question": "If A is a 3x3 matrix and |A|=4 then |2A| is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "8",
+      "16",
+      "32",
+      "64"
     ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "|kA| = k\u207f|A|. 2\u00b3 * 4 = 8 * 4 = 32.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 regarding Range calculation in Determinants: Choose the correct option.",
+    "question": "The value of determinant |x x+1; x-1 x| is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1",
+      "-1",
+      "x\u00b2",
+      "2x"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 regarding Function type in Determinants: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "x\u00b2 - (x\u00b2-1) = 1.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 regarding Matrix operation in Determinants: Choose the correct option.",
+    "question": "If A is a singular matrix then |A| is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1",
+      "-1",
+      "0",
+      "Any value"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 regarding Determinant property in Determinants: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Definition of singularity.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 regarding Derivative rule in Determinants: Choose the correct option.",
+    "question": "If A is a square matrix of order 3 and |A|=5 then |adj A| is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "5",
+      "25",
+      "125",
+      "625"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 regarding Integral formula in Determinants: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "|adj A| = |A|^(n-1) = 5\u00b2 = 25.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 regarding Limits and Continuity in Determinants: Choose the correct option.",
+    "question": "Area of triangle with vertices (x1 y1) (x2 y2) (x3 y3) is 0 if:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Points are collinear",
+      "Triangle is right angled",
+      "Triangle is equilateral",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 regarding Differential order in Determinants: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Area=0 means no space enclosed (straight line).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 regarding Vector dot product in Determinants: Choose the correct option.",
+    "question": "Value of |2 4; -5 -1| is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "18",
+      "-22",
+      "22",
+      "20"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 regarding Vector cross product in Determinants: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "2(-1) - 4(-5) = -2 + 20 = 18.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 regarding Equation roots in Determinants: Choose the correct option.",
+    "question": "If A is invertible then det(A\u207b\u00b9) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "det(A)",
+      "1/det(A)",
+      "1",
+      "0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 regarding Maxima/Minima condition in Determinants: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Standard property of determinants.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 regarding Area bounded in Determinants: Choose the correct option.",
+    "question": "The minor of element 6 in [1 2 3; 4 5 6; 7 8 9] is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "-6",
+      "6",
+      "5",
+      "3"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 regarding Integration by parts in Determinants: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "|1 2; 7 8| = 8 - 14 = -6.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 regarding Trigonometric identity in Determinants: Choose the correct option.",
+    "question": "Cofactor A_ij is given by:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "(-1)^(i+j) M_ij",
+      "(-1)^(i-j) M_ij",
+      "M_ij",
+      "(-1) M_ij"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 regarding Inverse property in Determinants: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Definition of cofactor.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 regarding Differential linearity in Determinants: Choose the correct option.",
+    "question": "A system of linear equations AX=B is inconsistent if:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "|A| != 0",
+      "|A| = 0 and (adjA)B != 0",
+      "|A| = 0 and (adjA)B = 0",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 regarding Homogeneous check in Determinants: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Condition for no solution.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 regarding Particular solution boundary in Determinants: Choose the correct option.",
+    "question": "If rows and columns are interchanged the value of determinant:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Changes sign",
+      "Remains same",
+      "Becomes zero",
+      "Is doubled"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 regarding Chain rule in Determinants: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "det(A) = det(A').",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 regarding Product rule in Determinants: Choose the correct option.",
+    "question": "If any two rows are identical the determinant is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1",
+      "-1",
+      "0",
+      "Sum of elements"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 regarding Quotient rule in Determinants: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Property of determinants.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 regarding L'Hopital's applicability in Determinants: Choose the correct option.",
+    "question": "|adj A| for n=2 is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "|A|\u00b2",
+      "|A|",
+      "1",
+      "|A|\u00b3"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 regarding Matrix inverse property in Determinants: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "|A|^(2-1) = |A|.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 regarding Symmetric/Skew check in Determinants: Choose the correct option.",
+    "question": "Derivative of |f(x) g(x); h(x) l(x)| involves:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Product rule",
+      "Differentiating row-wise",
+      "Chain rule",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 regarding Definite integral bounds in Determinants: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "d/dx |A| is sum of determinants where one row is differentiated at a time.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 regarding Odd/Even function integral in Determinants: Choose the correct option.",
+    "question": "If A = [2 3; 1 4] then |A| is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "11",
+      "5",
+      "10",
+      "14"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 regarding Graph intersection in Determinants: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "8 - 3 = 5.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 regarding Parametric derivative in Determinants: Choose the correct option.",
+    "question": "A square matrix A has inverse if and only if:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "A is singular",
+      "A is non-singular",
+      "A is symmetric",
+      "A is zero"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
+    "correct_index": 1,
+    "solution": "|A| must not be zero.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Value of |1 a b+c; 1 b c+a; 1 c a+b| is:",
+    "options": [
+      "a+b+c",
+      "0",
+      "abc",
+      "1"
+    ],
+    "correct_index": 1,
+    "solution": "C3 -> C3 + C2 makes C3 = a+b+c. Then C1 and C3 are proportional.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If each element of a row is multiplied by k then det is:",
+    "options": [
+      "Unchanged",
+      "k * det",
+      "k\u00b2 * det",
+      "det/k"
+    ],
+    "correct_index": 1,
+    "solution": "Property of scalar multiplication in determinants.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Adjoint of [a b; c d] is:",
+    "options": [
+      "[d -b; -c a]",
+      "[d c; b a]",
+      "[a c; b d]",
+      "[-a b; c -d]"
+    ],
+    "correct_index": 0,
+    "solution": "Swap diagonals and change signs of off-diagonals.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Determinant of a skew-symmetric matrix of odd order is:",
+    "options": [
+      "1",
+      "-1",
+      "0",
+      "Any square"
+    ],
+    "correct_index": 2,
+    "solution": "Standard theorem.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If A is 3x3 and |A|=2 then |A'| is:",
+    "options": [
+      "2",
+      "-2",
+      "1/2",
+      "8"
+    ],
+    "correct_index": 0,
+    "solution": "Determinant is invariant under transpose.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If x 2; 18 x = 6 2; 18 6 then x is:",
+    "options": [
+      "6",
+      "-6",
+      "+/- 6",
+      "0"
+    ],
+    "correct_index": 2,
+    "solution": "x\u00b2-36 = 36-36 => x\u00b2=36.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If A = [k 0; 0 k] then |A| is:",
+    "options": [
+      "2k",
+      "k\u00b2",
+      "0",
+      "k"
+    ],
+    "correct_index": 1,
+    "solution": "k*k - 0 = k\u00b2.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For a 2x2 matrix A det(adj A) is:",
+    "options": [
+      "det A",
+      "(det A)\u00b2",
+      "1",
+      "0"
+    ],
+    "correct_index": 0,
+    "solution": "n-1 where n=2 is 1.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Consistency of AX=B where |A| != 0 means:",
+    "options": [
+      "Unique solution",
+      "Infinite solutions",
+      "No solution",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Cramer's rule/Matrix inverse method.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The element in 2nd row and 3rd column of cofactor matrix is:",
+    "options": [
+      "-M_23",
+      "M_23",
+      "M_32",
+      "-M_32"
+    ],
+    "correct_index": 0,
+    "solution": "(-1)^(2+3) = -1.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If |A| = 0 then A\u207b\u00b9:",
+    "options": [
+      "Exists",
+      "Does not exist",
+      "Is I",
+      "Is 0"
+    ],
+    "correct_index": 1,
+    "solution": "Formula A\u207b\u00b9 = (adj A)/|A| involves division by zero.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Value of |102 18 36; 1 3 4; 17 3 6| is:",
+    "options": [
+      "100",
+      "0",
+      "150",
+      "36"
+    ],
+    "correct_index": 1,
+    "solution": "R1 = 6 * R3. Rows are proportional.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Solution of x+2y=4 and 2x+4y=8 has:",
+    "options": [
+      "Unique solution",
+      "No solution",
+      "Infinite solutions",
+      "x=1 y=1"
+    ],
+    "correct_index": 2,
+    "solution": "Lines are identical (proportional coefficients).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The sum of products of elements of any row with cofactors of another row is:",
+    "options": [
+      "|A|",
+      "0",
+      "1",
+      "-|A|"
+    ],
+    "correct_index": 1,
+    "solution": "Fundamental property of determinants.",
+    "difficulty": "Medium"
   }
 ]

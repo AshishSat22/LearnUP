@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 regarding Domain setup in Inverse Trigonometric Functions: Choose the correct option.",
+    "question": "The principal value of sin\u207b\u00b9(-1/2) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "-\u03c0/6",
+      "-\u03c0/3",
+      "\u03c0/6",
+      "5\u03c0/6"
     ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "sin(-\u03c0/6) = -1/2. Range is [-\u03c0/2 \u03c0/2].",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 regarding Range calculation in Inverse Trigonometric Functions: Choose the correct option.",
+    "question": "The value of cos\u207b\u00b9(cos 13\u03c0/6) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "13\u03c0/6",
+      "\u03c0/6",
+      "7\u03c0/6",
+      "5\u03c0/6"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 regarding Function type in Inverse Trigonometric Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "cos\u207b\u00b9(cos(2\u03c0 + \u03c0/6)) = cos\u207b\u00b9(cos \u03c0/6) = \u03c0/6.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 regarding Matrix operation in Inverse Trigonometric Functions: Choose the correct option.",
+    "question": "tan\u207b\u00b9(\u221a3) - sec\u207b\u00b9(-2) is equal to:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "\u03c0",
+      "-\u03c0/3",
+      "\u03c0/3",
+      "2\u03c0/3"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 regarding Determinant property in Inverse Trigonometric Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "\u03c0/3 - (\u03c0 - \u03c0/3) = \u03c0/3 - 2\u03c0/3 = -\u03c0/3.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 regarding Derivative rule in Inverse Trigonometric Functions: Choose the correct option.",
+    "question": "Domain of sin\u207b\u00b9(2x) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "[-1 1]",
+      "[-1/2 1/2]",
+      "[-2 2]",
+      "R"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 regarding Integral formula in Inverse Trigonometric Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "-1 \u2264 2x \u2264 1 implies -1/2 \u2264 x \u2264 1/2.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 regarding Limits and Continuity in Inverse Trigonometric Functions: Choose the correct option.",
+    "question": "The value of sin(\u03c0/3 - sin\u207b\u00b9(-1/2)) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1/2",
+      "1/3",
+      "1/4",
+      "1"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 regarding Differential order in Inverse Trigonometric Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 3,
+    "solution": "sin(\u03c0/3 - (-\u03c0/6)) = sin(\u03c0/2) = 1.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 regarding Vector dot product in Inverse Trigonometric Functions: Choose the correct option.",
+    "question": "The value of tan\u207b\u00b9[2 cos(2 sin\u207b\u00b9 1/2)] is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "\u03c0/3",
+      "\u03c0/4",
+      "\u03c0/6",
+      "\u03c0/2"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 regarding Vector cross product in Inverse Trigonometric Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "tan\u207b\u00b9[2 cos(\u03c0/3)] = tan\u207b\u00b9[2 * 1/2] = tan\u207b\u00b9(1) = \u03c0/4.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 regarding Equation roots in Inverse Trigonometric Functions: Choose the correct option.",
+    "question": "sin(tan\u207b\u00b9 x) for |x| < 1 is equal to:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "x/\u221a(1-x\u00b2)",
+      "1/\u221a(1-x\u00b2)",
+      "1/\u221a(1+x\u00b2)",
+      "x/\u221a(1+x\u00b2)"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 regarding Maxima/Minima condition in Inverse Trigonometric Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 3,
+    "solution": "Let tan\u207b\u00b9x = \u03b8. sin \u03b8 = x/\u221a(1+x\u00b2).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 regarding Area bounded in Inverse Trigonometric Functions: Choose the correct option.",
+    "question": "The range of sin\u207b\u00b9 x is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "[0 \u03c0]",
+      "(0 \u03c0)",
+      "[-\u03c0/2 \u03c0/2]",
+      "(-\u03c0/2 \u03c0/2)"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 regarding Integration by parts in Inverse Trigonometric Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Standard principal branch interval.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 regarding Trigonometric identity in Inverse Trigonometric Functions: Choose the correct option.",
+    "question": "The range of cos\u207b\u00b9 x is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "[0 \u03c0]",
+      "(0 \u03c0)",
+      "[-\u03c0/2 \u03c0/2]",
+      "(-\u03c0/2 \u03c0/2)"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 regarding Inverse property in Inverse Trigonometric Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Standard principal branch interval.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 regarding Differential linearity in Inverse Trigonometric Functions: Choose the correct option.",
+    "question": "The principal value of cosec\u207b\u00b9(2) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "\u03c0/3",
+      "\u03c0/6",
+      "2\u03c0/3",
+      "\u03c0/4"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 regarding Homogeneous check in Inverse Trigonometric Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "cosec(\u03c0/6) = 2.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 regarding Particular solution boundary in Inverse Trigonometric Functions: Choose the correct option.",
+    "question": "tan\u207b\u00b9(1) + cos\u207b\u00b9(-1/2) + sin\u207b\u00b9(-1/2) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "2\u03c0/3",
+      "3\u03c0/4",
+      "\u03c0/2",
+      "\u03c0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 regarding Chain rule in Inverse Trigonometric Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "\u03c0/4 + 2\u03c0/3 - \u03c0/6 = (3\u03c0 + 8\u03c0 - 2\u03c0)/12 = 9\u03c0/12 = 3\u03c0/4.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 regarding Product rule in Inverse Trigonometric Functions: Choose the correct option.",
+    "question": "Domain of sec\u207b\u00b9 x is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "R",
+      "R - (-1 1)",
+      "[-1 1]",
+      "(0 \u03c0)"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 regarding Quotient rule in Inverse Trigonometric Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "|x| must be \u2265 1.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 regarding L'Hopital's applicability in Inverse Trigonometric Functions: Choose the correct option.",
+    "question": "Value of cot(tan\u207b\u00b9 a + cot\u207b\u00b9 a) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1",
+      "0",
+      "undefined",
+      "a"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 regarding Matrix inverse property in Inverse Trigonometric Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "cot(\u03c0/2) = 0.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 regarding Symmetric/Skew check in Inverse Trigonometric Functions: Choose the correct option.",
+    "question": "tan\u207b\u00b9(x/y) - tan\u207b\u00b9((x-y)/(x+y)) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "\u03c0/2",
+      "\u03c0/3",
+      "\u03c0/4",
+      "3\u03c0/4"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 regarding Definite integral bounds in Inverse Trigonometric Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Use identity tan\u207b\u00b9A - tan\u207b\u00b9B = tan\u207b\u00b9((A-B)/(1+AB)).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 regarding Odd/Even function integral in Inverse Trigonometric Functions: Choose the correct option.",
+    "question": "sin\u207b\u00b9(sin 2\u03c0/3) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "2\u03c0/3",
+      "\u03c0/3",
+      "4\u03c0/3",
+      "-\u03c0/3"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 regarding Graph intersection in Inverse Trigonometric Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "sin\u207b\u00b9(sin(\u03c0 - \u03c0/3)) = sin\u207b\u00b9(sin \u03c0/3) = \u03c0/3.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 regarding Parametric derivative in Inverse Trigonometric Functions: Choose the correct option.",
+    "question": "If sin\u207b\u00b9 x = y then:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "-\u03c0/2 < y < \u03c0/2",
+      "-\u03c0/2 \u2264 y \u2264 \u03c0/2",
+      "0 < y < \u03c0",
+      "0 \u2264 y \u2264 \u03c0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
+    "correct_index": 1,
+    "solution": "Range of sine inverse.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The value of cos(sec\u207b\u00b9 x + cosec\u207b\u00b9 x) is:",
+    "options": [
+      "1",
+      "0",
+      "-1",
+      "1/2"
+    ],
+    "correct_index": 1,
+    "solution": "cos(\u03c0/2) = 0.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "tan\u207b\u00b9(\u221a3) - cot\u207b\u00b9(-\u221a3) is:",
+    "options": [
+      "\u03c0",
+      "-\u03c0/2",
+      "0",
+      "2\u221a3"
+    ],
+    "correct_index": 1,
+    "solution": "\u03c0/3 - (\u03c0 - \u03c0/6) = \u03c0/3 - 5\u03c0/6 = -\u03c0/2.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Principal value of cos\u207b\u00b9(1/2) + 2 sin\u207b\u00b9(1/2) is:",
+    "options": [
+      "\u03c0/3",
+      "2\u03c0/3",
+      "\u03c0/4",
+      "\u03c0"
+    ],
+    "correct_index": 1,
+    "solution": "\u03c0/3 + 2(\u03c0/6) = 2\u03c0/3.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If tan\u207b\u00b9 x = \u03c0/10 for some x in R then cot\u207b\u00b9 x is:",
+    "options": [
+      "\u03c0/5",
+      "2\u03c0/5",
+      "3\u03c0/5",
+      "4\u03c0/5"
+    ],
+    "correct_index": 1,
+    "solution": "\u03c0/2 - \u03c0/10 = 4\u03c0/10 = 2\u03c0/5.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Domain of cos\u207b\u00b9(2x-1) is:",
+    "options": [
+      "[0 1]",
+      "[-1 1]",
+      "[-1 0]",
+      "[0 \u03c0]"
+    ],
+    "correct_index": 0,
+    "solution": "-1 \u2264 2x-1 \u2264 1 => 0 \u2264 2x \u2264 2 => 0 \u2264 x \u2264 1.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The value of cos\u207b\u00b9(cos 7\u03c0/6) is:",
+    "options": [
+      "7\u03c0/6",
+      "5\u03c0/6",
+      "\u03c0/6",
+      "\u03c0/3"
+    ],
+    "correct_index": 1,
+    "solution": "cos\u207b\u00b9(cos(2\u03c0 - 5\u03c0/6)) = 5\u03c0/6.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "sin\u207b\u00b9(1-x) - 2sin\u207b\u00b9x = \u03c0/2 then x is:",
+    "options": [
+      "0 1/2",
+      "1 1/2",
+      "0",
+      "-1"
+    ],
+    "correct_index": 2,
+    "solution": "Checking options: If x=0 sin\u207b\u00b9(1)-0 = \u03c0/2 (Correct).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Principal value of tan\u207b\u00b9(-\u221a3) is:",
+    "options": [
+      "-\u03c0/3",
+      "2\u03c0/3",
+      "\u03c0/3",
+      "\u03c0/6"
+    ],
+    "correct_index": 0,
+    "solution": "tan(-\u03c0/3) = -\u221a3.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which of the following is the principal branch of cosec\u207b\u00b9 x?",
+    "options": [
+      "[-\u03c0/2 \u03c0/2]",
+      "[-\u03c0/2 \u03c0/2] - {0}",
+      "[0 \u03c0]",
+      "[0 \u03c0] - {\u03c0/2}"
+    ],
+    "correct_index": 1,
+    "solution": "Standard definition.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "sin\u207b\u00b9(1/2) = x then x is:",
+    "options": [
+      "30\u00b0",
+      "\u03c0/6",
+      "Both A and B",
+      "45\u00b0"
+    ],
+    "correct_index": 2,
+    "solution": "30 degrees is \u03c0/6 radians.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Value of tan(cos\u207b\u00b9 4/5 + tan\u207b\u00b9 2/3) is:",
+    "options": [
+      "6/17",
+      "17/6",
+      "7/16",
+      "16/7"
+    ],
+    "correct_index": 1,
+    "solution": "cos\u207b\u00b9 4/5 = tan\u207b\u00b9 3/4. tan(tan\u207b\u00b9 3/4 + tan\u207b\u00b9 2/3) = (3/4+2/3)/(1-1/2) = 17/6.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Principal value of cos\u207b\u00b9(-1/\u221a2) is:",
+    "options": [
+      "\u03c0/4",
+      "-\u03c0/4",
+      "3\u03c0/4",
+      "5\u03c0/4"
+    ],
+    "correct_index": 2,
+    "solution": "\u03c0 - \u03c0/4 = 3\u03c0/4.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Domain of f(x) = sin\u207b\u00b9 x + cos x is:",
+    "options": [
+      "[-1 1]",
+      "[-\u03c0 \u03c0]",
+      "(-\u221e \u221e)",
+      "[0 1]"
+    ],
+    "correct_index": 0,
+    "solution": "Intersection of [-1 1] and R is [-1 1].",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Number of solutions of tan\u207b\u00b9 \u221ax(x+1) + sin\u207b\u00b9 \u221ax\u00b2+x+1 = \u03c0/2 is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "Infinite"
+    ],
+    "correct_index": 1,
+    "solution": "x\u00b2+x must be 0 for both to be defined. x=0 x=-1.",
+    "difficulty": "Medium"
   }
 ]

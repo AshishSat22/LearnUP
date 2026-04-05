@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 on Basic Definition for Biomolecules: Which of the following is correct?",
+    "question": "Glucose is a:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Hexose",
+      "Pentose",
+      "Tetrose",
+      "None"
     ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Contains 6 carbon atoms.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 on Nomenclature for Biomolecules: Which of the following is correct?",
+    "question": "Which of the following is a non-reducing sugar?",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Sucrose",
+      "Glucose",
+      "Fructose",
+      "Maltose"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 on Preparation Method 1 for Biomolecules: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Anomeric carbons are involved in glycosidic bond.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 on Preparation Method 2 for Biomolecules: Which of the following is correct?",
+    "question": "Building blocks of proteins are:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Amino acids",
+      "Nucleotides",
+      "Monosaccharides",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 on Physical Property: Boiling Point for Biomolecules: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Linked by peptide bonds.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 on Physical Property: Solubility for Biomolecules: Which of the following is correct?",
+    "question": "Structure of DNA is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Double helix",
+      "Single strand",
+      "Triple helix",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 on Chemical Property: Oxidation for Biomolecules: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Proposed by Watson and Crick.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 on Chemical Property: Reduction for Biomolecules: Which of the following is correct?",
+    "question": "Vitamin C is chemically:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Ascorbic acid",
+      "Retinol",
+      "Calciferol",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 on Reaction with Acids for Biomolecules: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Water soluble vitamin.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 on Reaction with Bases for Biomolecules: Which of the following is correct?",
+    "question": "Which base is NOT present in DNA?",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Uracil",
+      "Thymine",
+      "Adenine",
+      "Guanine"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 on Special Name Reaction 1 for Biomolecules: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Uracil is present in RNA instead.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 on Special Name Reaction 2 for Biomolecules: Which of the following is correct?",
+    "question": "Glucose + Tollen's reagent gives:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Silver mirror",
+      "Red ppt",
+      "Blue color",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 on Uses and Applications for Biomolecules: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Glucose is a reducing sugar (Aldose).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 on Environmental Impact for Biomolecules: Which of the following is correct?",
+    "question": "Denaturation of proteins affects:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Secondary and Tertiary",
+      "Primary",
+      "Both",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 on Analytical Test for Biomolecules: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Primary structure remains intact.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 on Mechanism Step 1 for Biomolecules: Which of the following is correct?",
+    "question": "Sucrose on hydrolysis gives:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Glucose + Fructose",
+      "Glucose + Glucose",
+      "Galactose",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 on Mechanism Step 2 for Biomolecules: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Inversion of sugar occurs.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 on Catalyst used for Biomolecules: Which of the following is correct?",
+    "question": "Storage polysaccharide in animals is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Glycogen",
+      "Starch",
+      "Cellulose",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 on Temperature conditions for Biomolecules: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Mainly in liver and muscles.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 on Pressure conditions for Biomolecules: Which of the following is correct?",
+    "question": "Which vitamin deficiency causes Scurvy?",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin K"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 on Byproducts formed for Biomolecules: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Ascorbic acid deficiency.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 on Thermodynamics of reaction for Biomolecules: Which of the following is correct?",
+    "question": "Starch consists of:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Amylose + Amylopectin",
+      "Glucose",
+      "Cellulose",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 on Kinetics of reaction for Biomolecules: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Major plant storage carbohydrate.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 on Isomerism for Biomolecules: Which of the following is correct?",
+    "question": "Zwitterion is formed by:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Amino acids",
+      "Glucose",
+      "Fats",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 on Stereochemistry for Biomolecules: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Internal salt formation (NH3+ and COO-).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 on Electronic effect for Biomolecules: Which of the following is correct?",
+    "question": "The sugar present in RNA is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Ribose",
+      "Deoxyribose",
+      "Fructose",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 on Steric effect for Biomolecules: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "A pentose sugar.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 on Industrial preparation for Biomolecules: Which of the following is correct?",
+    "question": "Example of globular protein is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Insulin",
+      "Keratin",
+      "Myosin",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 on Laboratory preparation for Biomolecules: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Soluble in water.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 on Exceptional case for Biomolecules: Which of the following is correct?",
+    "question": "Example of fibrous protein is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Keratin",
+      "Albumin",
+      "Insulin",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
+    "correct_index": 0,
+    "solution": "Insoluble hair/nail protein.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Glucose + Br2 water gives:",
+    "options": [
+      "Gluconic acid",
+      "Saccharic acid",
+      "Sorbitol",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Tests for aldehyde group.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Linkage between amino acids is:",
+    "options": [
+      "Peptide linkage",
+      "Glycosidic",
+      "Ester",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "-CONH- bond.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Linkage between monosaccharides is:",
+    "options": [
+      "Glycosidic linkage",
+      "Peptide",
+      "Hydrogen",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Ether-like bond.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Essential amino acids:",
+    "options": [
+      "Cannot be made by body",
+      "Made by body",
+      "Not required",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Must be obtained from diet.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Deficiency of Vitamin A causes:",
+    "options": [
+      "Night blindness",
+      "Rickets",
+      "Anemia",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Xerophthalmia.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Nucleoside consists of:",
+    "options": [
+      "Base + Sugar",
+      "Base + Sugar + Phosphate",
+      "Sugar + Phosphate",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Phosphate is missing.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Nucleotide consists of:",
+    "options": [
+      "Base + Sugar + Phosphate",
+      "Base + Sugar",
+      "Sugar + Phosphate",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Monomer of nucleic acids.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Double helix is held by:",
+    "options": [
+      "Hydrogen bonds",
+      "Covalent",
+      "Ionic",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Between base pairs (A=T C\u2261G).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Fructose is a:",
+    "options": [
+      "Ketohexose",
+      "Aldohexose",
+      "Pentose",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Contains ketone group at C2.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Glucose + HI / Heat gives:",
+    "options": [
+      "n-Hexane",
+      "Hexene",
+      "Hexyne",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Proves straight chain of 6 carbons.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Animal starch is:",
+    "options": [
+      "Glycogen",
+      "Cellulose",
+      "Maltose",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Stored energy.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which vitamin is fat soluble?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin B",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Vitamins A D E K are fat soluble.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Alpha-helix is a ________ structure of protein:",
+    "options": [
+      "Secondary",
+      "Primary",
+      "Tertiary",
+      "Quaternary"
+    ],
+    "correct_index": 0,
+    "solution": "Stabilized by H-bonding.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Enzymes are:",
+    "options": [
+      "Biological catalysts",
+      "Vitamins",
+      "Carbohydrates",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Highly specific proteins.",
+    "difficulty": "Medium"
   }
 ]

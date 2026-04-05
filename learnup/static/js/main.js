@@ -22,6 +22,27 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
+    // Single Video Playback Logic
+    const videos = document.querySelectorAll('video');
+    videos.forEach(video => {
+        video.addEventListener('play', () => {
+            videos.forEach(v => {
+                if (v !== video) v.pause();
+            });
+            document.querySelectorAll('iframe').forEach(iframe => {
+                try {
+                    iframe.contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*');
+                } catch(e) {}
+            });
+        });
+    });
+
+    window.addEventListener('blur', () => {
+        if (document.activeElement && document.activeElement.tagName === 'IFRAME') {
+            document.querySelectorAll('video').forEach(v => v.pause());
+        }
+    });
+
     // Bookmark Toggle logic
     const bookmarkBtns = document.querySelectorAll('.bookmark-btn');
     bookmarkBtns.forEach(btn => {

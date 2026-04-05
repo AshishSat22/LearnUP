@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 regarding Domain setup in Vector Algebra: Choose the correct option.",
+    "question": "Unit vector in direction of a is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "a/|a|",
+      "|a|a",
+      "a",
+      "1"
     ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Normalization formula.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 regarding Range calculation in Vector Algebra: Choose the correct option.",
+    "question": "Dot product of i and j is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1",
+      "0",
+      "-1",
+      "k"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 regarding Function type in Vector Algebra: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Orthogonality.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 regarding Matrix operation in Vector Algebra: Choose the correct option.",
+    "question": "Cross product i x j is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "0",
+      "1",
+      "k",
+      "-k"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 regarding Determinant property in Vector Algebra: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Right hand rule.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 regarding Derivative rule in Vector Algebra: Choose the correct option.",
+    "question": "Magnitude of 2i - 3j + 6k is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "7",
+      "5",
+      "\u221a13",
+      "49"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 regarding Integral formula in Vector Algebra: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "\u221a(4+9+36) = 7.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 regarding Limits and Continuity in Vector Algebra: Choose the correct option.",
+    "question": "Projection of a on b is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "(a.b)/|b|",
+      "(a.b)/|a|",
+      "a.b",
+      "a x b"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 regarding Differential order in Vector Algebra: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Scalar projection formula.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 regarding Vector dot product in Vector Algebra: Choose the correct option.",
+    "question": "If a.b = 0 then vectors are:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Parallel",
+      "Perpendicular",
+      "Equal",
+      "Zero"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 regarding Vector cross product in Vector Algebra: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Zero cosine.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 regarding Equation roots in Vector Algebra: Choose the correct option.",
+    "question": "If a x b = 0 then vectors are:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Parallel",
+      "Perpendicular",
+      "Equal",
+      "Zero"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 regarding Maxima/Minima condition in Vector Algebra: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Zero sine.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 regarding Area bounded in Vector Algebra: Choose the correct option.",
+    "question": "a . a is equal to:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "|a|\u00b2",
+      "0",
+      "1",
+      "a"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 regarding Integration by parts in Vector Algebra: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Self dot product.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 regarding Trigonometric identity in Vector Algebra: Choose the correct option.",
+    "question": "a x a is equal to:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "|a|\u00b2",
+      "0",
+      "1",
+      "a"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 regarding Inverse property in Vector Algebra: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Self cross product.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 regarding Differential linearity in Vector Algebra: Choose the correct option.",
+    "question": "Angle between i+j and i-j is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "0",
+      "90",
+      "45",
+      "180"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 regarding Homogeneous check in Vector Algebra: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Dot product is 0.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 regarding Particular solution boundary in Vector Algebra: Choose the correct option.",
+    "question": "Direction cosines of i+j+k are:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1 1 1",
+      "1/\u221a3 1/\u221a3 1/\u221a3",
+      "0 0 0",
+      "1/3 1/3 1/3"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 regarding Chain rule in Vector Algebra: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Normalized coords.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 regarding Product rule in Vector Algebra: Choose the correct option.",
+    "question": "Scalar triple product [a b c] is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "a.(b x c)",
+      "a x (b . c)",
+      "a.b.c",
+      "0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 regarding Quotient rule in Vector Algebra: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Volume form.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 regarding L'Hopital's applicability in Vector Algebra: Choose the correct option.",
+    "question": "If [a b c] = 0 vectors are:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Collinear",
+      "Coplanar",
+      "Orthogonal",
+      "Unit"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 regarding Matrix inverse property in Vector Algebra: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Zero volume.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 regarding Symmetric/Skew check in Vector Algebra: Choose the correct option.",
+    "question": "Area of triangle with sides a and b is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "|a x b|",
+      "1/2 |a x b|",
+      "a.b",
+      "1"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 regarding Definite integral bounds in Vector Algebra: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Half parallelogram area.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 regarding Odd/Even function integral in Vector Algebra: Choose the correct option.",
+    "question": "Position vector of (1 2 3) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "i+2j+3k",
+      "i-2j+3k",
+      "6",
+      "0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 regarding Graph intersection in Vector Algebra: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Origin to point.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 regarding Parametric derivative in Vector Algebra: Choose the correct option.",
+    "question": "Vector joining (1 2) to (4 6) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "3i+4j",
+      "5i+8j",
+      "i+j",
+      "0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
+    "correct_index": 0,
+    "solution": "Terminal minus initial.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If |a|=3 |b|=4 a.b=6 angle is:",
+    "options": [
+      "30",
+      "60",
+      "90",
+      "45"
+    ],
+    "correct_index": 1,
+    "solution": "cos\u03b8 = 0.5.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "a . b = b . a is:",
+    "options": [
+      "True",
+      "False",
+      "Only if a=b",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Commutativity of dot product.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "a x b = b x a is:",
+    "options": [
+      "True",
+      "False",
+      "Only if a=b",
+      "None"
+    ],
+    "correct_index": 1,
+    "solution": "Anti-commutative cross product.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "k(a x b) is:",
+    "options": [
+      "(ka) x b",
+      "a x (kb)",
+      "Both A and B",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "Linear property.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Section formula for internal division:",
+    "options": [
+      " (mb+na)/(m+n)",
+      "(mb-na)/(m-n)",
+      "a+b",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Standard vector ratio.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "|a x b|\u00b2 + (a.b)\u00b2 is:",
+    "options": [
+      "|a|\u00b2|b|\u00b2",
+      "0",
+      "1",
+      "2"
+    ],
+    "correct_index": 0,
+    "solution": "Lagrange identity.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A vector with magnitude 0 is:",
+    "options": [
+      "Unit vector",
+      "Zero vector",
+      "Free vector",
+      "None"
+    ],
+    "correct_index": 1,
+    "solution": "Definition.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Direction ratios of 2i - j + 2k are:",
+    "options": [
+      "2 -1 2",
+      "1 1 1",
+      "4 1 4",
+      "0"
+    ],
+    "correct_index": 0,
+    "solution": "Component scalars.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Unit vector perpendicular to a and b:",
+    "options": [
+      " (a x b)/|a x b|",
+      "a.b",
+      "a+b",
+      "0"
+    ],
+    "correct_index": 0,
+    "solution": "Cross product normalized.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If a b c are unit vectors such that a+b+c=0 then a.b+b.c+c.a is:",
+    "options": [
+      "3/2",
+      "-3/2",
+      "0",
+      "1"
+    ],
+    "correct_index": 1,
+    "solution": "Expand (a+b+c)\u00b2.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Work done by force F for displacement d:",
+    "options": [
+      "F.d",
+      "F x d",
+      "F+d",
+      "F/d"
+    ],
+    "correct_index": 0,
+    "solution": "Dot product application.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Moment of force F about point:",
+    "options": [
+      "r x F",
+      "r.F",
+      "r+F",
+      "F"
+    ],
+    "correct_index": 0,
+    "solution": "Cross product application.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Vectors a and -a are:",
+    "options": [
+      "Parallel",
+      "Perpendicular",
+      "Equal",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Same line direction.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If angle between a and b is \u03c0/4 then |a x b| is:",
+    "options": [
+      "a.b",
+      "0",
+      "1",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "sin(45)=cos(45).",
+    "difficulty": "Medium"
   }
 ]

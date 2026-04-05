@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 on Basic Definition for Solutions: Which of the following is correct?",
+    "question": "Which of the following is a colligative property?",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Osmotic pressure",
+      "Boiling point",
+      "Vapour pressure",
+      "Freezing point"
     ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Colligative properties depend only on the number of solute particles.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 on Nomenclature for Solutions: Which of the following is correct?",
+    "question": "The unit of molality is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "mol/kg",
+      "mol/L",
+      "mol/g",
+      "unitless"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 on Preparation Method 1 for Solutions: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Molality is moles of solute per kilogram of solvent.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 on Preparation Method 2 for Solutions: Which of the following is correct?",
+    "question": "Relative lowering of vapour pressure is equal to:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Mole fraction of solute",
+      "Mole fraction of solvent",
+      "Molality",
+      "Molarity"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 on Physical Property: Boiling Point for Solutions: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "According to Raoult's Law for non-volatile solutes.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 on Physical Property: Solubility for Solutions: Which of the following is correct?",
+    "question": "An ideal solution obeys:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Raoult's Law",
+      "Henry's Law",
+      "Dalton's Law",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 on Chemical Property: Oxidation for Solutions: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Ideal solutions have \u0394H_mix and \u0394V_mix equal to zero.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 on Chemical Property: Reduction for Solutions: Which of the following is correct?",
+    "question": "The value of van't Hoff factor (i) for NaCl is approx:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "2",
+      "1",
+      "3",
+      "0.5"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 on Reaction with Acids for Solutions: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "NaCl dissociates into two ions: Na+ and Cl-.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 on Reaction with Bases for Solutions: Which of the following is correct?",
+    "question": "Which gas is more soluble in water at higher pressure?",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "CO2",
+      "N2",
+      "H2",
+      "He"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 on Special Name Reaction 1 for Solutions: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Henry's Law states solubility increases with pressure.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 on Special Name Reaction 2 for Solutions: Which of the following is correct?",
+    "question": "The boiling point of a solution ________ as solute is added.",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "Becomes zero"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 on Uses and Applications for Solutions: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Elevation of boiling point is a colligative property.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 on Environmental Impact for Solutions: Which of the following is correct?",
+    "question": "Azeotropic mixtures are:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Constant boiling mixtures",
+      "Variable boiling",
+      "Ideal solutions",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 on Analytical Test for Solutions: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "They distill without change in composition.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 on Mechanism Step 1 for Solutions: Which of the following is correct?",
+    "question": "Osmotic pressure (\u03c0) is given by:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "\u03c0 = CRT",
+      "\u03c0 = CT/R",
+      "\u03c0 = CR/T",
+      "\u03c0 = RT/C"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 on Mechanism Step 2 for Solutions: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Analogous to the ideal gas law.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 on Catalyst used for Solutions: Which of the following is correct?",
+    "question": "Sea water is converted into fresh water by:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Reverse osmosis",
+      "Osmosis",
+      "Diffusion",
+      "Plasmolysis"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 on Temperature conditions for Solutions: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Applying pressure greater than osmotic pressure.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 on Pressure conditions for Solutions: Which of the following is correct?",
+    "question": "If 2g of NaOH is dissolved in 250ml solution molarity is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "0.2 M",
+      "0.1 M",
+      "0.5 M",
+      "1.0 M"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 on Byproducts formed for Solutions: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Moles = 2/40 = 0.05. M = 0.05/0.25 = 0.2.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 on Thermodynamics of reaction for Solutions: Which of the following is correct?",
+    "question": "At high altitudes the partial pressure of oxygen is low leading to:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Anoxia",
+      "Bends",
+      "Toxicity",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 on Kinetics of reaction for Solutions: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Lower oxygen concentration in blood and tissues.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 on Isomerism for Solutions: Which of the following is correct?",
+    "question": "Camphor in Nitrogen gas is an example of:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Solid in gas",
+      "Gas in gas",
+      "Liquid in gas",
+      "Solid in solid"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 on Stereochemistry for Solutions: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Camphor sublimes into the carrier gas.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 on Electronic effect for Solutions: Which of the following is correct?",
+    "question": "Maximum boiling azeotropes show:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Large negative deviation",
+      "Large positive deviation",
+      "No deviation",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 on Steric effect for Solutions: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Vapour pressure is lower than expected.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 on Industrial preparation for Solutions: Which of the following is correct?",
+    "question": "Solubility of gases in liquids ________ with temperature.",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Decreases",
+      "Increases",
+      "Remains same",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 on Laboratory preparation for Solutions: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Exothermic process of dissolution.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 on Exceptional case for Solutions: Which of the following is correct?",
+    "question": "Isotonic solutions have the same:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Osmotic pressure",
+      "Density",
+      "Molarity",
+      "Molality"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
+    "correct_index": 0,
+    "solution": "Equimolar concentrations at the same temperature.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Unit of cryoscopic constant (Kf) is:",
+    "options": [
+      "K kg/mol",
+      "K/mol",
+      "mol/kg",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Derived from \u0394Tf = Kf * m.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Mixture of Ethanol and Acetone shows:",
+    "options": [
+      "Positive deviation",
+      "Negative deviation",
+      "Ideal behavior",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Weaker intermolecular forces in mixture.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Blood cells burst when placed in:",
+    "options": [
+      "Hypotonic solution",
+      "Hypertonic solution",
+      "Isotonic solution",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Water enters the cell due to osmosis.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Molality of pure water is:",
+    "options": [
+      "55.5 m",
+      "18 m",
+      "1 m",
+      "100 m"
+    ],
+    "correct_index": 0,
+    "solution": "1000g / 18g/mol = 55.5.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Van't Hoff factor for ethanoic acid in benzene is approx:",
+    "options": [
+      "0.5",
+      "2",
+      "1",
+      "0"
+    ],
+    "correct_index": 0,
+    "solution": "Due to dimerization via hydrogen bonding.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Numerical value of Kf depends on:",
+    "options": [
+      "Nature of solvent",
+      "Nature of solute",
+      "Temperature",
+      "Pressure"
+    ],
+    "correct_index": 0,
+    "solution": "It is a characteristic constant for the solvent.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Vapour pressure of a liquid ________ with temperature.",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "More molecules gain enough KE to escape.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Example of a solid-solid solution is:",
+    "options": [
+      "Alloy",
+      "Salt in water",
+      "Air",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Homogeneous mixture of metals.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which property is used to determine molar mass of polymers?",
+    "options": [
+      "Osmotic pressure",
+      "Elevation of BP",
+      "Depression of FP",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Easier to measure large changes at room temp.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "0.1 M glucose and 0.1 M NaCl: NaCl has higher \u0394Tb?",
+    "options": [
+      "Yes",
+      "No",
+      "Same",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "NaCl produces more particles (i=2).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Henry's Law constant (KH) increases with:",
+    "options": [
+      "Temperature",
+      "Pressure",
+      "Volume",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Solubility decreases as KH increases.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Vant hoff factor i =:",
+    "options": [
+      "Observed / Calculated",
+      "Calculated / Observed",
+      "Observed + Calculated",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Ratio of experimental to theoretical values.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Antifreeze used in car radiators is:",
+    "options": [
+      "Ethylene glycol",
+      "Methanol",
+      "Ethanol",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Lowers the freezing point of water.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ideal solutions have \u0394V_mix as:",
+    "options": [
+      "0",
+      "Positive",
+      "Negative",
+      "Infinite"
+    ],
+    "correct_index": 0,
+    "solution": "No volume change on mixing.",
+    "difficulty": "Medium"
   }
 ]

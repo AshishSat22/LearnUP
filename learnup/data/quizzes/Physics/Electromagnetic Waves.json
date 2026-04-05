@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 regarding SI Units in Electromagnetic Waves: Choose the correct option.",
+    "question": "EM waves are produced by:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Accelerating charge",
+      "Stationary charge",
+      "Uniformly moving charge",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Standard source of radiation.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 regarding Dimensional Formula in Electromagnetic Waves: Choose the correct option.",
+    "question": "Velocity of EM waves in vacuum:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1/\u221a(\u03bc\u2080\u03b5\u2080)",
+      "\u221a(\u03bc\u2080\u03b5\u2080)",
+      "\u03bc\u2080\u03b5\u2080",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 regarding Constant Value in Electromagnetic Waves: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "c \u2248 3 x 10\u2078 m/s.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 regarding Derivation Step in Electromagnetic Waves: Choose the correct option.",
+    "question": "Ratio of E\u2080 to B\u2080 in EM wave is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "c",
+      "1/c",
+      "c\u00b2",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 regarding Scalar vs Vector in Electromagnetic Waves: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "E = cB.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 regarding Proportionality in Electromagnetic Waves: Choose the correct option.",
+    "question": "Which has highest frequency?",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Gamma rays",
+      "X-rays",
+      "UV",
+      "Radio"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 regarding Inverse Proportionality in Electromagnetic Waves: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Shortest wavelength.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 regarding Graph Shape in Electromagnetic Waves: Choose the correct option.",
+    "question": "Which has longest wavelength?",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Radio waves",
+      "Microwaves",
+      "Infrared",
+      "Visible"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 regarding Law or Principle in Electromagnetic Waves: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Lowest frequency.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 regarding Formula Identification in Electromagnetic Waves: Choose the correct option.",
+    "question": "EM waves are:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Transverse",
+      "Longitudinal",
+      "Stationary",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 regarding Practical Application in Electromagnetic Waves: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Oscillations are perpendicular to propagation.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 regarding Exception or Limitation in Electromagnetic Waves: Choose the correct option.",
+    "question": "Greenhouse effect is due to:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Infrared",
+      "UV",
+      "X-rays",
+      "Microwaves"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 regarding Numerical (Easy) in Electromagnetic Waves: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Heat trapping radiation.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 regarding Numerical (Medium) in Electromagnetic Waves: Choose the correct option.",
+    "question": "Ozone layer absorbs:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "UV",
+      "Infrared",
+      "Radio",
+      "Visible"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 regarding Numerical (Hard) in Electromagnetic Waves: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Protects Earth from high energy rays.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 regarding True/False in Electromagnetic Waves: Choose the correct option.",
+    "question": "Wavelength range of visible light:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "400-700 nm",
+      "1-100 nm",
+      "1-10 m",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 regarding Assertion Reason 1 in Electromagnetic Waves: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "VIBGYOR spectrum.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 regarding Assertion Reason 2 in Electromagnetic Waves: Choose the correct option.",
+    "question": "EM waves carry:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Energy",
+      "Momentum",
+      "Information",
+      "All"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 regarding Right Hand Rule / Convention in Electromagnetic Waves: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 3,
+    "solution": "Fundamental properties of radiation.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 regarding Electromagnetic Effect in Electromagnetic Waves: Choose the correct option.",
+    "question": "Microwaves are used in:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Radar",
+      "Ovens",
+      "Satellite",
+      "All"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 regarding Energy Conservation in Electromagnetic Waves: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 3,
+    "solution": "Common applications.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 regarding Momentum Conservation in Electromagnetic Waves: Choose the correct option.",
+    "question": "X-rays were discovered by:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Roentgen",
+      "Hertz",
+      "Maxwell",
+      "Newton"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 regarding Limit Case in Electromagnetic Waves: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Nobel prize discovery.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 regarding Boundary Condition in Electromagnetic Waves: Choose the correct option.",
+    "question": "Speed of EM wave in medium (v):",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "c/n",
+      "c*n",
+      "c",
+      "n/c"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 regarding Material Property in Electromagnetic Waves: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "n is refractive index.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 regarding Temperature Dependence in Electromagnetic Waves: Choose the correct option.",
+    "question": "Displacement current arises due to:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Changing E field",
+      "Changing B field",
+      "DC current",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 regarding Frequency Dependence in Electromagnetic Waves: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Maxwell's addition to Ampere's law.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 regarding Phase Difference in Electromagnetic Waves: Choose the correct option.",
+    "question": "Which radiation is used in eye surgery?",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "UV (LASIK)",
+      "Infrared",
+      "Microwaves",
+      "X-rays"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 regarding Interference / Superposition in Electromagnetic Waves: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Excimer lasers.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 regarding Historical Discovery in Electromagnetic Waves: Choose the correct option.",
+    "question": "EM waves can be polarized?",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Yes",
+      "No",
+      "Only in water",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
+    "correct_index": 0,
+    "solution": "Because they are transverse.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Relation between c, f, \u03bb:",
+    "options": [
+      "c = f\u03bb",
+      "f = c\u03bb",
+      "\u03bb = cf",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Universal wave equation.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Heating property is max for:",
+    "options": [
+      "Infrared",
+      "Visible",
+      "UV",
+      "Radio"
+    ],
+    "correct_index": 0,
+    "solution": "Often called heat waves.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Remote controls use:",
+    "options": [
+      "Infrared",
+      "UV",
+      "Radio",
+      "X-rays"
+    ],
+    "correct_index": 0,
+    "solution": "Low energy signal.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Maxwell\u2019s equations summarize:",
+    "options": [
+      "Electricity & Magnetism",
+      "Mechanics",
+      "Thermodynamics",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Unified field theory.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Electric field (E) and Magnetic field (B) are:",
+    "options": [
+      "In phase",
+      "90\u00b0 out of phase",
+      "180\u00b0 out of phase",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Peak together in space and time.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Direction of propagation is given by:",
+    "options": [
+      "E x B",
+      "B x E",
+      "E.B",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Poynting vector direction.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "EM waves do not require a medium?",
+    "options": [
+      "True",
+      "False",
+      "Only Radio",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Can travel in vacuum.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Radiation pressure is:",
+    "options": [
+      "Force per unit area",
+      "Energy",
+      "Wavelength",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Due to momentum transfer.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Fingerprints are detected using:",
+    "options": [
+      "UV",
+      "Infrared",
+      "X-rays",
+      "Radio"
+    ],
+    "correct_index": 0,
+    "solution": "Causes fluorescence.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Frequency of EM wave in medium:",
+    "options": [
+      "Remains same",
+      "Changes",
+      "Zero",
+      "Infinite"
+    ],
+    "correct_index": 0,
+    "solution": "Independent of medium.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Visible light is a small part of:",
+    "options": [
+      "EM Spectrum",
+      "White light",
+      "Sound",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Continuum of frequencies.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which rays are used in cancer treatment?",
+    "options": [
+      "Gamma",
+      "Radio",
+      "Visible",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Radiotherapy.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Speed of light in water (n=1.33):",
+    "options": [
+      "2.25 x 10\u2078 m/s",
+      "3 x 10\u2078 m/s",
+      "1.5 x 10\u2078 m/s",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "v = c / 1.33.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Total number of Maxwell\u2019s equations:",
+    "options": [
+      "4",
+      "2",
+      "1",
+      "10"
+    ],
+    "correct_index": 0,
+    "solution": "Gauss(E), Gauss(B), Faraday, Ampere-Maxwell.",
+    "difficulty": "Medium"
   }
 ]

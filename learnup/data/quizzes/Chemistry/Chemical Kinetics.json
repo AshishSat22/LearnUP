@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 on Basic Definition for Chemical Kinetics: Which of the following is correct?",
+    "question": "The rate of reaction ________ with time.",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Decreases",
+      "Increases",
+      "Remains same",
+      "None"
     ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Concentration of reactants falls.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 on Nomenclature for Chemical Kinetics: Which of the following is correct?",
+    "question": "Unit of rate constant for zero order reaction is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "mol L\u207b\u00b9 s\u207b\u00b9",
+      "s\u207b\u00b9",
+      "L mol\u207b\u00b9 s\u207b\u00b9",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 on Preparation Method 1 for Chemical Kinetics: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Rate = k.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 on Preparation Method 2 for Chemical Kinetics: Which of the following is correct?",
+    "question": "Unit of rate constant for first order reaction is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "s\u207b\u00b9",
+      "mol L\u207b\u00b9 s\u207b\u00b9",
+      "L mol\u207b\u00b9 s\u207b\u00b9",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 on Physical Property: Boiling Point for Chemical Kinetics: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Rate = k[A].",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 on Physical Property: Solubility for Chemical Kinetics: Which of the following is correct?",
+    "question": "Half-life of first order reaction is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "0.693/k",
+      "k/0.693",
+      "a/2k",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 on Chemical Property: Oxidation for Chemical Kinetics: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Independent of initial concentration.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 on Chemical Property: Reduction for Chemical Kinetics: Which of the following is correct?",
+    "question": "Activation energy can be calculated using:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Arrhenius equation",
+      "Ohm's law",
+      "Nernst equation",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 on Reaction with Acids for Chemical Kinetics: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "log k vs 1/T plot.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 on Reaction with Bases for Chemical Kinetics: Which of the following is correct?",
+    "question": "A catalyst increases rate by:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Lowering activation energy",
+      "Increasing collisions",
+      "Raising temp",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 on Special Name Reaction 1 for Chemical Kinetics: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Provides an alternative pathway.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 on Special Name Reaction 2 for Chemical Kinetics: Which of the following is correct?",
+    "question": "Molecularity of a complex reaction is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Meaningless",
+      "Sum of coefficients",
+      "Always 1",
+      "Zero"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 on Uses and Applications for Chemical Kinetics: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Molecularity is only for elementary steps.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 on Environmental Impact for Chemical Kinetics: Which of the following is correct?",
+    "question": "Order of reaction can be:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Fractional",
+      "Zero",
+      "Integer",
+      "All"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 on Analytical Test for Chemical Kinetics: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 3,
+    "solution": "Determined experimentally.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 on Mechanism Step 1 for Chemical Kinetics: Which of the following is correct?",
+    "question": "Half-life of zero order reaction is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "a/2k",
+      "0.693/k",
+      "1/ak",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 on Mechanism Step 2 for Chemical Kinetics: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Directly proportional to initial concentration.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 on Catalyst used for Chemical Kinetics: Which of the following is correct?",
+    "question": "Threshold energy is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Activation + Reactant Energy",
+      "Activation - Reactant",
+      "Kinetic energy",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 on Temperature conditions for Chemical Kinetics: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Minimum energy for effective collision.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 on Pressure conditions for Chemical Kinetics: Which of the following is correct?",
+    "question": "Rate law is determined by:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Experimental data",
+      "Balanced equation",
+      "Pressure",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 on Byproducts formed for Chemical Kinetics: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Theoretical coefficients don't always match.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 on Thermodynamics of reaction for Chemical Kinetics: Which of the following is correct?",
+    "question": "Pseudo first order reaction example:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Hydrolysis of ester",
+      "NaCl in water",
+      "Combustion",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 on Kinetics of reaction for Chemical Kinetics: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Water is in large excess.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 on Isomerism for Chemical Kinetics: Which of the following is correct?",
+    "question": "Effect of temperature on rate is usually:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Doubles per 10\u00b0 rise",
+      "Half per 10\u00b0 rise",
+      "No change",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 on Stereochemistry for Chemical Kinetics: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Temperature coefficient is approx 2.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 on Electronic effect for Chemical Kinetics: Which of the following is correct?",
+    "question": "Arrhenius equation is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "k = A e^(-Ea/RT)",
+      "k = Ae^(Ea/RT)",
+      "k = log A",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 on Steric effect for Chemical Kinetics: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Relates k to T and Ea.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 on Industrial preparation for Chemical Kinetics: Which of the following is correct?",
+    "question": "For reaction A + B -> Products",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      " if rate = k[A][B]\u00b2 order is:",
+      "3",
+      "2",
+      "1"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 on Laboratory preparation for Chemical Kinetics: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "A",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 on Exceptional case for Chemical Kinetics: Which of the following is correct?",
+    "question": "Fastest step in mechanism is rate determining:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "False",
+      "True",
+      "Maybe",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
+    "correct_index": 0,
+    "solution": "Slowest step determines the overall rate.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Photochemical reactions are generally order:",
+    "options": [
+      "Zero",
+      "First",
+      "Second",
+      "Third"
+    ],
+    "correct_index": 0,
+    "solution": "Rate depends on light intensity",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Unit of rate is:",
+    "options": [
+      "mol L\u207b\u00b9 s\u207b\u00b9",
+      "mol L s",
+      "s\u207b\u00b9",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Change in concentration per unit time.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Integrated rate law for 1st order:",
+    "options": [
+      "kt = 2.303 log(a/a-x)",
+      "kt = a-x",
+      "k = t/a",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Standard logarithmic form.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Collision theory assumes molecules are:",
+    "options": [
+      "Hard spheres",
+      "Soft clouds",
+      "Points",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Effective collisions require orientation and energy.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Energy barrier in reaction is called:",
+    "options": [
+      "Potential barrier",
+      "Kinetic barrier",
+      "Activation barrier",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "Must be crossed to form products.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Rate of gaseous reaction depends on:",
+    "options": [
+      "Partial pressure",
+      "Weight",
+      "Volume",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Pressure is analogous to concentration.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Radioactive decay follows:",
+    "options": [
+      "First order",
+      "Zero order",
+      "Second order",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Constant half-life characteristic.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Decomposition of NH3 on Pt surface is order:",
+    "options": [
+      "Zero",
+      "First",
+      "Second",
+      "Third"
+    ],
+    "correct_index": 0,
+    "solution": "Surface becomes saturated at high pressure.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Orientation factor is part of:",
+    "options": [
+      "Collision theory",
+      "Arrhenius law",
+      "Nernst law",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Represented by 'p' in rate equations.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Units of k for 2nd order:",
+    "options": [
+      "L mol\u207b\u00b9 s\u207b\u00b9",
+      "s\u207b\u00b9",
+      "mol/L",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Derived from Rate = k[A]\u00b2.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Effective collisions lead to:",
+    "options": [
+      "Product formation",
+      "No change",
+      "Heat loss",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Cross the energy threshold.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "t 75% for 1st order is:",
+    "options": [
+      "2 * t 1/2",
+      "1.5 * t 1/2",
+      "3 * t 1/2",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Requires two half-lives.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Catalyst does not change:",
+    "options": [
+      "\u0394H of reaction",
+      "Rate",
+      "Ea",
+      "Mechanism"
+    ],
+    "correct_index": 0,
+    "solution": "Enthalpy change is independent of path.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Increase in surface area ________ rate of heterogeneous reaction.",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "More active sites available.",
+    "difficulty": "Medium"
   }
 ]

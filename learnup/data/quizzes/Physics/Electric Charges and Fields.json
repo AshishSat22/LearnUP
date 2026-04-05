@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 regarding SI Units in Electric Charges and Fields: Choose the correct option.",
+    "question": "The SI unit of electric permittivity (\u03b5\u2080) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "C\u00b2 N\u207b\u00b9 m\u207b\u00b2",
+      "N m\u00b2 C\u207b\u00b2",
+      "C N m",
+      "C\u00b2 N m\u00b2"
     ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "From Coulomb's law: \u03b5\u2080 = q\u2081q\u2082/(4\u03c0Fr\u00b2).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 regarding Dimensional Formula in Electric Charges and Fields: Choose the correct option.",
+    "question": "When a glass rod is rubbed with silk, it acquires:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Positive charge",
+      "Negative charge",
+      "No charge",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 regarding Constant Value in Electric Charges and Fields: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Electrons move from glass to silk.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 regarding Derivation Step in Electric Charges and Fields: Choose the correct option.",
+    "question": "The electric field inside a perfectly conducting hollow sphere is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Zero",
+      "Constant",
+      "Infinite",
+      "Variable"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 regarding Scalar vs Vector in Electric Charges and Fields: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Charges reside only on the outer surface.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 regarding Proportionality in Electric Charges and Fields: Choose the correct option.",
+    "question": "The torque acting on a dipole in a uniform electric field is maximum when \u03b8 is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "0\u00b0",
+      "90\u00b0",
+      "180\u00b0",
+      "45\u00b0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 regarding Inverse Proportionality in Electric Charges and Fields: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "\u03c4 = pE sin\u03b8. Maximum at 90\u00b0.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 regarding Graph Shape in Electric Charges and Fields: Choose the correct option.",
+    "question": "Gauss's law is valid for:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Any closed surface",
+      "Only spheres",
+      "Only cubes",
+      "Open surfaces"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 regarding Law or Principle in Electric Charges and Fields: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "It applies to any closed Gaussian surface.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 regarding Formula Identification in Electric Charges and Fields: Choose the correct option.",
+    "question": "The electric flux through a surface depends on:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Charge enclosed",
+      "Shape of surface",
+      "Size of surface",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 regarding Practical Application in Electric Charges and Fields: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "\u03a6 = q/\u03b5\u2080 (Independent of shape/size).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 regarding Exception or Limitation in Electric Charges and Fields: Choose the correct option.",
+    "question": "The force between two charges is 2N. If distance is doubled, force becomes:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1N",
+      "0.5N",
+      "4N",
+      "8N"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 regarding Numerical (Easy) in Electric Charges and Fields: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "F \u221d 1/r\u00b2. Doubling distance makes it 1/4th.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 regarding Numerical (Medium) in Electric Charges and Fields: Choose the correct option.",
+    "question": "A dipole consists of two charges +q and -q separated by distance 2l. Dipole moment is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "q \u00d7 l",
+      "q \u00d7 2l",
+      "2q \u00d7 l",
+      "0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 regarding Numerical (Hard) in Electric Charges and Fields: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "p = q \u00d7 distance between them.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 regarding True/False in Electric Charges and Fields: Choose the correct option.",
+    "question": "SI unit of electric field intensity is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "N/C",
+      "V/m",
+      "Both A and B",
+      "J/C"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 regarding Assertion Reason 1 in Electric Charges and Fields: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Field is Force/Charge (N/C) or potential gradient (V/m).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 regarding Assertion Reason 2 in Electric Charges and Fields: Choose the correct option.",
+    "question": "An electron is moving towards a proton. The electrostatic force is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Attractive",
+      "Repulsive",
+      "Zero",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 regarding Right Hand Rule / Convention in Electric Charges and Fields: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Opposite charges attract.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 regarding Electromagnetic Effect in Electric Charges and Fields: Choose the correct option.",
+    "question": "Which of the following is not a property of field lines?",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "They form closed loops",
+      "They start at + and end at -",
+      "They never intersect",
+      "They are continuous"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 regarding Energy Conservation in Electric Charges and Fields: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Magnetic lines form loops; electric lines do not.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 regarding Momentum Conservation in Electric Charges and Fields: Choose the correct option.",
+    "question": "The dielectric constant of a metal is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "0",
+      "1",
+      "Infinite",
+      "10"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 regarding Limit Case in Electric Charges and Fields: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Metals are perfect conductors.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 regarding Boundary Condition in Electric Charges and Fields: Choose the correct option.",
+    "question": "Quantization of charge implies:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Charge is integral multiple of e",
+      "Charge is zero",
+      "Charge is fraction of e",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 regarding Material Property in Electric Charges and Fields: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "q = ne.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 regarding Temperature Dependence in Electric Charges and Fields: Choose the correct option.",
+    "question": "Electric field at a point on the axis of a dipole varies as:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1/r",
+      "1/r\u00b2",
+      "1/r\u00b3",
+      "1/r\u2074"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 regarding Frequency Dependence in Electric Charges and Fields: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Field of a short dipole is \u221d 1/r\u00b3.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 regarding Phase Difference in Electric Charges and Fields: Choose the correct option.",
+    "question": "The work done in moving a charge on an equipotential surface is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Positive",
+      "Negative",
+      "Zero",
+      "Infinite"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 regarding Interference / Superposition in Electric Charges and Fields: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "V is constant, so \u0394V=0, W=q\u0394V=0.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 regarding Historical Discovery in Electric Charges and Fields: Choose the correct option.",
+    "question": "If a body is negatively charged, its mass:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
+    "correct_index": 0,
+    "solution": "It gains electrons, which have mass.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Surface charge density is defined as:",
+    "options": [
+      "Charge/Length",
+      "Charge/Area",
+      "Charge/Volume",
+      "None"
+    ],
+    "correct_index": 1,
+    "solution": "\u03c3 = q/A.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Electric field at the center of an electric dipole is:",
+    "options": [
+      "Zero",
+      "Non-zero",
+      "Infinite",
+      "None"
+    ],
+    "correct_index": 1,
+    "solution": "Fields of both charges add up in the same direction.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Flux entering a closed surface is taken as:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "None"
+    ],
+    "correct_index": 1,
+    "solution": "Entering is negative; leaving is positive.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A soap bubble is given a negative charge. Its radius:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Mutual repulsion of like charges expands the bubble.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The value of 1/(4\u03c0\u03b5\u2080) in SI units is:",
+    "options": [
+      "9 x 10\u2079",
+      "9 x 10\u207b\u2079",
+      "1",
+      "8.85 x 10\u207b\u00b9\u00b2"
+    ],
+    "correct_index": 0,
+    "solution": "Standard constant value.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Linear charge density (\u03bb) unit is:",
+    "options": [
+      "C/m",
+      "C/m\u00b2",
+      "C/m\u00b3",
+      "C"
+    ],
+    "correct_index": 0,
+    "solution": "Charge per unit length.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The angle between p and E for stable equilibrium is:",
+    "options": [
+      "0\u00b0",
+      "90\u00b0",
+      "180\u00b0",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Potential energy U = -pE cos\u03b8 is minimum at 0\u00b0.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Total flux from a cube containing charge q at center is:",
+    "options": [
+      "q/\u03b5\u2080",
+      "q/6\u03b5\u2080",
+      "6q/\u03b5\u2080",
+      "Zero"
+    ],
+    "correct_index": 0,
+    "solution": "Total flux is q/\u03b5\u2080 by Gauss's Law.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Flux through one face of the cube (charge at center) is:",
+    "options": [
+      "q/\u03b5\u2080",
+      "q/6\u03b5\u2080",
+      "q/4\u03b5\u2080",
+      "Zero"
+    ],
+    "correct_index": 1,
+    "solution": "Total flux divided by 6 faces.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which orientation of dipole has maximum potential energy?",
+    "options": [
+      "0\u00b0",
+      "90\u00b0",
+      "180\u00b0",
+      "45\u00b0"
+    ],
+    "correct_index": 2,
+    "solution": "U = -pE cos(180) = +pE.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Direction of electric dipole moment is:",
+    "options": [
+      "- to +",
+      "+ to -",
+      "Radial",
+      "Circular"
+    ],
+    "correct_index": 0,
+    "solution": "By convention, from negative to positive charge.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Dimensional formula of electric field is:",
+    "options": [
+      "[MLT\u207b\u00b3A\u207b\u00b9]",
+      "[MLT\u207b\u00b2A\u207b\u00b9]",
+      "[ML\u00b2T\u207b\u00b3A]",
+      "[MLT\u207b\u00b9]"
+    ],
+    "correct_index": 0,
+    "solution": "E = F/q = [MLT\u207b\u00b2]/[AT].",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Electric field due to an infinite line charge varies as:",
+    "options": [
+      "1/r",
+      "1/r\u00b2",
+      "1/r\u00b3",
+      "r"
+    ],
+    "correct_index": 0,
+    "solution": "E = \u03bb / (2\u03c0\u03b5\u2080r).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Capacitance depends on:",
+    "options": [
+      "Charge",
+      "Potential",
+      "Geometry",
+      "All"
+    ],
+    "correct_index": 2,
+    "solution": "C = Q/V but C is constant for a given geometry.",
+    "difficulty": "Medium"
   }
 ]

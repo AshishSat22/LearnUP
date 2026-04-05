@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 regarding SI Units in Electromagnetic Induction: Choose the correct option.",
+    "question": "Lenz's law is a consequence of conservation of:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Energy",
+      "Charge",
+      "Mass",
+      "Momentum"
     ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Induced current opposes the change.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 regarding Dimensional Formula in Electromagnetic Induction: Choose the correct option.",
+    "question": "SI unit of self-inductance (L) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Henry",
+      "Tesla",
+      "Weber",
+      "Farad"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 regarding Constant Value in Electromagnetic Induction: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "1 Henry = 1 Wb/A.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 regarding Derivation Step in Electromagnetic Induction: Choose the correct option.",
+    "question": "Induced EMF (e) is given by:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "-d\u03a6/dt",
+      "d\u03a6/dt",
+      "\u03a6/t",
+      "BvL"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 regarding Scalar vs Vector in Electromagnetic Induction: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Faraday's Law.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 regarding Proportionality in Electromagnetic Induction: Choose the correct option.",
+    "question": "Eddy currents are produced when:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "B field changes",
+      "Current is DC",
+      "Circuit is open",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 regarding Inverse Proportionality in Electromagnetic Induction: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Circulating currents in bulk conductors.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 regarding Graph Shape in Electromagnetic Induction: Choose the correct option.",
+    "question": "Formula for motional EMF is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "BvL",
+      "Bv/L",
+      "BL/v",
+      "Zero"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 regarding Law or Principle in Electromagnetic Induction: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Conductor moving in B field.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 regarding Formula Identification in Electromagnetic Induction: Choose the correct option.",
+    "question": "Energy stored in an inductor is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1/2 LI\u00b2",
+      "1/2 CV\u00b2",
+      "LI",
+      "I\u00b2Rt"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 regarding Practical Application in Electromagnetic Induction: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Magnetic potential energy.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 regarding Exception or Limitation in Electromagnetic Induction: Choose the correct option.",
+    "question": "Mutual inductance depends on:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Geometry",
+      "Distance",
+      "Relative orientation",
+      "All"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 regarding Numerical (Easy) in Electromagnetic Induction: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 3,
+    "solution": "Coupling factors.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 regarding Numerical (Medium) in Electromagnetic Induction: Choose the correct option.",
+    "question": "If N is doubled, self-inductance becomes:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "4 times",
+      "2 times",
+      "Same",
+      "Half"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 regarding Numerical (Hard) in Electromagnetic Induction: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "L \u221d N\u00b2.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 regarding True/False in Electromagnetic Induction: Choose the correct option.",
+    "question": "Coefficient of coupling (k) range:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "0 to 1",
+      "-1 to 1",
+      "0 to \u221e",
+      "1 to 10"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 regarding Assertion Reason 1 in Electromagnetic Induction: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "k = M / \u221a(L1L2).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 regarding Assertion Reason 2 in Electromagnetic Induction: Choose the correct option.",
+    "question": "An inductor opposes change in:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Current",
+      "Voltage",
+      "Resistance",
+      "Magnetic flux"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 regarding Right Hand Rule / Convention in Electromagnetic Induction: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Inertia of electricity.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 regarding Electromagnetic Effect in Electromagnetic Induction: Choose the correct option.",
+    "question": "Transformer works on the principle of:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Mutual Induction",
+      "Self Induction",
+      "Eddy current",
+      "Heating"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 regarding Energy Conservation in Electromagnetic Induction: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Transfer of energy between coils.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 regarding Momentum Conservation in Electromagnetic Induction: Choose the correct option.",
+    "question": "AC generator works on:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "EMI",
+      "Magnetic effect",
+      "Heating",
+      "Chemical"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 regarding Limit Case in Electromagnetic Induction: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Mechanical to Electrical via \u03a6 change.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 regarding Boundary Condition in Electromagnetic Induction: Choose the correct option.",
+    "question": "Direction of induced current is found by:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Lenz's Law",
+      "Fleming's Right Hand Rule",
+      "Both A and B",
+      "Left Hand Rule"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 regarding Material Property in Electromagnetic Induction: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Both determine direction.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 regarding Temperature Dependence in Electromagnetic Induction: Choose the correct option.",
+    "question": "A coil is removed from B field. Induced EMF is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Non-zero",
+      "Zero",
+      "Infinite",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 regarding Frequency Dependence in Electromagnetic Induction: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Change in flux occurs.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 regarding Phase Difference in Electromagnetic Induction: Choose the correct option.",
+    "question": "Dimensional formula of L:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "[ML\u00b2T\u207b\u00b2A\u207b\u00b2]",
+      "[MLT\u207b\u00b2]",
+      "[ML\u00b2T\u207b\u00b2]",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 regarding Interference / Superposition in Electromagnetic Induction: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "From E = 1/2 LI\u00b2.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 regarding Historical Discovery in Electromagnetic Induction: Choose the correct option.",
+    "question": "Inductance is also called:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Electrical inertia",
+      "Electrical resistance",
+      "Capacitance",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
+    "correct_index": 0,
+    "solution": "Opposes change in current.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If dI/dt = 1 A/s and e = 1V, then L is:",
+    "options": [
+      "1 Henry",
+      "10 Henry",
+      "0.1 Henry",
+      "Zero"
+    ],
+    "correct_index": 0,
+    "solution": "L = e / (dI/dt).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Unit of d\u03a6/dt is:",
+    "options": [
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Tesla"
+    ],
+    "correct_index": 0,
+    "solution": "Rate of change of flux is EMF.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Working of spark plug is based on:",
+    "options": [
+      "Self Induction",
+      "Mutual Induction",
+      "Eddy current",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "High voltage produced in secondary.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Magnetic flux \u03a6 is:",
+    "options": [
+      "B.A",
+      "B/A",
+      "A/B",
+      "Zero"
+    ],
+    "correct_index": 0,
+    "solution": "Scalar product of B and Area.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Current induced in a loop depends on:",
+    "options": [
+      "Resistance",
+      "Change in \u03a6",
+      "Both",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "I = e/R.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "When a magnet is pushed into a coil, the coil:",
+    "options": [
+      "Repels magnet",
+      "Attracts magnet",
+      "Does nothing",
+      "Heats up"
+    ],
+    "correct_index": 0,
+    "solution": "By Lenz's Law.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Self inductance of a solenoid:",
+    "options": [
+      "\u03bc\u2080n\u00b2Al",
+      "\u03bc\u2080nAl",
+      "Zero",
+      "Infinite"
+    ],
+    "correct_index": 0,
+    "solution": "n is turns per unit length.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Inductor in DC circuit at steady state acts as:",
+    "options": [
+      "Short circuit",
+      "Open circuit",
+      "Resistor",
+      "Capacitor"
+    ],
+    "correct_index": 0,
+    "solution": "dI/dt = 0, so e = 0.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Eddy currents are minimized by using:",
+    "options": [
+      "Laminated cores",
+      "Thick wires",
+      "Plastic",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Breaks the circulation paths.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Phase difference between \u03a6 and e is:",
+    "options": [
+      "90\u00b0",
+      "0\u00b0",
+      "180\u00b0",
+      "45\u00b0"
+    ],
+    "correct_index": 0,
+    "solution": "Derivative of sin is cos.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Unit of M is same as:",
+    "options": [
+      "L",
+      "C",
+      "R",
+      "B"
+    ],
+    "correct_index": 0,
+    "solution": "Both measured in Henry.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "\u03a6 through a loop of area A in B field:",
+    "options": [
+      "BA cos\u03b8",
+      "BA sin\u03b8",
+      "BA",
+      "Zero"
+    ],
+    "correct_index": 0,
+    "solution": "\u03b8 is angle with normal.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Flux is maximum when \u03b8 is:",
+    "options": [
+      "0\u00b0",
+      "90\u00b0",
+      "180\u00b0",
+      "45\u00b0"
+    ],
+    "correct_index": 0,
+    "solution": "B is parallel to Area normal.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Device used to measure small induced current:",
+    "options": [
+      "Galvanometer",
+      "Ammeter",
+      "Voltmeter",
+      "Wattmeter"
+    ],
+    "correct_index": 0,
+    "solution": "Highly sensitive.",
+    "difficulty": "Medium"
   }
 ]

@@ -1,0 +1,44 @@
+# LearnUP — CBSE Class 12
+
+[⚡ LearnUP](http://127.0.0.1:5000/)
+[🏠 Home](http://127.0.0.1:5000/)
+[📄 Official Papers](http://127.0.0.1:5000/official_papers)
+[🌐 External Hub](http://127.0.0.1:5000/external_resources)
+[🔖 Bookmarks](http://127.0.0.1:5000/bookmarks)
+[📊 Scores](http://127.0.0.1:5000/scores)
+
+# Welcome to LearnUP
+Your Smart Study Companion for CBSE Class 12
+[C
+        
+            Chemistry
+            Explore chapters, videos, and quizzes
+        
+        →](http://127.0.0.1:5000/subject/Chemistry)
+
+## Chemistry
+Explore chapters, videos, and quizzes
+[M
+        
+            Maths
+            Explore chapters, videos, and quizzes
+        
+        →](http://127.0.0.1:5000/subject/Maths)
+
+## Maths
+Explore chapters, videos, and quizzes
+[P
+        
+            Physics
+            Explore chapters, videos, and quizzes
+        
+        →](http://127.0.0.1:5000/subject/Physics)
+
+## Physics
+Explore chapters, videos, and quizzes
+
+### Quick Links
+[View Analytics](http://127.0.0.1:5000/scores)
+[My Bookmarks](http://127.0.0.1:5000/bookmarks)
+
+### Solve Doubts 🧠

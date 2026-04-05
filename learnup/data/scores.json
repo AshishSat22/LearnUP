@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "topic": "Matrices",
+    "subject": "Maths",
+    "score": 0,
+    "total": 30,
+    "accuracy": 0.0,
+    "difficulty": "Mixed",
+    "date": "2026-03-24 13:20"
+  },
+  {
+    "topic": "Relations and Functions",
+    "subject": "Maths",
+    "score": 10,
+    "total": 30,
+    "accuracy": 33.3,
+    "difficulty": "Mixed",
+    "date": "2026-03-24 13:42"
+  },
+  {
+    "topic": "Inverse Trigonometric Functions",
+    "subject": "Maths",
+    "score": 24,
+    "total": 30,
+    "accuracy": 80.0,
+    "difficulty": "Mixed",
+    "date": "2026-03-24 14:14"
+  }
+]

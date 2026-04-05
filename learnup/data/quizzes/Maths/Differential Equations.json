@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 regarding Domain setup in Differential Equations: Choose the correct option.",
+    "question": "Order of (y''')\u00b2 + (y'')\u00b3 + y = 0 is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "2",
+      "3",
+      "1",
+      "0"
     ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Highest derivative is 3.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 regarding Range calculation in Differential Equations: Choose the correct option.",
+    "question": "Degree of (dy/dx)\u00b2 + sin(dy/dx) = 0 is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "2",
+      "1",
+      "Not defined",
+      "0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 regarding Function type in Differential Equations: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Not a polynomial in derivatives.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 regarding Matrix operation in Differential Equations: Choose the correct option.",
+    "question": "Solution of dy/dx = y/x is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "y=kx",
+      "y=x+k",
+      "x\u00b2+y\u00b2=k",
+      "y=e\u02e3"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 regarding Determinant property in Differential Equations: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Variable separable result.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 regarding Derivative rule in Differential Equations: Choose the correct option.",
+    "question": "Integrating factor for dy/dx + Py = Q is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "e^\u222bP dx",
+      "e^\u222bQ dx",
+      "\u222bP dx",
+      "P"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 regarding Integral formula in Differential Equations: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Standard formula.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 regarding Limits and Continuity in Differential Equations: Choose the correct option.",
+    "question": "General solution of dy/dx = k is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "y=kx+C",
+      "y=k",
+      "x=ky",
+      "y=k/x"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 regarding Differential order in Differential Equations: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Direct integration.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 regarding Vector dot product in Differential Equations: Choose the correct option.",
+    "question": "Number of constants in general solution of order 2 is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1",
+      "2",
+      "3",
+      "0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 regarding Vector cross product in Differential Equations: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Matches the order.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 regarding Equation roots in Differential Equations: Choose the correct option.",
+    "question": "Number of constants in particular solution is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Order",
+      "1",
+      "0",
+      "Infinite"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 regarding Maxima/Minima condition in Differential Equations: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "No arbitrary constants.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 regarding Area bounded in Differential Equations: Choose the correct option.",
+    "question": "The DE of all circles passing through origin is order:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 regarding Integration by parts in Differential Equations: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Two independent constants.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 regarding Trigonometric identity in Differential Equations: Choose the correct option.",
+    "question": "A homogeneous DE involves functions of:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "x/y or y/x",
+      "x+y",
+      "xy",
+      "x\u00b2"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 regarding Inverse property in Differential Equations: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Degree zero property.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 regarding Differential linearity in Differential Equations: Choose the correct option.",
+    "question": "IF for dy/dx + y/x = x\u00b2 is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "x",
+      "log x",
+      "1/x",
+      "e\u02e3"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 regarding Homogeneous check in Differential Equations: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "e^log x = x.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 regarding Particular solution boundary in Differential Equations: Choose the correct option.",
+    "question": "Solution of dy/dx = e\u02e3\u207b\u02b8 is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "e\u02b8 = e\u02e3 + C",
+      "e\u02e3 + e\u02b8 = C",
+      "xy=C",
+      "y=x"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 regarding Chain rule in Differential Equations: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Separable form.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 regarding Product rule in Differential Equations: Choose the correct option.",
+    "question": "Order of xy'' + (y')\u2074 + y = 0 is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "4",
+      "2",
+      "1",
+      "0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 regarding Quotient rule in Differential Equations: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "y'' is order 2.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 regarding L'Hopital's applicability in Differential Equations: Choose the correct option.",
+    "question": "Degree of (y'')\u00b3 + (y')\u00b2 + 1 = 0 is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "3",
+      "2",
+      "1",
+      "0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 regarding Matrix inverse property in Differential Equations: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Highest derivative power.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 regarding Symmetric/Skew check in Differential Equations: Choose the correct option.",
+    "question": "Solution of dy/dx + y = 0 is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "y = Ce\u207b\u02e3",
+      "y = e\u02e3",
+      "y = x",
+      "y = C"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 regarding Definite integral bounds in Differential Equations: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Standard linear decay.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 regarding Odd/Even function integral in Differential Equations: Choose the correct option.",
+    "question": "DE of y = mx is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "dy/dx = y/x",
+      "dy/dx = m",
+      "x dy - y dx = 0",
+      "All of these"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 regarding Graph intersection in Differential Equations: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 3,
+    "solution": "Basic proportionality.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 regarding Parametric derivative in Differential Equations: Choose the correct option.",
+    "question": "Linear DE must be degree:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1",
+      "2",
+      "Any",
+      "0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
+    "correct_index": 0,
+    "solution": "Definition of linearity.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The DE y dy + x dx = 0 represents:",
+    "options": [
+      "Circles",
+      "Parabolas",
+      "Lines",
+      "Ellipses"
+    ],
+    "correct_index": 0,
+    "solution": "Sum of squares is constant.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Separable variable method applies to:",
+    "options": [
+      "M(x)dx + N(y)dy = 0",
+      "Linear DE",
+      "All DE",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Standard separation.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "IF of dy/dx - y = e\u02e3 is:",
+    "options": [
+      "e\u02e3",
+      "e\u207b\u02e3",
+      "x",
+      "-x"
+    ],
+    "correct_index": 1,
+    "solution": "e^(-x).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Order of DE for y = A cos x + B sin x is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "correct_index": 1,
+    "solution": "Two constants.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which is homogeneous?",
+    "options": [
+      "x+y",
+      "x\u00b2+y",
+      "x/y",
+      "sin x"
+    ],
+    "correct_index": 2,
+    "solution": "Degree matches.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Solution of dy/dx = 1+y\u00b2 is:",
+    "options": [
+      "y = tan(x+C)",
+      "y = sin x",
+      "y = x",
+      "y = log x"
+    ],
+    "correct_index": 0,
+    "solution": "tan\u207b\u00b9y = x.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "DE for y\u00b2 = 4ax is:",
+    "options": [
+      "2x dy/dx = y",
+      "y dy/dx = 2a",
+      "y = 2x y'",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Eliminating 'a'.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Particular solution satisfies:",
+    "options": [
+      "Initial conditions",
+      "Boundary conditions",
+      "Both",
+      "Neither"
+    ],
+    "correct_index": 2,
+    "solution": "Specific data provided.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "General solution of dy/dx = 0 is:",
+    "options": [
+      "y = C",
+      "y = 0",
+      "y = x",
+      "x = C"
+    ],
+    "correct_index": 0,
+    "solution": "Constant function.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "IF of dx/dy + P\u2081x = Q\u2081 is:",
+    "options": [
+      "e^\u222bP\u2081 dy",
+      "e^\u222bP\u2081 dx",
+      "P\u2081",
+      "Q\u2081"
+    ],
+    "correct_index": 0,
+    "solution": "Inverted variable form.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Degree of DE y' = \u221ay is:",
+    "options": [
+      "1",
+      "2",
+      "1/2",
+      "Not defined"
+    ],
+    "correct_index": 1,
+    "solution": "Must be polynomial form.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Family of curves y = Cx\u00b2 satisfies:",
+    "options": [
+      "x dy/dx = 2y",
+      "dy/dx = 2Cx",
+      "y' = y/x",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Derivative ratio.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If IF = x",
+    "options": [
+      " then DE is:",
+      "dy/dx + y/x = Q",
+      "dy/dx - y/x = Q",
+      "dy/dx + y = Q"
+    ],
+    "correct_index": 0,
+    "solution": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The DE of y = e\u1d50\u02e3 for fixed m is order:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "correct_index": 0,
+    "solution": "Single constant m.",
+    "difficulty": "Medium"
   }
 ]

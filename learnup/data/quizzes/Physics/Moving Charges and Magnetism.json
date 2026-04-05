@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 regarding SI Units in Moving Charges and Magnetism: Choose the correct option.",
+    "question": "The magnetic field at the center of a circular current loop is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "\u03bc\u2080I/2r",
+      "\u03bc\u2080I/2\u03c0r",
+      "\u03bc\u2080I/r",
+      "Zero"
     ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "B = \u03bc\u2080I/2r for a single turn.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 regarding Dimensional Formula in Moving Charges and Magnetism: Choose the correct option.",
+    "question": "The SI unit of magnetic field (B) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Tesla",
+      "Gauss",
+      "Weber",
+      "Oersted"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 regarding Constant Value in Moving Charges and Magnetism: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "1 Tesla = 10\u2074 Gauss.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 regarding Derivation Step in Moving Charges and Magnetism: Choose the correct option.",
+    "question": "A charge q moves with velocity v in magnetic field B. Force is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "qvB sin\u03b8",
+      "qvB cos\u03b8",
+      "qvB",
+      "Zero"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 regarding Scalar vs Vector in Moving Charges and Magnetism: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "F = q(v x B).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 regarding Proportionality in Moving Charges and Magnetism: Choose the correct option.",
+    "question": "Magnetic field inside a long straight solenoid is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "\u03bc\u2080nI",
+      "\u03bc\u2080NI",
+      "Zero",
+      "\u03bc\u2080I/2r"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 regarding Inverse Proportionality in Moving Charges and Magnetism: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "n is number of turns per unit length.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 regarding Graph Shape in Moving Charges and Magnetism: Choose the correct option.",
+    "question": "The force between two parallel currents in same direction is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Attractive",
+      "Repulsive",
+      "Zero",
+      "Perpendicular"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 regarding Law or Principle in Moving Charges and Magnetism: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Like currents attract.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 regarding Formula Identification in Moving Charges and Magnetism: Choose the correct option.",
+    "question": "A galvanometer is converted into an ammeter by connecting:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Low resistance in parallel",
+      "High resistance in series",
+      "Low resistance in series",
+      "High resistance in parallel"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 regarding Practical Application in Moving Charges and Magnetism: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Shunt resistance is used.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 regarding Exception or Limitation in Moving Charges and Magnetism: Choose the correct option.",
+    "question": "A galvanometer is converted into a voltmeter by connecting:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "High resistance in series",
+      "Low resistance in parallel",
+      "Low resistance in series",
+      "High resistance in parallel"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 regarding Numerical (Easy) in Moving Charges and Magnetism: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "High resistance limits current.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 regarding Numerical (Medium) in Moving Charges and Magnetism: Choose the correct option.",
+    "question": "Magnetic Lorentz force does no work because:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "F is perpendicular to v",
+      "F is parallel to v",
+      "F is zero",
+      "v is zero"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 regarding Numerical (Hard) in Moving Charges and Magnetism: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "W = F.d; displacement is perpendicular to force.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 regarding True/False in Moving Charges and Magnetism: Choose the correct option.",
+    "question": "The radius of path of a charged particle in B field is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "mv/qB",
+      "qB/mv",
+      "mB/qv",
+      "vB/mq"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 regarding Assertion Reason 1 in Moving Charges and Magnetism: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "From mv\u00b2/r = qvB.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 regarding Assertion Reason 2 in Moving Charges and Magnetism: Choose the correct option.",
+    "question": "Cyclotron frequency is independent of:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Velocity",
+      "Magnetic field",
+      "Charge",
+      "Mass"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 regarding Right Hand Rule / Convention in Moving Charges and Magnetism: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "f = qB/2\u03c0m.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 regarding Electromagnetic Effect in Moving Charges and Magnetism: Choose the correct option.",
+    "question": "SI unit of magnetic moment is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "A m\u00b2",
+      "A/m",
+      "Tesla m",
+      "Weber/m"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 regarding Energy Conservation in Moving Charges and Magnetism: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "M = NIA.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 regarding Momentum Conservation in Moving Charges and Magnetism: Choose the correct option.",
+    "question": "Biot-Savart Law is analogous to:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Coulomb Law",
+      "Ohm Law",
+      "Gauss Law",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 regarding Limit Case in Moving Charges and Magnetism: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Both are inverse square laws for fields.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 regarding Boundary Condition in Moving Charges and Magnetism: Choose the correct option.",
+    "question": "Magnetic field due to a straight wire at distance r varies as:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1/r",
+      "1/r\u00b2",
+      "r",
+      "r\u00b2"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 regarding Material Property in Moving Charges and Magnetism: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "B = \u03bc\u2080I/2\u03c0r.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 regarding Temperature Dependence in Moving Charges and Magnetism: Choose the correct option.",
+    "question": "Torque on a current loop in B field is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "NIAB sin\u03b8",
+      "NIAB cos\u03b8",
+      "IAB",
+      "Zero"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 regarding Frequency Dependence in Moving Charges and Magnetism: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "\u03c4 = M x B.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 regarding Phase Difference in Moving Charges and Magnetism: Choose the correct option.",
+    "question": "An ideal ammeter has resistance:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Zero",
+      "Infinite",
+      "1 ohm",
+      "100 ohm"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 regarding Interference / Superposition in Moving Charges and Magnetism: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "To ensure it doesn't drop voltage.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 regarding Historical Discovery in Moving Charges and Magnetism: Choose the correct option.",
+    "question": "An ideal voltmeter has resistance:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Infinite",
+      "Zero",
+      "1 ohm",
+      "100 ohm"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
+    "correct_index": 0,
+    "solution": "To ensure it draws no current.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Work done by magnetic force on a charge is:",
+    "options": [
+      "Zero",
+      "qVB",
+      "1/2 mv\u00b2",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Force is always normal to velocity.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Sensitivity of galvanometer increases by:",
+    "options": [
+      "Increasing N",
+      "Increasing A",
+      "Decreasing k",
+      "All"
+    ],
+    "correct_index": 3,
+    "solution": "S = NBA/k.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Two wires carry current in opposite directions. Force is:",
+    "options": [
+      "Repulsive",
+      "Attractive",
+      "Zero",
+      "Circular"
+    ],
+    "correct_index": 0,
+    "solution": "Opposite currents repel.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ampere\u2019s Circuital Law is:",
+    "options": [
+      "\u222eB.dl = \u03bc\u2080I",
+      "\u222eE.dl = 0",
+      "\u03a6 = q/\u03b5\u2080",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Integral of B over closed path.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which particle describes a circle in B field?",
+    "options": [
+      "Electron",
+      "Proton",
+      "Alpha",
+      "All"
+    ],
+    "correct_index": 3,
+    "solution": "All charged particles.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A stationary charge produces:",
+    "options": [
+      "Electric field only",
+      "Magnetic field only",
+      "Both",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Magnetic field requires moving charge.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A moving charge produces:",
+    "options": [
+      "Electric field only",
+      "Magnetic field only",
+      "Both",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "Produces both E and B fields.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Shape of path of charge entering B field at 45\u00b0:",
+    "options": [
+      "Helix",
+      "Circle",
+      "Straight line",
+      "Parabola"
+    ],
+    "correct_index": 0,
+    "solution": "Component v cos\u03b8 leads to linear motion.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Magnetic field at a point on the axis of a solenoid is:",
+    "options": [
+      "\u03bc\u2080nI",
+      "\u03bc\u2080nI/2",
+      "Zero",
+      "Infinite"
+    ],
+    "correct_index": 0,
+    "solution": "Field is uniform inside.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "SI unit of gyromagnetic ratio:",
+    "options": [
+      "C/kg",
+      "kg/C",
+      "A m\u00b2",
+      "Tesla"
+    ],
+    "correct_index": 0,
+    "solution": "Ratio of magnetic moment to angular momentum.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Current sensitivity unit:",
+    "options": [
+      "rad/A",
+      "A/rad",
+      "Degree",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Deflection per unit current.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Voltmeter is always connected in:",
+    "options": [
+      "Parallel",
+      "Series",
+      "Both",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "To measure potential difference across components.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ammeter is always connected in:",
+    "options": [
+      "Series",
+      "Parallel",
+      "Both",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "To measure current flowing through circuit.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Magnetic field of a toroid is:",
+    "options": [
+      "\u03bc\u2080nI",
+      "Zero outside",
+      "Both A and B",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "Field is confined within the core.",
+    "difficulty": "Medium"
   }
 ]

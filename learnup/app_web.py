@@ -1,7 +1,14 @@
 from flask import Flask, render_template, request, jsonify
 import json
 import os
+from dotenv import load_dotenv
+from google import genai
 
+load_dotenv()
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+chat_client = None
+if GEMINI_API_KEY:
+    chat_client = genai.Client(api_key=GEMINI_API_KEY)
 from utils.file_handler import (
     list_subjects, list_video_chapters, load_videos, search_videos,
     list_question_chapters, load_questions, search_questions,
@@ -110,5 +117,33 @@ def official_papers_view(subject):
 def external_resources_view():
     return render_template("external_resources.html")
 
+@app.route("/api/chat", methods=["POST"])
+def api_chat():
+    data = request.json
+    user_message = data.get("message", "")
+    history = data.get("history", [])
+    
+    if not GEMINI_API_KEY or not chat_client:
+        return jsonify({
+            "response": "I am currently running in offline mock mode because the **GEMINI_API_KEY** is not configured in the `.env` file. Check the README to activate me! But I'm hypothetically here to help you study Class 12 Physics, Chemistry, and Maths!"
+        })
+    
+    prompt = "You are a friendly, encouraging CBSE Class 12 tutor for Physics, Chemistry, and Maths. You help solve student doubts. Keep your answers clear, very pedagogical, use Markdown, and go step-by-step. Do not do their homework directly, guide them.\\n\\n"
+    for msg in history:
+        role = "Student: " if msg["role"] == "user" else "Tutor: "
+        prompt += f"{role}{msg['content']}\\n"
+    prompt += f"Student: {user_message}\\nTutor: "
+
+    try:
+        response = chat_client.models.generate_content(
+            model="gemini-3.1-pro-preview",
+            contents=prompt,
+        )
+        return jsonify({"response": response.text})
+    except Exception as e:
+        return jsonify({"response": f"Sorry, I encountered an error connecting to my brain. Details: {str(e)}"}), 500
+
+
 if __name__ == "__main__":
     app.run(debug=True, port=5000)
+

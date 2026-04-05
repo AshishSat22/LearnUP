@@ -1,0 +1,362 @@
+[
+  {
+    "question": "The most commonly used semiconductor element is:",
+    "options": [
+      "Silicon",
+      "Copper",
+      "Iron",
+      "Silver"
+    ],
+    "correct_index": 0,
+    "solution": "Si is the industry standard due to abundance and stability.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In an n-type semiconductor the majority carriers are:",
+    "options": [
+      "Protons",
+      "Holes",
+      "Electrons",
+      "Neutrons"
+    ],
+    "correct_index": 2,
+    "solution": "Doped with pentavalent impurities.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The band gap in an insulator is typically:",
+    "options": [
+      "Zero",
+      "< 3 eV",
+      "> 3 eV",
+      "1 eV"
+    ],
+    "correct_index": 2,
+    "solution": "Large gap prevents electron excitation.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A p-n junction acts as a:",
+    "options": [
+      "Rectifier",
+      "Amplifier",
+      "Oscillator",
+      "Resistor"
+    ],
+    "correct_index": 0,
+    "solution": "Allows current in one direction only.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In reverse bias the width of the depletion layer:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "Becomes zero"
+    ],
+    "correct_index": 0,
+    "solution": "Potential barrier is strengthened.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A Zener diode is used as a:",
+    "options": [
+      "Amplifier",
+      "Voltage Regulator",
+      "Rectifier",
+      "Filter"
+    ],
+    "correct_index": 1,
+    "solution": "Works in breakdown region to keep voltage constant.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which impurity creates a p-type semiconductor?",
+    "options": [
+      "Phosphorus",
+      "Arsenic",
+      "Boron",
+      "Antimony"
+    ],
+    "correct_index": 2,
+    "solution": "Trivalent impurities like Boron create holes.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The potential barrier in a Silicon diode is approx:",
+    "options": [
+      "0.3 V",
+      "0.7 V",
+      "1.1 V",
+      "2.0 V"
+    ],
+    "correct_index": 1,
+    "solution": "Standard knee voltage for Silicon.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Full wave rectifier uses how many diodes (minimum)?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_index": 1,
+    "solution": "Center-tapped uses 2; Bridge uses 4.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The process of adding impurities is called:",
+    "options": [
+      "Ionization",
+      "Doping",
+      "Diffusion",
+      "Drift"
+    ],
+    "correct_index": 1,
+    "solution": "Deliberate addition to change conductivity.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In an intrinsic semiconductor n_e is equal to:",
+    "options": [
+      "n_h",
+      "Zero",
+      "Infinity",
+      "n_p"
+    ],
+    "correct_index": 0,
+    "solution": "Electron concentration equals hole concentration.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "LEDs emit light when they are:",
+    "options": [
+      "Forward Biased",
+      "Reverse Biased",
+      "Unbiased",
+      "At breakdown"
+    ],
+    "correct_index": 0,
+    "solution": "Recombination of carriers releases energy as light.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The solar cell works on the principle of:",
+    "options": [
+      "Photovoltaic effect",
+      "Heating effect",
+      "Magnetic effect",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Conversion of light energy to electrical energy.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A Logic Gate with only one input is:",
+    "options": [
+      "AND",
+      "OR",
+      "NOT",
+      "NAND"
+    ],
+    "correct_index": 2,
+    "solution": "Inverter gate.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The output of a NAND gate is 0 only when:",
+    "options": [
+      "Both inputs 0",
+      "One input 0",
+      "Both inputs 1",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "NAND is NOT-AND.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Holes exist in which band?",
+    "options": [
+      "Conduction Band",
+      "Valence Band",
+      "Forbidden Band",
+      "None"
+    ],
+    "correct_index": 1,
+    "solution": "Holes are vacancies in the valence band.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Conductivity of semiconductors at 0K is:",
+    "options": [
+      "Maximum",
+      "Minimum",
+      "Zero",
+      "Infinite"
+    ],
+    "correct_index": 2,
+    "solution": "Behaves as a perfect insulator.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Universal logic gates are:",
+    "options": [
+      "AND OR",
+      "NAND NOR",
+      "NOT AND",
+      "OR NOT"
+    ],
+    "correct_index": 1,
+    "solution": "Any gate can be constructed using NAND or NOR.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The base of a transistor is always:",
+    "options": [
+      "Thin and Lightly doped",
+      "Thick",
+      "Heavily doped",
+      "Metal"
+    ],
+    "correct_index": 0,
+    "solution": "To minimize carrier recombination.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Forward bias resistance of a diode is:",
+    "options": [
+      "Very high",
+      "Very low",
+      "Zero",
+      "Infinite"
+    ],
+    "correct_index": 1,
+    "solution": "Allows easy flow of current.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which gate is called an inverter?",
+    "options": [
+      "AND",
+      "OR",
+      "NOT",
+      "NAND"
+    ],
+    "correct_index": 2,
+    "solution": "Flips 0 to 1 and 1 to 0.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Majority carriers in p-type are:",
+    "options": [
+      "Electrons",
+      "Holes",
+      "Neutrons",
+      "Photons"
+    ],
+    "correct_index": 1,
+    "solution": "Created by trivalent doping.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Energy of a gap in Carbon (Diamond) is:",
+    "options": [
+      "5.4 eV",
+      "1.1 eV",
+      "0.7 eV",
+      "0 eV"
+    ],
+    "correct_index": 0,
+    "solution": "Diamond is a strong insulator.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Number of p-n junctions in a BJT is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "correct_index": 1,
+    "solution": "Emitter-Base and Collector-Base junctions.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ripple factor for a half-wave rectifier is:",
+    "options": [
+      "1.21",
+      "0.48",
+      "1",
+      "2"
+    ],
+    "correct_index": 0,
+    "solution": "Measure of AC component in DC output.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Current in a semiconductor is due to:",
+    "options": [
+      "Electrons",
+      "Holes",
+      "Both A and B",
+      "Ions"
+    ],
+    "correct_index": 2,
+    "solution": "Total current is Ie + Ih.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Photodiode is operated in:",
+    "options": [
+      "Forward bias",
+      "Reverse bias",
+      "Unbiased",
+      "Breakdown"
+    ],
+    "correct_index": 1,
+    "solution": "To detect change in reverse saturation current.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The depletion region contains:",
+    "options": [
+      "Holes",
+      "Electrons",
+      "Immobile Ions",
+      "Mobile charges"
+    ],
+    "correct_index": 2,
+    "solution": "Fixed donor and acceptor ions.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Boolean expression for OR gate is:",
+    "options": [
+      "A+B",
+      "A.B",
+      "A'",
+      "1"
+    ],
+    "correct_index": 0,
+    "solution": "Standard logical addition.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "At high temperature semiconductors behave like:",
+    "options": [
+      "Insulators",
+      "Conductors",
+      "Superconductors",
+      "None"
+    ],
+    "correct_index": 1,
+    "solution": "Thermal energy increases carrier concentration.",
+    "difficulty": "Medium"
+  }
+]

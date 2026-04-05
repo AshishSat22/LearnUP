@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 regarding Domain setup in Matrices: Choose the correct option.",
+    "question": "If A is 3x4 and B is 4x3 then order of AB is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "3x3",
+      "4x4",
+      "3x4",
+      "4x3"
     ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "(3x4) * (4x3) results in (3x3).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 regarding Range calculation in Matrices: Choose the correct option.",
+    "question": "A square matrix A is skew-symmetric if:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "A' = A",
+      "A' = -A",
+      "A' = I",
+      "A = 0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 regarding Function type in Matrices: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Definition: a_ij = -a_ji.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 regarding Matrix operation in Matrices: Choose the correct option.",
+    "question": "The number of all possible 2x2 matrices with entries 0 1 or 2 is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "2\u2074",
+      "3\u2074",
+      "4\u00b3",
+      "9"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 regarding Determinant property in Matrices: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "4 positions with 3 choices each = 3\u2074 = 81.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 regarding Derivative rule in Matrices: Choose the correct option.",
+    "question": "If A and B are symmetric matrices of same order then AB-BA is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Symmetric",
+      "Skew-symmetric",
+      "Identity",
+      "Zero"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 regarding Integral formula in Matrices: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "(AB-BA)' = BA-AB = -(AB-BA).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 regarding Limits and Continuity in Matrices: Choose the correct option.",
+    "question": "If A = [cos\u03b1 -sin\u03b1; sin\u03b1 cos\u03b1] and A+A'=I then \u03b1 is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "\u03c0/6",
+      "\u03c0/3",
+      "\u03c0",
+      "3\u03c0/2"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 regarding Differential order in Matrices: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "2cos\u03b1 = 1 => cos\u03b1 = 1/2 => \u03b1 = \u03c0/3.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 regarding Vector dot product in Matrices: Choose the correct option.",
+    "question": "If A and B are square matrices of same order then (AB)' is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "A'B'",
+      "B'A'",
+      "AB",
+      "BA"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 regarding Vector cross product in Matrices: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Reversal law of transposes.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 regarding Equation roots in Matrices: Choose the correct option.",
+    "question": "A matrix is both symmetric and skew-symmetric if it is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Diagonal",
+      "Zero matrix",
+      "Identity",
+      "Scalar"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 regarding Maxima/Minima condition in Matrices: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "A = A' and A = -A implies A = -A => 2A=0.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 regarding Area bounded in Matrices: Choose the correct option.",
+    "question": "If A\u00b2 = A then (I+A)\u00b2 is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "I+2A",
+      "I+3A",
+      "3I",
+      "I+A"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 regarding Integration by parts in Matrices: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "I\u00b2 + 2IA + A\u00b2 = I + 2A + A = I + 3A.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 regarding Trigonometric identity in Matrices: Choose the correct option.",
+    "question": "If order of A is 2x3 and B is 3x2 then order of BA is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "2x2",
+      "3x3",
+      "2x3",
+      "3x2"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 regarding Inverse property in Matrices: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "(3x2) * (2x3) results in (3x3).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 regarding Differential linearity in Matrices: Choose the correct option.",
+    "question": "If A = [0 1; 1 0] then A\u00b2 is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "[0 1; 1 0]",
+      "[1 0; 0 1]",
+      "[1 1; 1 1]",
+      "[0 0; 0 0]"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 regarding Homogeneous check in Matrices: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Matrix multiplication of A with itself gives Identity.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 regarding Particular solution boundary in Matrices: Choose the correct option.",
+    "question": "Total number of elements in a 3x4 matrix is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "7",
+      "1",
+      "12",
+      "14"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 regarding Chain rule in Matrices: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "3 * 4 = 12.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 regarding Product rule in Matrices: Choose the correct option.",
+    "question": "If A is a square matrix then A+A' is always:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Symmetric",
+      "Skew-symmetric",
+      "Identity",
+      "Zero"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 regarding Quotient rule in Matrices: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "(A+A')' = A'+A = A+A'.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 regarding L'Hopital's applicability in Matrices: Choose the correct option.",
+    "question": "If A = [1 2; 3 4] then 2A is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "[2 2; 3 4]",
+      "[2 4; 6 8]",
+      "[1 2; 3 4]",
+      "[2 4; 3 4]"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 regarding Matrix inverse property in Matrices: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Scalar multiplication multiplies every element.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 regarding Symmetric/Skew check in Matrices: Choose the correct option.",
+    "question": "Diagonal elements of a skew-symmetric matrix are always:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1",
+      "-1",
+      "0",
+      "Any real number"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 regarding Definite integral bounds in Matrices: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "a_ii = -a_ii implies 2a_ii = 0.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 regarding Odd/Even function integral in Matrices: Choose the correct option.",
+    "question": "If A is symmetric then A\u207f for n in N is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Symmetric",
+      "Skew-symmetric",
+      "Diagonal",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 regarding Graph intersection in Matrices: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "(A\u207f)' = (A')\u207f = A\u207f.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 regarding Parametric derivative in Matrices: Choose the correct option.",
+    "question": "Which of the following is a scalar matrix?",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "[1 0; 0 2]",
+      "[2 0; 0 2]",
+      "[0 2; 2 0]",
+      "[1 2; 3 4]"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
+    "correct_index": 1,
+    "solution": "Diagonal elements are equal non-diagonal are zero.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If A = [1 0 0; 0 1 0; 0 0 1] then A is:",
+    "options": [
+      "Identity",
+      "Square",
+      "Unit",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "solution": "Standard terminology for Identity matrix.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If A is 2x3 and B is 3x5 then AB exists but BA does not:",
+    "options": [
+      "True",
+      "False",
+      "Depends on entries",
+      "Only if A=0"
+    ],
+    "correct_index": 0,
+    "solution": "BA requires (3x5) * (2x3) - inner dims 5 and 2 don't match.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Transpose of a column matrix is:",
+    "options": [
+      "Row matrix",
+      "Column matrix",
+      "Diagonal matrix",
+      "Scalar matrix"
+    ],
+    "correct_index": 0,
+    "solution": "Dimensions n x 1 become 1 x n.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If A is a matrix of order m x n then A' is:",
+    "options": [
+      "n x m",
+      "m x n",
+      "m x m",
+      "n x n"
+    ],
+    "correct_index": 0,
+    "solution": "Definition of transpose.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If A = [a_ij] is 2x2 where a_ij = i+j then A is:",
+    "options": [
+      "[2 3; 3 4]",
+      "[1 2; 3 4]",
+      "[1 1; 2 2]",
+      "[2 2; 4 4]"
+    ],
+    "correct_index": 0,
+    "solution": "a11=2 a12=3 a21=3 a22=4.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The inverse of a symmetric matrix is:",
+    "options": [
+      "Symmetric",
+      "Skew-symmetric",
+      "Diagonal",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "(A\u207b\u00b9)' = (A')\u207b\u00b9 = A\u207b\u00b9.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Elementary row operations do not change the order of the matrix:",
+    "options": [
+      "True",
+      "False",
+      "Only for square",
+      "Only for zero"
+    ],
+    "correct_index": 0,
+    "solution": "Transformations occur within the same dimensions.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Matrix multiplication is commutative:",
+    "options": [
+      "Always",
+      "Never",
+      "Usually not",
+      "Only for I"
+    ],
+    "correct_index": 2,
+    "solution": "AB is not equal to BA in general.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A square matrix A where a_ij = 0 for i != j is:",
+    "options": [
+      "Diagonal",
+      "Identity",
+      "Scalar",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Definition of diagonal matrix.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If k is a scalar then (kA)' is:",
+    "options": [
+      "k'A",
+      "kA'",
+      "k+A'",
+      "A'/k"
+    ],
+    "correct_index": 1,
+    "solution": "Scalar is not affected by transpose (unless complex/conjugate).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A and B are inverses of each other if:",
+    "options": [
+      "AB = BA",
+      "AB = BA = 0",
+      "AB = I",
+      "AB = BA = I"
+    ],
+    "correct_index": 3,
+    "solution": "Definition of inverse.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If A = [i 0; 0 i] then A\u00b2 is:",
+    "options": [
+      "I",
+      "-I",
+      "0",
+      "2I"
+    ],
+    "correct_index": 1,
+    "solution": "[i\u00b2 0; 0 i\u00b2] = [-1 0; 0 -1] = -I.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Number of elements in a identity matrix of order 3 is:",
+    "options": [
+      "3",
+      "9",
+      "6",
+      "1"
+    ],
+    "correct_index": 1,
+    "solution": "It is a 3x3 matrix.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If [x+y 1; 2 3] = [4 1; 2 3] then x+y is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_index": 3,
+    "solution": "Corresponding elements must be equal.",
+    "difficulty": "Medium"
   }
 ]

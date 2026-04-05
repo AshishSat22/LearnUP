@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 regarding SI Units in Magnetism and Matter: Choose the correct option.",
+    "question": "The SI unit of magnetic flux is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Weber",
+      "Tesla",
+      "Gauss",
+      "Maxwell"
     ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "1 Weber = 1 Tesla * m\u00b2.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 regarding Dimensional Formula in Magnetism and Matter: Choose the correct option.",
+    "question": "Relative permeability (\u03bcr) for vacuum is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1",
+      "0",
+      "Infinite",
+      "4\u03c0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 regarding Constant Value in Magnetism and Matter: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "\u03bcr = \u03bc/\u03bc\u2080.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 regarding Derivation Step in Magnetism and Matter: Choose the correct option.",
+    "question": "Which material is strongly attracted by magnets?",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Ferromagnetic",
+      "Diamagnetic",
+      "Paramagnetic",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 regarding Scalar vs Vector in Magnetism and Matter: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Iron, Nickel, Cobalt.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 regarding Proportionality in Magnetism and Matter: Choose the correct option.",
+    "question": "Curie temperature is the point where:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Ferro becomes Para",
+      "Para becomes Ferro",
+      "Superconductivity starts",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 regarding Inverse Proportionality in Magnetism and Matter: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Loss of domain alignment due to heat.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 regarding Graph Shape in Magnetism and Matter: Choose the correct option.",
+    "question": "Magnetic susceptibility (\u03c7) is negative for:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Diamagnetic",
+      "Paramagnetic",
+      "Ferromagnetic",
+      "All"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 regarding Law or Principle in Magnetism and Matter: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "They develop magnetization opposite to field.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 regarding Formula Identification in Magnetism and Matter: Choose the correct option.",
+    "question": "Angle of Dip at the magnetic equator is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "0\u00b0",
+      "90\u00b0",
+      "45\u00b0",
+      "180\u00b0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 regarding Practical Application in Magnetism and Matter: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Field is horizontal at equator.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 regarding Exception or Limitation in Magnetism and Matter: Choose the correct option.",
+    "question": "Angle of Dip at the magnetic poles is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "90\u00b0",
+      "0\u00b0",
+      "45\u00b0",
+      "180\u00b0"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 regarding Numerical (Easy) in Magnetism and Matter: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Field is vertical at poles.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 regarding Numerical (Medium) in Magnetism and Matter: Choose the correct option.",
+    "question": "A compass needle is free to move in:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Horizontal plane",
+      "Vertical plane",
+      "Both",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 regarding Numerical (Hard) in Magnetism and Matter: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Standard compass behavior.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 regarding True/False in Magnetism and Matter: Choose the correct option.",
+    "question": "The core of an electromagnet is made of:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Soft iron",
+      "Steel",
+      "Copper",
+      "Aluminum"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 regarding Assertion Reason 1 in Magnetism and Matter: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "High permeability and low retentivity.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 regarding Assertion Reason 2 in Magnetism and Matter: Choose the correct option.",
+    "question": "The unit of magnetic intensity (H) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "A/m",
+      "Tesla",
+      "Weber",
+      "A m\u00b2"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 regarding Right Hand Rule / Convention in Magnetism and Matter: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "H = B/\u03bc - M.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 regarding Electromagnetic Effect in Magnetism and Matter: Choose the correct option.",
+    "question": "Meissner effect is associated with:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Superconductors",
+      "Diamagnetism",
+      "Paramagnetism",
+      "Ferromagnetism"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 regarding Energy Conservation in Magnetism and Matter: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Expulsion of magnetic field.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 regarding Momentum Conservation in Magnetism and Matter: Choose the correct option.",
+    "question": "Permanent magnets are made of:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Steel",
+      "Soft Iron",
+      "Copper",
+      "Lead"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 regarding Limit Case in Magnetism and Matter: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "High retentivity and high coercivity.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 regarding Boundary Condition in Magnetism and Matter: Choose the correct option.",
+    "question": "The earth's magnetic field is approximately:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "10\u207b\u2074 Tesla",
+      "1 Tesla",
+      "10 Tesla",
+      "Zero"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 regarding Material Property in Magnetism and Matter: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Roughly 0.1 to 0.5 Gauss.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 regarding Temperature Dependence in Magnetism and Matter: Choose the correct option.",
+    "question": "Magnetic declination is the angle between:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Mag North and Geo North",
+      "Dip and Equator",
+      "B and H",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 regarding Frequency Dependence in Magnetism and Matter: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Variation between the two poles.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 regarding Phase Difference in Magnetism and Matter: Choose the correct option.",
+    "question": "Susceptibility of paramagnetic material varies as:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1/T",
+      "T",
+      "T\u00b2",
+      "Constant"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 regarding Interference / Superposition in Magnetism and Matter: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Curie's Law.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 regarding Historical Discovery in Magnetism and Matter: Choose the correct option.",
+    "question": "Magnetic lines of force:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Form closed loops",
+      "Start at N end at S",
+      "Never intersect",
+      "All"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
+    "correct_index": 3,
+    "solution": "Standard properties.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Gauss's law for magnetism states:",
+    "options": [
+      "\u222eB.dS = 0",
+      "\u222eB.dS = \u03bc\u2080",
+      "\u222eB.dl = I",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "No magnetic monopoles exist.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Relation between B, H, and M:",
+    "options": [
+      "B = \u03bc\u2080(H+M)",
+      "B = H+M",
+      "B = \u03bc\u2080H",
+      "M = \u03c7H"
+    ],
+    "correct_index": 0,
+    "solution": "Standard constituent equation.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A diamagnetic rod in B field aligns:",
+    "options": [
+      "Perpendicular",
+      "Parallel",
+      "At 45\u00b0",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Tends to move from stronger to weaker field.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Magnetic moment of an atom is due to:",
+    "options": [
+      "Electron orbit",
+      "Electron spin",
+      "Both",
+      "Nucleus only"
+    ],
+    "correct_index": 2,
+    "solution": "Resultant of orbital and spin motion.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "SI unit of pole strength:",
+    "options": [
+      "A m",
+      "A m\u00b2",
+      "Tesla",
+      "Weber"
+    ],
+    "correct_index": 0,
+    "solution": "Derived from M = m * l.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Elements of Earth's magnetic field:",
+    "options": [
+      "Declination",
+      "Dip",
+      "Horizontal Intensity",
+      "All"
+    ],
+    "correct_index": 3,
+    "solution": "The three parameters that define Earth's B.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "At a place, H = V. Angle of dip is:",
+    "options": [
+      "45\u00b0",
+      "0\u00b0",
+      "90\u00b0",
+      "30\u00b0"
+    ],
+    "correct_index": 0,
+    "solution": "tan\u03b8 = V/H. If V=H, tan\u03b8=1.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Retentivity is:",
+    "options": [
+      "Residual magnetism",
+      "Opposing field",
+      "Flux",
+      "Force"
+    ],
+    "correct_index": 0,
+    "solution": "Magnetism left after field is removed.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Coercivity is:",
+    "options": [
+      "Opposing field to demagnetize",
+      "Residual magnetism",
+      "Permeability",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Measure of how hard it is to demagnetize.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Soft iron has:",
+    "options": [
+      "High permeability low retentivity",
+      "Low permeability",
+      "High coercivity",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Ideal for temporary magnets.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Magnetic potential unit:",
+    "options": [
+      "J/A m",
+      "J/A",
+      "Volt",
+      "Tesla"
+    ],
+    "correct_index": 0,
+    "solution": "Work per unit pole strength.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Magnetic meridian is a:",
+    "options": [
+      "Vertical plane",
+      "Horizontal plane",
+      "Point",
+      "Line"
+    ],
+    "correct_index": 0,
+    "solution": "Plane passing through magnetic axis.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "North pole of Earth's magnet is near:",
+    "options": [
+      "Geo South Pole",
+      "Geo North Pole",
+      "Equator",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Opposite polarity for attraction.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Unit of \u03bc\u2080:",
+    "options": [
+      "T m / A",
+      "A / m",
+      "Weber",
+      "Tesla"
+    ],
+    "correct_index": 0,
+    "solution": "Permeability of free space.",
+    "difficulty": "Medium"
   }
 ]

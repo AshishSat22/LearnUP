@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 on Basic Definition for Haloalkanes and Haloarenes: Which of the following is correct?",
+    "question": "SN1 reaction is favored by:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Tertiary halides",
+      "Primary halides",
+      "Methyl halides",
+      "None"
     ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Stability of carbocation intermediate.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 on Nomenclature for Haloalkanes and Haloarenes: Which of the following is correct?",
+    "question": "SN2 reaction involves:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Inversion of configuration",
+      "Retention",
+      "Racemization",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 on Preparation Method 1 for Haloalkanes and Haloarenes: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Walden inversion.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 on Preparation Method 2 for Haloalkanes and Haloarenes: Which of the following is correct?",
+    "question": "Finkelstein reaction is used to prepare:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Alkyl iodides",
+      "Alkyl fluorides",
+      "Alkyl chlorides",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 on Physical Property: Boiling Point for Haloalkanes and Haloarenes: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Reaction with NaI in acetone.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 on Physical Property: Solubility for Haloalkanes and Haloarenes: Which of the following is correct?",
+    "question": "Wurtz reaction involves alkyl halides and:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Sodium",
+      "Magnesium",
+      "Zinc",
+      "Copper"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 on Chemical Property: Oxidation for Haloalkanes and Haloarenes: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Produces higher alkanes.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 on Chemical Property: Reduction for Haloalkanes and Haloarenes: Which of the following is correct?",
+    "question": "Which is more reactive towards nucleophilic substitution?",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Alkyl halides",
+      "Vinyl halides",
+      "Aryl halides",
+      "Chlorobenzene"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 on Reaction with Acids for Haloalkanes and Haloarenes: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Aryl halides have resonance stabilization of C-X.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 on Reaction with Bases for Haloalkanes and Haloarenes: Which of the following is correct?",
+    "question": "Swarts reaction is for preparing:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Alkyl fluorides",
+      "Alkyl iodides",
+      "Alkyl bromides",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 on Special Name Reaction 1 for Haloalkanes and Haloarenes: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Using metallic fluorides like AgF.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 on Special Name Reaction 2 for Haloalkanes and Haloarenes: Which of the following is correct?",
+    "question": "Chirality refers to molecules that are:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Non-superimposable on mirror",
+      "Symmetric",
+      "Planar",
+      "Linear"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 on Uses and Applications for Haloalkanes and Haloarenes: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Usually have an asymmetric carbon.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 on Environmental Impact for Haloalkanes and Haloarenes: Which of the following is correct?",
+    "question": "DDT is an:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Organochlorine insecticide",
+      "Fertilizer",
+      "Antibiotic",
+      "Detergent"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 on Analytical Test for Haloalkanes and Haloarenes: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Dichlorodiphenyltrichloroethane.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 on Mechanism Step 1 for Haloalkanes and Haloarenes: Which of the following is correct?",
+    "question": "Lucas reagent is a mixture of:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Anhydrous ZnCl2 + HCl",
+      "Zn + H2SO4",
+      "Pd + BaSO4",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 on Mechanism Step 2 for Haloalkanes and Haloarenes: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Used to distinguish alcohols via halides.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 on Catalyst used for Haloalkanes and Haloarenes: Which of the following is correct?",
+    "question": "Sandmeyer reaction uses:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Cuous salts",
+      "Ag salts",
+      "Zn dust",
+      "Mg"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 on Temperature conditions for Haloalkanes and Haloarenes: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Converts benzene diazonium salt to aryl halides.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 on Pressure conditions for Haloalkanes and Haloarenes: Which of the following is correct?",
+    "question": "Grignard reagent formula:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "RMgX",
+      "R2Mg",
+      "RZnX",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 on Byproducts formed for Haloalkanes and Haloarenes: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Organometallic compound.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 on Thermodynamics of reaction for Haloalkanes and Haloarenes: Which of the following is correct?",
+    "question": "Elimination of HX from alkyl halide is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Dehydrohalogenation",
+      "Dehydration",
+      "Hydrogenation",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 on Kinetics of reaction for Haloalkanes and Haloarenes: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Follows Saytzeff's rule.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 on Isomerism for Haloalkanes and Haloarenes: Which of the following is correct?",
+    "question": "Freon-12 is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "CF2Cl2",
+      "CH2Cl2",
+      "CHCl3",
+      "CCl4"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 on Stereochemistry for Haloalkanes and Haloarenes: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Used as a refrigerant.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 on Electronic effect for Haloalkanes and Haloarenes: Which of the following is correct?",
+    "question": "Ambident nucleophile example:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "CN-",
+      "OH-",
+      "Cl-",
+      "H2O"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 on Steric effect for Haloalkanes and Haloarenes: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Can attack through C or N.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 on Industrial preparation for Haloalkanes and Haloarenes: Which of the following is correct?",
+    "question": "Reaction of Chlorobenzene with Na/Ether is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Fittig reaction",
+      "Wurtz reaction",
+      "Sandmeyer",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 on Laboratory preparation for Haloalkanes and Haloarenes: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Produces biphenyl.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 on Exceptional case for Haloalkanes and Haloarenes: Which of the following is correct?",
+    "question": "Allylic halides have halogen attached to:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "sp3 C next to C=C",
+      "sp2 C",
+      "sp C",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
+    "correct_index": 0,
+    "solution": "Example: CH2=CH-CH2Cl.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which has highest boiling point?",
+    "options": [
+      "RI",
+      "RCl",
+      "RBr",
+      "RF"
+    ],
+    "correct_index": 0,
+    "solution": "Due to largest size and van der Waals forces.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "SN1 reaction follows _______ order kinetics:",
+    "options": [
+      "First",
+      "Second",
+      "Zero",
+      "Third"
+    ],
+    "correct_index": 0,
+    "solution": "Rate depends only on halide concentration.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Preparation of alkyl halides from alcohols using SOCl2 is best because:",
+    "options": [
+      "Byproducts are gases",
+      "It is cheap",
+      "High yield",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "SO2 and HCl escape easily.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Racemic mixture has optical rotation:",
+    "options": [
+      "Zero",
+      "Positive",
+      "Negative",
+      "Infinite"
+    ],
+    "correct_index": 0,
+    "solution": "Equal amounts of d and l forms.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Gem-dihalides have two halogens on:",
+    "options": [
+      "Same carbon",
+      "Adjacent carbons",
+      "Terminal carbons",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Also called alkylidene halides.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Markownikov's rule applies to:",
+    "options": [
+      "Addition of HX to alkenes",
+      "Substitution",
+      "Elimination",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "H goes to C with more H.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Anti-Markownikov addition occurs in presence of:",
+    "options": [
+      "Peroxide",
+      "Acid",
+      "Base",
+      "Heat"
+    ],
+    "correct_index": 0,
+    "solution": "Kharasch effect.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Alkyl halides are insoluble in water because:",
+    "options": [
+      "Cannot form H-bonds",
+      "They are ionic",
+      "Too heavy",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Energy released is not enough to break water H-bonds.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Fire extinguisher 'Pyrene' is:",
+    "options": [
+      "CCl4",
+      "CHCl3",
+      "CH2Cl2",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Carbon tetrachloride.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Effect of branching on BP of alkyl halides:",
+    "options": [
+      "Decreases BP",
+      "Increases BP",
+      "No effect",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Surface area decreases.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Reaction of aryl halides with NaOH at high T/P:",
+    "options": [
+      "Dow's Process",
+      "Wurtz",
+      "Fittig",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Produces Phenol.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Presence of -NO2 group on aryl halide ________ reactivity:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Electron withdrawing group stabilizes intermediate.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Nature of C-X bond:",
+    "options": [
+      "Polar covalent",
+      "Non-polar",
+      "Ionic",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Carbon is partial positive; Halogen partial negative.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Nucleophile in Friedel-Crafts alkylation:",
+    "options": [
+      "Alkyl carbocation",
+      "AlCl3",
+      "Benzene",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Formed by RCl + AlCl3.",
+    "difficulty": "Medium"
   }
 ]

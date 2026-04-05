@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 regarding SI Units in Electrostatic Potential: Choose the correct option.",
+    "question": "The SI unit of electrostatic potential is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Volt",
+      "Coulomb",
+      "Farad",
+      "Ohm"
     ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "1 Volt = 1 Joule / 1 Coulomb.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 regarding Dimensional Formula in Electrostatic Potential: Choose the correct option.",
+    "question": "Work done in moving a charge between two points on an equipotential surface is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Zero",
+      "Positive",
+      "Negative",
+      "Infinite"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 regarding Constant Value in Electrostatic Potential: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Potential difference is zero.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 regarding Derivation Step in Electrostatic Potential: Choose the correct option.",
+    "question": "The capacitance of a parallel plate capacitor depends on:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Area of plates",
+      "Distance between plates",
+      "Dielectric constant",
+      "All of these"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 regarding Scalar vs Vector in Electrostatic Potential: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 3,
+    "solution": "C = K\u03b5\u2080A/d.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 regarding Proportionality in Electrostatic Potential: Choose the correct option.",
+    "question": "When a dielectric slab is inserted between the plates of a capacitor, its capacitance:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "Becomes zero"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 regarding Inverse Proportionality in Electrostatic Potential: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "C' = KC\u2080.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 regarding Graph Shape in Electrostatic Potential: Choose the correct option.",
+    "question": "The energy stored in a capacitor of capacitance C and potential V is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1/2 CV\u00b2",
+      "CV",
+      "1/2 C\u00b2V",
+      "QV"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 regarding Law or Principle in Electrostatic Potential: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Energy U = 1/2 CV\u00b2.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 regarding Formula Identification in Electrostatic Potential: Choose the correct option.",
+    "question": "The SI unit of capacitance is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Farad",
+      "Volt",
+      "Henry",
+      "Tesla"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 regarding Practical Application in Electrostatic Potential: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "1 Farad = 1 Coulomb/Volt.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 regarding Exception or Limitation in Electrostatic Potential: Choose the correct option.",
+    "question": "Three capacitors of 3\u03bcF each are connected in series. Equivalent capacitance is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1\u03bcF",
+      "9\u03bcF",
+      "6\u03bcF",
+      "3\u03bcF"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 regarding Numerical (Easy) in Electrostatic Potential: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "1/Cs = 1/3 + 1/3 + 1/3 = 1.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 regarding Numerical (Medium) in Electrostatic Potential: Choose the correct option.",
+    "question": "Three capacitors of 3\u03bcF each are connected in parallel. Equivalent capacitance is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "9\u03bcF",
+      "1\u03bcF",
+      "6\u03bcF",
+      "3\u03bcF"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 regarding Numerical (Hard) in Electrostatic Potential: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Cp = 3 + 3 + 3 = 9.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 regarding True/False in Electrostatic Potential: Choose the correct option.",
+    "question": "The electric potential due to a point charge varies as:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1/r",
+      "1/r\u00b2",
+      "r",
+      "r\u00b2"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 regarding Assertion Reason 1 in Electrostatic Potential: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "V = kq/r.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 regarding Assertion Reason 2 in Electrostatic Potential: Choose the correct option.",
+    "question": "The electric field is always _______ to the equipotential surface.",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Perpendicular",
+      "Parallel",
+      "At 45 degrees",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 regarding Right Hand Rule / Convention in Electrostatic Potential: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Field is the negative gradient of potential.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 regarding Electromagnetic Effect in Electrostatic Potential: Choose the correct option.",
+    "question": "Van de Graaff generator is used to:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Produce high voltage",
+      "Measure current",
+      "Store charge",
+      "Measure resistance"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 regarding Energy Conservation in Electrostatic Potential: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Builds up millions of volts.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 regarding Momentum Conservation in Electrostatic Potential: Choose the correct option.",
+    "question": "Potential at a point on the equatorial line of a dipole is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Zero",
+      "Infinite",
+      "Constant",
+      "Variable"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 regarding Limit Case in Electrostatic Potential: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Distances from +q and -q are equal.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 regarding Boundary Condition in Electrostatic Potential: Choose the correct option.",
+    "question": "The unit of dielectric strength is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "V/m",
+      "V.m",
+      "Farad",
+      "C/m"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 regarding Material Property in Electrostatic Potential: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Maximum electric field a material can withstand.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 regarding Temperature Dependence in Electrostatic Potential: Choose the correct option.",
+    "question": "1 Joule/Coulomb is same as:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1 Volt",
+      "1 Ampere",
+      "1 Farad",
+      "1 Ohm"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 regarding Frequency Dependence in Electrostatic Potential: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Definition of electric potential.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 regarding Phase Difference in Electrostatic Potential: Choose the correct option.",
+    "question": "If distance between plates of a capacitor is doubled, capacitance:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Halves",
+      "Doubles",
+      "Quadruples",
+      "Remains same"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 regarding Interference / Superposition in Electrostatic Potential: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "C \u221d 1/d.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 regarding Historical Discovery in Electrostatic Potential: Choose the correct option.",
+    "question": "Polar molecules have a:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Permanent dipole moment",
+      "Zero dipole moment",
+      "Temporary dipole",
+      "None"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
+    "correct_index": 0,
+    "solution": "Center of + and - charges do not coincide.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Non-polar molecules have a:",
+    "options": [
+      "Zero dipole moment",
+      "Permanent dipole",
+      "Infinite dipole",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Symmetric charge distribution.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Capacity of a spherical conductor of radius R is:",
+    "options": [
+      "4\u03c0\u03b5\u2080R",
+      "R/4\u03c0\u03b5\u2080",
+      "4\u03c0\u03b5\u2080R\u00b2",
+      "Zero"
+    ],
+    "correct_index": 0,
+    "solution": "C = 4\u03c0\u03b5\u2080R.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Electric potential is a:",
+    "options": [
+      "Scalar",
+      "Vector",
+      "Tensor",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Defined by work done (energy).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Earth's potential is taken as:",
+    "options": [
+      "Zero",
+      "Infinite",
+      "100 V",
+      "-100 V"
+    ],
+    "correct_index": 0,
+    "solution": "Standard reference point.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Energy density of a capacitor is proportional to:",
+    "options": [
+      "E\u00b2",
+      "E",
+      "1/E\u00b2",
+      "\u221aE"
+    ],
+    "correct_index": 0,
+    "solution": "u = 1/2 \u03b5\u2080E\u00b2.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "When capacitors are in parallel, which remains same?",
+    "options": [
+      "Potential",
+      "Charge",
+      "Energy",
+      "Capacitance"
+    ],
+    "correct_index": 0,
+    "solution": "Voltage is same across parallel branches.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "When capacitors are in series, which remains same?",
+    "options": [
+      "Charge",
+      "Potential",
+      "Energy",
+      "Capacitance"
+    ],
+    "correct_index": 0,
+    "solution": "Current/Charge flow is same.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Potential energy of two like charges ________ as they are brought closer.",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "Becomes zero"
+    ],
+    "correct_index": 0,
+    "solution": "Work is done against repulsion.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If area of plates is doubled, capacitance:",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains same",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "C \u221d A.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Dimensional formula of potential is:",
+    "options": [
+      "[ML\u00b2T\u207b\u00b3A\u207b\u00b9]",
+      "[MLT\u207b\u00b2A\u207b\u00b9]",
+      "[ML\u00b2T\u207b\u00b2]",
+      "[MLT\u207b\u00b3]"
+    ],
+    "correct_index": 0,
+    "solution": "V = W/q = [ML\u00b2T\u207b\u00b2]/[AT].",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Inside a charged hollow conductor, potential is:",
+    "options": [
+      "Constant",
+      "Zero",
+      "Infinite",
+      "Variable"
+    ],
+    "correct_index": 0,
+    "solution": "Potential is same as on the surface.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Inside a charged hollow conductor, electric field is:",
+    "options": [
+      "Zero",
+      "Constant",
+      "Infinite",
+      "Variable"
+    ],
+    "correct_index": 0,
+    "solution": "No flux enclosed.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A capacitor blocks:",
+    "options": [
+      "DC",
+      "AC",
+      "Both",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Infinite reactance for f=0.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Units of Electric Flux:",
+    "options": [
+      "V.m",
+      "V/m",
+      "Farad",
+      "Tesla"
+    ],
+    "correct_index": 0,
+    "solution": "\u03a6 = E.A = (V/m)*m\u00b2 = V.m.",
+    "difficulty": "Medium"
   }
 ]

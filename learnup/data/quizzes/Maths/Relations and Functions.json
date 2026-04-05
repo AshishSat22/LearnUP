@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 regarding Domain setup in Relations and Functions: Choose the correct option.",
+    "question": "Let R be a relation on N defined by x + 2y = 8. The domain of R is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "{2 4 6}",
+      "{1 2 3}",
+      "{2 4 8}",
+      "{4 8 10}"
     ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "For y=1 x=6; y=2 x=4; y=3 x=2. Domain is {2 4 6}.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 regarding Range calculation in Relations and Functions: Choose the correct option.",
+    "question": "If f: R \u2192 R is defined by f(x) = x\u00b2, then f is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "One-one onto",
+      "Many-one onto",
+      "One-one not onto",
+      "Neither one-one nor onto"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 regarding Function type in Relations and Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 3,
+    "solution": "f(1)=f(-1)=1 (not 1-1) and negative numbers have no pre-image (not onto).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 regarding Matrix operation in Relations and Functions: Choose the correct option.",
+    "question": "A relation R in set A={1 2 3} is R={(1 1) (2 2) (3 3)}. R is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Reflexive only",
+      "Symmetric only",
+      "Transitive only",
+      "Equivalence"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 regarding Determinant property in Relations and Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 3,
+    "solution": "It is reflexive symmetric and transitive.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 regarding Derivative rule in Relations and Functions: Choose the correct option.",
+    "question": "The number of reflexive relations on a set with n elements is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "2^n",
+      "2^(n\u00b2-n)",
+      "2^n\u00b2",
+      "n\u00b2"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 regarding Integral formula in Relations and Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Formula is 2^(n\u00b2-n).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 regarding Limits and Continuity in Relations and Functions: Choose the correct option.",
+    "question": "If n(A) = 3 and n(B) = 2, then the number of one-one functions from A to B is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "0",
+      "6",
+      "2",
+      "3"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 regarding Differential order in Relations and Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Since n(A) > n(B) no one-one function is possible.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 regarding Vector dot product in Relations and Functions: Choose the correct option.",
+    "question": "The function f: N \u2192 N defined by f(n) = 2n is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "One-one onto",
+      "Many-one onto",
+      "One-one but not onto",
+      "Many-one but not onto"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 regarding Vector cross product in Relations and Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Each n has unique 2n but odd numbers in codomain have no pre-image.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 regarding Equation roots in Relations and Functions: Choose the correct option.",
+    "question": "Let R = {(a b): a=b-2 b>6} be a relation on N. Which is correct?",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "(2 4) \u2208 R",
+      "(3 8) \u2208 R",
+      "(6 8) \u2208 R",
+      "(8 7) \u2208 R"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 regarding Maxima/Minima condition in Relations and Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "b must be > 6 and a = b-2. If b=8 a=6.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 regarding Area bounded in Relations and Functions: Choose the correct option.",
+    "question": "The maximum number of equivalence relations on set {1 2 3} is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "2",
+      "3",
+      "5",
+      "10"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 regarding Integration by parts in Relations and Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "The Bell number B\u2083 is 5.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 regarding Trigonometric identity in Relations and Functions: Choose the correct option.",
+    "question": "A function f: X \u2192 Y is onto if the range of f is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "X",
+      "Y",
+      "X \u2229 Y",
+      "Subset of Y"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 regarding Inverse property in Relations and Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "Definition of onto (surjective) function.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 regarding Differential linearity in Relations and Functions: Choose the correct option.",
+    "question": "If f(x) = 8x\u00b3 and g(x) = x^(1/3), then fog(x) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "8x",
+      "x",
+      "8x\u00b3",
+      "x/8"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 regarding Homogeneous check in Relations and Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "f(g(x)) = 8(x^(1/3))\u00b3 = 8x.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 regarding Particular solution boundary in Relations and Functions: Choose the correct option.",
+    "question": "The relation R = {(1 2) (2 1)} in set {1 2 3} is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Reflexive",
+      "Symmetric",
+      "Transitive",
+      "Equivalence"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 regarding Chain rule in Relations and Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 1,
+    "solution": "(1 2) and (2 1) exist but (1 1) does not.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 regarding Product rule in Relations and Functions: Choose the correct option.",
+    "question": "If A={1 2 3}, the number of relations containing (1 2) and (1 3) which are reflexive and symmetric but not transitive is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 regarding Quotient rule in Relations and Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Only one such relation exists.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 regarding L'Hopital's applicability in Relations and Functions: Choose the correct option.",
+    "question": "If f(x) = (4x+3)/(6x-4), then fof(x) is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "x",
+      "2x",
+      "4x",
+      "x/2"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 regarding Matrix inverse property in Relations and Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Substitution leads to (4((4x+3)/(6x-4))+3)/(6((4x+3)/(6x-4))-4) = x.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 regarding Symmetric/Skew check in Relations and Functions: Choose the correct option.",
+    "question": "A relation R on set A is called identity relation if R is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "{(a a): a \u2208 A}",
+      "{(a b): a \u2208 A}",
+      "{(a a): a \u2209 A}",
+      "Empty set"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 regarding Definite integral bounds in Relations and Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 0,
+    "solution": "Standard definition.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 regarding Odd/Even function integral in Relations and Functions: Choose the correct option.",
+    "question": "The number of onto functions from {1 2 ... n} to {a b} is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "2^n",
+      "2^n - 1",
+      "2^n - 2",
+      "2^(n-1)"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 regarding Graph intersection in Relations and Functions: Choose the correct option.",
-    "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
-    ],
-    "answer": "Correct Formula/Statement",
+    "correct_index": 2,
+    "solution": "Total functions (2^n) minus two non-onto functions (all map to a or all to b).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 regarding Parametric derivative in Relations and Functions: Choose the correct option.",
+    "question": "If R is a relation on Z defined by aRb iff a-b is divisible by 5, R is:",
     "options": [
-      "Correct Formula/Statement",
-      "Incorrect A",
-      "Incorrect B",
-      "Incorrect C"
+      "Reflexive only",
+      "Symmetric only",
+      "Equivalence",
+      "Transitive only"
     ],
-    "answer": "Correct Formula/Statement",
-    "difficulty": "Easy"
+    "correct_index": 2,
+    "solution": "Standard congruence modulo relation.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Signum function f: R \u2192 R is:",
+    "options": [
+      "One-one",
+      "Onto",
+      "Many-one",
+      "Bijective"
+    ],
+    "correct_index": 2,
+    "solution": "f(2)=f(3)=1 hence many-one.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The empty relation on a non-empty set A is:",
+    "options": [
+      "Symmetric",
+      "Reflexive",
+      "Equivalence",
+      "Not symmetric"
+    ],
+    "correct_index": 0,
+    "solution": "Empty relation is vacuously symmetric and transitive.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The universal relation on set A is:",
+    "options": [
+      "Reflexive only",
+      "Symmetric only",
+      "Equivalence",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "A x A is always reflexive symmetric and transitive.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If f(x) = x+7 and g(x) = x-7, then fog(x) is:",
+    "options": [
+      "x",
+      "x+14",
+      "x-14",
+      "7"
+    ],
+    "correct_index": 0,
+    "solution": "f(g(x)) = (x-7)+7 = x.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A function f is bijective if it is:",
+    "options": [
+      "One-one",
+      "Onto",
+      "Both 1-1 and onto",
+      "Neither"
+    ],
+    "correct_index": 2,
+    "solution": "Definition of bijection.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If n(A) = p and n(B) = q, number of relations from A to B is:",
+    "options": [
+      "2^(p+q)",
+      "2^(pq)",
+      "p^q",
+      "q^p"
+    ],
+    "correct_index": 1,
+    "solution": "Total subsets of A x B.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The relation 'is perpendicular to' on a set of lines is:",
+    "options": [
+      "Reflexive",
+      "Symmetric",
+      "Transitive",
+      "Equivalence"
+    ],
+    "correct_index": 1,
+    "solution": "If L1 \u22a5 L2 then L2 \u22a5 L1 but a line is not \u22a5 to itself.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The relation 'is parallel to' on a set of lines is:",
+    "options": [
+      "Reflexive",
+      "Symmetric",
+      "Transitive",
+      "Equivalence"
+    ],
+    "correct_index": 3,
+    "solution": "Every line is parallel to itself symmetric and transitive.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If f(x) = |x|, is it a bijection from R to R?",
+    "options": [
+      "Yes",
+      "No",
+      "Only for x>0",
+      "Only for x<0"
+    ],
+    "correct_index": 1,
+    "solution": "Not 1-1 (f(1)=f(-1)) and not onto (no negative range).",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Smallest equivalence relation on set A is:",
+    "options": [
+      "A x A",
+      "Identity relation",
+      "Empty relation",
+      "None"
+    ],
+    "correct_index": 1,
+    "solution": "The diagonal/identity relation is the smallest.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Greatest equivalence relation on set A is:",
+    "options": [
+      "A x A",
+      "Identity relation",
+      "Empty relation",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "The Cartesian product A x A.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which function is invertible?",
+    "options": [
+      "f(x)=x\u00b2",
+      "f(x)=x\u00b3",
+      "f(x)=sin x on R",
+      "f(x)=|x|"
+    ],
+    "correct_index": 1,
+    "solution": "f(x)=x\u00b3 is 1-1 and onto on R.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If f: A \u2192 B and g: B \u2192 C are one-one, then gof is:",
+    "options": [
+      "One-one",
+      "Onto",
+      "Many-one",
+      "Not defined"
+    ],
+    "correct_index": 0,
+    "solution": "Composition of two 1-1 functions is 1-1.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Set of all first elements of ordered pairs in R is:",
+    "options": [
+      "Range",
+      "Codomain",
+      "Domain",
+      "Relation"
+    ],
+    "correct_index": 2,
+    "solution": "Definition of domain.",
+    "difficulty": "Medium"
   }
 ]

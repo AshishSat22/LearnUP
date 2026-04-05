@@ -1,0 +1,362 @@
+[
+  {
+    "question": "Rutherford discovery:",
+    "options": [
+      "Electron",
+      "Proton",
+      "Nucleus",
+      "Neutron"
+    ],
+    "correct_index": 2,
+    "solution": "Central dense core discovery.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Radius atom:",
+    "options": [
+      "10\u207b\u00b9\u2070 m",
+      "10\u207b\u00b9\u2075 m",
+      "10\u207b\u2078 m",
+      "1 m"
+    ],
+    "correct_index": 0,
+    "solution": "Angstrom scale.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Radius nucleus:",
+    "options": [
+      "10\u207b\u00b9\u2070 m",
+      "10\u207b\u00b9\u2075 m",
+      "10\u207b\u00b9\u00b2 m",
+      "10\u207b\u2076 m"
+    ],
+    "correct_index": 1,
+    "solution": "Fermi scale.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Bohr model applies:",
+    "options": [
+      "Hydrogen",
+      "H-like ions",
+      "Both",
+      "All"
+    ],
+    "correct_index": 2,
+    "solution": "Single electron systems.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Angular momentum:",
+    "options": [
+      "nh/2\u03c0",
+      "nh/\u03c0",
+      "h/2\u03c0",
+      "n\u00b2h/2\u03c0"
+    ],
+    "correct_index": 0,
+    "solution": "Quantization.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Ground state H energy:",
+    "options": [
+      "-13.6 eV",
+      "13.6 eV",
+      "0",
+      "10.2 eV"
+    ],
+    "correct_index": 0,
+    "solution": "Standard binding.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Lyman series:",
+    "options": [
+      "Visible",
+      "Infrared",
+      "UV",
+      "X-ray"
+    ],
+    "correct_index": 2,
+    "solution": "n=1 transitions.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Balmer series:",
+    "options": [
+      "Visible",
+      "Infrared",
+      "UV",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "n=2 transitions.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Paschen series:",
+    "options": [
+      "Visible",
+      "Infrared",
+      "UV",
+      "None"
+    ],
+    "correct_index": 1,
+    "solution": "n=3 transitions.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Closest approach:",
+    "options": [
+      "KE",
+      "Charge",
+      "Both",
+      "Mass"
+    ],
+    "correct_index": 2,
+    "solution": "Energy conservation.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Isotopes:",
+    "options": [
+      "Neutrons",
+      "Protons",
+      "Nucleons",
+      "None"
+    ],
+    "correct_index": 1,
+    "solution": "Same Z different A.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Isobars:",
+    "options": [
+      "Protons",
+      "Neutrons",
+      "Nucleons",
+      "None"
+    ],
+    "correct_index": 2,
+    "solution": "Same A different Z.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "1 amu:",
+    "options": [
+      "1.66e-27 kg",
+      "9.1e-31 kg",
+      "1 kg",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "C-12 based unit.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Nuclear force:",
+    "options": [
+      "Short range",
+      "Long",
+      "Grav",
+      "Elec"
+    ],
+    "correct_index": 0,
+    "solution": "Acts in fm range.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Max binding energy:",
+    "options": [
+      "Oxygen",
+      "Iron",
+      "Uranium",
+      "Hydrogen"
+    ],
+    "correct_index": 1,
+    "solution": "Fe-56 stability.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Nuclear fission:",
+    "options": [
+      "Splits",
+      "Combines",
+      "Decays",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Heavy to light.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Nuclear fusion:",
+    "options": [
+      "Reactor",
+      "Sun",
+      "Bomb",
+      "None"
+    ],
+    "correct_index": 1,
+    "solution": "Light to heavy.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "1 amu energy:",
+    "options": [
+      "931 MeV",
+      "1 MeV",
+      "100 MeV",
+      "13.6 eV"
+    ],
+    "correct_index": 0,
+    "solution": "Mass-energy equiv.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Alpha particles:",
+    "options": [
+      "Hydrogen",
+      "Helium",
+      "Lithium",
+      "Oxygen"
+    ],
+    "correct_index": 1,
+    "solution": "He nuclei.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Beta decay:",
+    "options": [
+      "Electrons",
+      "Helium",
+      "Photons",
+      "Neutrons"
+    ],
+    "correct_index": 0,
+    "solution": "Carrier emission.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Gamma rays:",
+    "options": [
+      "Electrons",
+      "Protons",
+      "EM waves",
+      "Neutrons"
+    ],
+    "correct_index": 2,
+    "solution": "High energy photons.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Half-life:",
+    "options": [
+      "0.693/\u03bb",
+      "\u03bb/0.693",
+      "1/\u03bb",
+      "\u03bb\u00b2"
+    ],
+    "correct_index": 0,
+    "solution": "Decay rate.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Nuclear density:",
+    "options": [
+      "Constant",
+      "Variable",
+      "0",
+      "Inf"
+    ],
+    "correct_index": 0,
+    "solution": "Independent of A.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Control rods:",
+    "options": [
+      "Graphite",
+      "Cadmium",
+      "Uranium",
+      "Water"
+    ],
+    "correct_index": 1,
+    "solution": "Neutron absorber.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Moderator:",
+    "options": [
+      "Speed up",
+      "Slow down",
+      "Stop",
+      "Cool"
+    ],
+    "correct_index": 1,
+    "solution": "Slows neutrons.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Stability:",
+    "options": [
+      "N/Z",
+      "Mass",
+      "Vol",
+      "Color"
+    ],
+    "correct_index": 0,
+    "solution": "Neutron/Proton ratio.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Highest penetration:",
+    "options": [
+      "Alpha",
+      "Beta",
+      "Gamma",
+      "All"
+    ],
+    "correct_index": 2,
+    "solution": "Gamma ray property.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Highest ionisation:",
+    "options": [
+      "Alpha",
+      "Beta",
+      "Gamma",
+      "All"
+    ],
+    "correct_index": 0,
+    "solution": "Alpha charge property.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Mass defect:",
+    "options": [
+      "Nucleons minus nucleus",
+      "p and n",
+      "Atom/Ion",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Mass loss in binding.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Binding energy is:",
+    "options": [
+      "Required to break",
+      "Released in break",
+      "Same as KE",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Energy to separate nucleons.",
+    "difficulty": "Medium"
+  }
+]

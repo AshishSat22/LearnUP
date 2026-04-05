@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 on Basic Definition for Coordination Compounds: Which of the following is correct?",
+    "question": "Central metal in Chlorophyll is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Mg",
+      "Fe",
+      "Co",
+      "Zn"
     ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Magnesium porphyrin complex.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 on Nomenclature for Coordination Compounds: Which of the following is correct?",
+    "question": "Ligand that can bind through two different atoms is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Ambidentate",
+      "Bidentate",
+      "Chelate",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 on Preparation Method 1 for Coordination Compounds: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Examples: SCN- and NCS-.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 on Preparation Method 2 for Coordination Compounds: Which of the following is correct?",
+    "question": "Oxidation state of Ni in [Ni(CO)4] is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "0",
+      "2",
+      "4",
+      "1"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 on Physical Property: Boiling Point for Coordination Compounds: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Carbonyl is a neutral ligand.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 on Physical Property: Solubility for Coordination Compounds: Which of the following is correct?",
+    "question": "The coordination number of Co in [Co(en)3]3+ is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "6",
+      "3",
+      "2",
+      "1"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 on Chemical Property: Oxidation for Coordination Compounds: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Ethylenediamine (en) is bidentate.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 on Chemical Property: Reduction for Coordination Compounds: Which of the following is correct?",
+    "question": "Shape of [Ni(CN)4]2- is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Square planar",
+      "Tetrahedral",
+      "Octahedral",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 on Reaction with Acids for Coordination Compounds: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Strong field CN- causes dsp2 hybridization.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 on Reaction with Bases for Coordination Compounds: Which of the following is correct?",
+    "question": "EDTA is a _______ ligand:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Hexadentate",
+      "Bidentate",
+      "Tetradentate",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 on Special Name Reaction 1 for Coordination Compounds: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Binds through 2N and 4O atoms.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 on Special Name Reaction 2 for Coordination Compounds: Which of the following is correct?",
+    "question": "Vitamin B12 contains:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Cobalt",
+      "Iron",
+      "Magnesium",
+      "Zinc"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 on Uses and Applications for Coordination Compounds: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Cyanocobalamin complex.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 on Environmental Impact for Coordination Compounds: Which of the following is correct?",
+    "question": "Splitting of d-orbitals in octahedral field is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "t2g and eg",
+      "e and t",
+      "sp3",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 on Analytical Test for Coordination Compounds: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Lower t2g and higher eg.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 on Mechanism Step 1 for Coordination Compounds: Which of the following is correct?",
+    "question": "Example of homoleptic complex is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "[Co(NH3)6]Cl3",
+      "[Co(NH3)4Cl2]Cl",
+      "K[PtCl3(C2H4)]",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 on Mechanism Step 2 for Coordination Compounds: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Only one type of ligand present.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 on Catalyst used for Coordination Compounds: Which of the following is correct?",
+    "question": "The IUPAC name of K3[Fe(CN)6] is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Potassium hexacyanoferrate(III)",
+      "Potassium ferricyanide",
+      "Iron potassium cyanide",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 on Temperature conditions for Coordination Compounds: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Standard naming rules apply.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 on Pressure conditions for Coordination Compounds: Which of the following is correct?",
+    "question": "Isomerism shown by [Co(NH3)5SO4]Br and [Co(NH3)5Br]SO4:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Ionization",
+      "Linkage",
+      "Solvate",
+      "Coordination"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 on Byproducts formed for Coordination Compounds: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Different ions produced in solution.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 on Thermodynamics of reaction for Coordination Compounds: Which of the following is correct?",
+    "question": "Cis-platin is used for:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Cancer treatment",
+      "Water softening",
+      "Fertilizer",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 on Kinetics of reaction for Coordination Compounds: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Cis-diamminedichloroplatinum(II).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 on Isomerism for Coordination Compounds: Which of the following is correct?",
+    "question": "Strong field ligands favor:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Low spin complex",
+      "High spin complex",
+      "Paramagnetism",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 on Stereochemistry for Coordination Compounds: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Force pairing of electrons.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 on Electronic effect for Coordination Compounds: Which of the following is correct?",
+    "question": "Color of coordination compounds is due to:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "d-d transitions",
+      "Ligand color",
+      "Metal size",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 on Steric effect for Coordination Compounds: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Absorption of visible light.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 on Industrial preparation for Coordination Compounds: Which of the following is correct?",
+    "question": "The EAN of Fe in [Fe(CN)6]4- is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "36",
+      "34",
+      "35",
+      "18"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 on Laboratory preparation for Coordination Compounds: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Z - ON + 2(CN) = 26 - 2 + 12 = 36.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 on Exceptional case for Coordination Compounds: Which of the following is correct?",
+    "question": "Linkage isomerism is shown by ligands like:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "NO2-",
+      "NH3",
+      "H2O",
+      "Cl-"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
+    "correct_index": 0,
+    "solution": "Can bind through N or O.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The geometry of [Fe(H2O)6]3+ is:",
+    "options": [
+      "Octahedral",
+      "Tetrahedral",
+      "Square planar",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Coordination number 6.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Crystal Field Stabilisation Energy (CFSE) for d0 is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "No d-electrons to occupy orbitals.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A bidentate ligand is:",
+    "options": [
+      "Oxalate",
+      "Ammonia",
+      "Chloride",
+      "Cyanide"
+    ],
+    "correct_index": 0,
+    "solution": "C2O4 2- binds through two oxygens.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Optical isomerism is common in:",
+    "options": [
+      "Octahedral chelates",
+      "Linear complexes",
+      "Planar",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Non-superimposable mirror images.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Metal-Carbon bond in metal carbonyls has:",
+    "options": [
+      "Both sigma and pi character",
+      "Only sigma",
+      "Only pi",
+      "Ionic"
+    ],
+    "correct_index": 0,
+    "solution": "Synergic bonding effect.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which is an outer orbital complex?",
+    "options": [
+      "[CoF6]3-",
+      "[Co(NH3)6]3+",
+      "[Fe(CN)6]3-",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Weak field F- doesn't pair electrons.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Double salt example:",
+    "options": [
+      "Mohr's Salt",
+      "Potassium ferrocyanide",
+      "Cis-platin",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Dissociates completely into simple ions.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Valence Bond Theory explains:",
+    "options": [
+      "Geometry and Magnetism",
+      "Color",
+      "Thermodynamics",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Uses hybridization concept.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Primary valency in Werner's theory corresponds to:",
+    "options": [
+      "Oxidation state",
+      "Coordination number",
+      "Charge of ligand",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Satisfied by anions.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Coordination sphere includes:",
+    "options": [
+      "Metal and Ligands",
+      "Counter ions",
+      "Solvent",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Written inside square brackets.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Magnetic moment of [MnCl4]2- is approx:",
+    "options": [
+      "5.9 BM",
+      "1.7 BM",
+      "2.8 BM",
+      "0"
+    ],
+    "correct_index": 0,
+    "solution": "Mn2+ (d5) with weak field Cl-.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Synergic bonding ________ the M-C bond:",
+    "options": [
+      "Strengthens",
+      "Weakens",
+      "Does not affect",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Increases bond order.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Hybridization for tetrahedral geometry is:",
+    "options": [
+      "sp3",
+      "dsp2",
+      "d2sp3",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Four equivalent orbitals.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Complexes with coordination number 4 can be:",
+    "options": [
+      "Tetrahedral or Sq Planar",
+      "Octahedral",
+      "Linear",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Depends on metal and ligand field.",
+    "difficulty": "Medium"
   }
 ]

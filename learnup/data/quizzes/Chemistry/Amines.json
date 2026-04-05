@@ -1,332 +1,362 @@
 [
   {
-    "question": "Question 1 on Basic Definition for Amines: Which of the following is correct?",
+    "question": "Hinsberg reagent is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Benzene sulfonyl chloride",
+      "HCl + Zn",
+      "NaNO2 + HCl",
+      "None"
     ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Used to distinguish 1\u00b0 2\u00b0 and 3\u00b0 amines.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 2 on Nomenclature for Amines: Which of the following is correct?",
+    "question": "Hoffmann bromamide degradation produces:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Amine with one less C",
+      "Higher amine",
+      "Amide",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 3 on Preparation Method 1 for Amines: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Conversion of RCONH2 to RNH2.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 4 on Preparation Method 2 for Amines: Which of the following is correct?",
+    "question": "Gabriel phthalimide synthesis is used for:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Primary aliphatic amines",
+      "Secondary amines",
+      "Aromatic amines",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 5 on Physical Property: Boiling Point for Amines: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Pure primary amines are produced.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 6 on Physical Property: Solubility for Amines: Which of the following is correct?",
+    "question": "Carbylamine test is shown by:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Primary amines",
+      "Secondary",
+      "Tertiary",
+      "All"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 7 on Chemical Property: Oxidation for Amines: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Produces foul smelling isocyanides.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 8 on Chemical Property: Reduction for Amines: Which of the following is correct?",
+    "question": "Which is more basic in aqueous solution?",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Dimethylamine",
+      "Methylamine",
+      "Trimethylamine",
+      "Ammonia"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 9 on Reaction with Acids for Amines: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Order: 2\u00b0 > 1\u00b0 > 3\u00b0 > NH3 (for methyl).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 10 on Reaction with Bases for Amines: Which of the following is correct?",
+    "question": "Aniline + NaNO2 + HCl at 0-5\u00b0C gives:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Benzene diazonium chloride",
+      "Nitrobenzene",
+      "Phenol",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 11 on Special Name Reaction 1 for Amines: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Diazotization reaction.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 12 on Special Name Reaction 2 for Amines: Which of the following is correct?",
+    "question": "Reduction of nitriles with LiAlH4 gives:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Primary amines",
+      "Secondary",
+      "Amides",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 13 on Uses and Applications for Amines: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Addition of four hydrogens.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 14 on Environmental Impact for Amines: Which of the following is correct?",
+    "question": "Mustard oil reaction is shown by:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Primary amines",
+      "Secondary",
+      "Tertiary",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 15 on Analytical Test for Amines: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Reaction with CS2 and HgCl2.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 16 on Mechanism Step 1 for Amines: Which of the following is correct?",
+    "question": "Ammonolysis of alkyl halides gives:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Mixture of amines",
+      "Only 1\u00b0",
+      "Only 2\u00b0",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 17 on Mechanism Step 2 for Amines: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Excess ammonia favors 1\u00b0.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 18 on Catalyst used for Amines: Which of the following is correct?",
+    "question": "Aniline is ________ basic than Ammonia:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Less",
+      "More",
+      "Equally",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 19 on Temperature conditions for Amines: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Lone pair on N is delocalized into benzene ring.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 20 on Pressure conditions for Amines: Which of the following is correct?",
+    "question": "Coupling reaction of diazonium salts gives:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Azo dyes",
+      "Benzene",
+      "Phenol",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 21 on Byproducts formed for Amines: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Colored compounds (Orange/Yellow).",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 22 on Thermodynamics of reaction for Amines: Which of the following is correct?",
+    "question": "Reduction of nitrobenzene with Sn/HCl gives:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Aniline",
+      "Azobenzene",
+      "Nitrosobenzene",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 23 on Kinetics of reaction for Amines: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Complete reduction.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 24 on Isomerism for Amines: Which of the following is correct?",
+    "question": "Nitration of Aniline gives m-nitroaniline in acid because:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "NH3+ is m-directing",
+      "NH2 is o/p",
+      "Acid is weak",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 25 on Stereochemistry for Amines: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Aniline gets protonated.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 26 on Electronic effect for Amines: Which of the following is correct?",
+    "question": "Secondary amines + Hinsberg reagent gives:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Insoluble product in alkali",
+      "Soluble product",
+      "No reaction",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
-  },
-  {
-    "question": "Question 27 on Steric effect for Amines: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "No replaceable H on Nitrogen in product.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 28 on Industrial preparation for Amines: Which of the following is correct?",
+    "question": "Tertiary amines + Hinsberg reagent gives:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "No reaction",
+      "Insoluble product",
+      "Soluble product",
+      "None"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Hard"
-  },
-  {
-    "question": "Question 29 on Laboratory preparation for Amines: Which of the following is correct?",
-    "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": "Option A (Correct)",
+    "correct_index": 0,
+    "solution": "Cannot form sulfonamide.",
     "difficulty": "Medium"
   },
   {
-    "question": "Question 30 on Exceptional case for Amines: Which of the following is correct?",
+    "question": "IUPAC name of Aniline is:",
     "options": [
-      "Option A (Correct)",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Benzenamine",
+      "Phenylamine",
+      "Amino benzene",
+      "All"
     ],
-    "answer": "Option A (Correct)",
-    "difficulty": "Easy"
+    "correct_index": 3,
+    "solution": "Standard and common IUPAC names.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Isocyanide is also called:",
+    "options": [
+      "Carbylamine",
+      "Nitrile",
+      "Amide",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Functional group -NC.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Basicity of amines in gas phase:",
+    "options": [
+      "3\u00b0 > 2\u00b0 > 1\u00b0 > NH3",
+      "1\u00b0 > 2\u00b0 > 3\u00b0",
+      "All same",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Based only on +I effect.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Acetylation of Aniline gives:",
+    "options": [
+      "Acetanilide",
+      "Benzylamine",
+      "Nitrobenzene",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Used to protect NH2 group.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Aniline + Bromine water gives:",
+    "options": [
+      "2 4 6-Tribromoaniline",
+      "o-Bromoaniline",
+      "p-Bromoaniline",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "White precipitate.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which has highest boiling point?",
+    "options": [
+      "Primary amines",
+      "Secondary",
+      "Tertiary",
+      "Hydrocarbons"
+    ],
+    "correct_index": 0,
+    "solution": "Due to two H atoms available for H-bonding.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Solubility of amines in water ________ with molar mass:",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Same",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Increasing hydrophobic part.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Reaction of 1\u00b0 amine with HNO2 gives:",
+    "options": [
+      "Alcohol + N2",
+      "Nitro compound",
+      "Ether",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Aliphatic diazonium salts are unstable.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Mendius reaction involves reduction of:",
+    "options": [
+      "Nitriles",
+      "Amides",
+      "Nitro",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Using Na/Ethanol.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Amino group is:",
+    "options": [
+      "o/p directing",
+      "m-directing",
+      "Deactivating",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Highly activating.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Sulfanilic acid exists as:",
+    "options": [
+      "Zwitterion",
+      "Anion",
+      "Cation",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Contains both NH2 and SO3H.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Libermann nitroso test is for:",
+    "options": [
+      "Secondary amines",
+      "Primary",
+      "Tertiary",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Gives a color change.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Reduction of amides gives:",
+    "options": [
+      "Amines",
+      "Aldehydes",
+      "Alcohols",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Using LiAlH4.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Bromination of Acetanilide followed by hydrolysis gives:",
+    "options": [
+      "p-Bromoaniline",
+      "o-Bromoaniline",
+      "m-Bromoaniline",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Selective para-bromination.",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Dye test is used for:",
+    "options": [
+      "Aromatic primary amines",
+      "Aliphatic amines",
+      "Amides",
+      "None"
+    ],
+    "correct_index": 0,
+    "solution": "Formation of azo dye with Beta-naphthol.",
+    "difficulty": "Medium"
   }
 ]
