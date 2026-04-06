@@ -39,6 +39,29 @@ const quizQuestions = {{ questions|tojson }};
 const subject = "{{ subject }}";
 const chapter = "{{ chapter }}";
 
+// Helper to shuffle options and maintain correct index
+function shuffleQuiz() {
+    quizQuestions.forEach(q => {
+        // 1. Identify the correct answer string
+        let correctValue = "";
+        if (q.correct_index !== undefined) {
+            correctValue = q.options[q.correct_index];
+        } else if (q.answer) {
+            correctValue = q.answer;
+        }
+
+        // 2. Shuffle options using Fisher-Yates
+        for (let i = q.options.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [q.options[i], q.options[j]] = [q.options[j], q.options[i]];
+        }
+
+        // 3. Update correct_index to the new position
+        q.correct_index = q.options.indexOf(correctValue);
+    });
+}
+shuffleQuiz();
+
 let currentIdx = 0;
 let score = 0;
 const userAnswers = new Array(quizQuestions.length).fill(null);
