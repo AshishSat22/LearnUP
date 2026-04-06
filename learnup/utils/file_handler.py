@@ -4,6 +4,7 @@ file_handler.py — All file I/O helpers for LearnUP.
 
 import os
 import json
+import urllib.parse
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(BASE_DIR, "data")
@@ -60,7 +61,20 @@ def list_quiz_chapters(subject):
 
 def load_videos(subject, chapter):
     """Return list of (title, url) tuples from data/resources/<subject>/<chapter>.txt."""
+    chapter = urllib.parse.unquote(chapter).replace("%20", " ")
     path = _data_path("resources", subject, f"{chapter}.txt")
+    
+    # Sophisticated Fallback: Try case-insensitive and underscore match
+    if not os.path.isfile(path):
+        subject_path = _data_path("resources", subject)
+        if os.path.isdir(subject_path):
+            norm_target = chapter.lower().replace(" ", "").replace("_", "")
+            for f in os.listdir(subject_path):
+                f_name, f_ext = os.path.splitext(f)
+                if f_ext == ".txt" and f_name.lower().replace(" ", "").replace("_", "") == norm_target:
+                    path = os.path.join(subject_path, f)
+                    break
+
     videos = []
     if not os.path.isfile(path):
         return videos
@@ -101,9 +115,21 @@ def search_videos(query, subject_filter=None):
 
 def load_questions(subject, chapter):
     """Return list of dicts (JSON) or raw text if txt file."""
+    chapter = urllib.parse.unquote(chapter).replace("%20", " ")
     json_path = _data_path("questions", "sample", subject, f"{chapter}.json")
     txt_path = _data_path("questions", "sample", subject, f"{chapter}.txt")
     
+    # Fallback for questions
+    if not os.path.isfile(json_path) and not os.path.isfile(txt_path):
+        sub_path = _data_path("questions", "sample", subject)
+        if os.path.isdir(sub_path):
+            norm_target = chapter.lower().replace(" ", "").replace("_", "")
+            for f in os.listdir(sub_path):
+                f_name, f_ext = os.path.splitext(f)
+                if f_name.lower().replace(" ", "").replace("_", "") == norm_target:
+                    if f_ext == ".json": json_path = os.path.join(sub_path, f)
+                    if f_ext == ".txt": txt_path = os.path.join(sub_path, f)
+
     if os.path.isfile(json_path):
         try:
             with open(json_path, "r", encoding="utf-8") as f:
@@ -157,7 +183,19 @@ def search_questions(query, subject_filter=None):
 
 def load_quiz(subject, chapter):
     """Return list of question dicts from data/quizzes/<subject>/<chapter>.json."""
+    chapter = urllib.parse.unquote(chapter).replace("%20", " ")
     path = _data_path("quizzes", subject, f"{chapter}.json")
+    
+    if not os.path.isfile(path):
+        sub_path = _data_path("quizzes", subject)
+        if os.path.isdir(sub_path):
+            norm_target = chapter.lower().replace(" ", "").replace("_", "")
+            for f in os.listdir(sub_path):
+                f_name, f_ext = os.path.splitext(f)
+                if f_ext == ".json" and f_name.lower().replace(" ", "").replace("_", "") == norm_target:
+                    path = os.path.join(sub_path, f)
+                    break
+
     if not os.path.isfile(path):
         return []
     try:
