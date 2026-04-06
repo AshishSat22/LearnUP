@@ -22,6 +22,27 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
+    // Mobile Menu Toggle
+    const menuToggle = document.getElementById('menu-toggle');
+    const mainNav = document.getElementById('main-nav');
+
+    if (menuToggle && mainNav) {
+        menuToggle.addEventListener('click', () => {
+            mainNav.classList.toggle('active');
+            menuToggle.textContent = mainNav.classList.contains('active') ? '✕' : '☰';
+        });
+
+        // Close menu when clicking a link
+        mainNav.querySelectorAll('.nav-item').forEach(link => {
+            link.addEventListener('click', () => {
+                if (window.innerWidth <= 768) {
+                    mainNav.classList.remove('active');
+                    menuToggle.textContent = '☰';
+                }
+            });
+        });
+    }
+
     // Single Video Playback Logic
     const videos = document.querySelectorAll('video');
     videos.forEach(video => {

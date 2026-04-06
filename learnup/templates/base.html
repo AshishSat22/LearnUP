@@ -17,7 +17,8 @@
                     <span class="icon">⚡</span> LearnUP
                 </a>
             </div>
-            <nav class="nav-links">
+            <button id="menu-toggle" class="btn-icon mobile-only" aria-label="Toggle Menu">☰</button>
+            <nav class="nav-links" id="main-nav">
                 <a href="{{ url_for('index') }}" class="nav-item {% if request.endpoint == 'index' %}active{% endif %}">🏠 Home</a>
                 <a href="{{ url_for('official_papers_index') }}" class="nav-item {% if 'official_papers' in request.endpoint %}active{% endif %}">📄 Official Papers</a>
                 <a href="{{ url_for('external_resources_view') }}" class="nav-item {% if request.endpoint == 'external_resources_view' %}active{% endif %}">🌐 External Hub</a>
