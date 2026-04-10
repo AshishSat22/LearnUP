@@ -25,5 +25,14 @@
     "accuracy": 80.0,
     "difficulty": "Mixed",
     "date": "2026-03-24 14:14"
+  },
+  {
+    "topic": "Test Topic 3",
+    "subject": "Physics",
+    "score": 5,
+    "total": 10,
+    "accuracy": 50.0,
+    "difficulty": "All",
+    "date": "2026-04-11 04:47"
   }
 ]
